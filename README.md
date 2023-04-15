@@ -6,7 +6,7 @@ This repo contains the source code and documentation powering [domscript.pro](ht
 
 ### Installation
 
-1. `cd domscript_pro` to go into the project root
+1. `cd domscript.pro` to go into the project root
 2. `yarn` to install the website's npm dependencies
 
 ### Running locally
