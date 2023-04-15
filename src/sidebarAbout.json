@@ -14,6 +14,10 @@
         {
           "title": "Meet the Team",
           "path": "/about/team"
+        },
+        {
+          "title": "Watch the Videos",
+          "path": "/about/videos"
         }
       ]
     }
