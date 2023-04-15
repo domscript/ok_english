@@ -1,0 +1,24 @@
+{
+  "title": "Blog",
+  "path": "/blog",
+  "routes": [
+    {
+      "hasSectionHeader": true,
+      "sectionHeader": "STAY INFORMED"
+    },
+    {
+      "title": "Blog",
+      "path": "/blog",
+      "skipBreadcrumb": true,
+      "routes": [
+        {
+          "title": "Introducing domscript.pro",
+          "titleForHomepage": "Introducing domscript.pro",
+          "icon": "blog",
+          "date": "April 15, 2023",
+          "path": "/blog/2023/04/15/introducing-domscript-pro"
+        }
+      ]
+    }
+  ]
+}

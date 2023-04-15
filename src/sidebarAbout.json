@@ -1,0 +1,21 @@
+{
+  "title": "About",
+  "path": "/about",
+  "routes": [
+    {
+      "hasSectionHeader": true,
+      "sectionHeader": "GET INVOLVED"
+    },
+    {
+      "title": "About",
+      "path": "/about",
+      "skipBreadcrumb": true,
+      "routes": [
+        {
+          "title": "Meet the Team",
+          "path": "/about/team"
+        }
+      ]
+    }
+  ]
+}
