@@ -176,7 +176,7 @@ export class Game {
     this.ui.draw(context);
     this.perks.forEach((perk) => perk.draw(context));
     this.barrels.forEach((barrel) => barrel.draw(context));
-    this.program.at(-1)?.draw(context);
+    this.program[this.program.length - 1]?.draw(context);
     if (this.program.length) {
       setTimeout(() => {
         this.program = [];
