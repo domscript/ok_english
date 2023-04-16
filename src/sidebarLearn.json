@@ -1,0 +1,32 @@
+{
+  "title": "Learn",
+  "path": "/learn",
+  "routes": [
+    {
+      "hasSectionHeader": true,
+      "sectionHeader": "GET STARTED"
+    },
+    {
+      "title": "Quick Start",
+      "path": "/learn",
+      "routes": [
+        {
+          "title": "Fundamentals",
+          "path": "/learn/fundamentals"
+        },
+        {
+          "title": "Values in JavaScript",
+          "path": "/learn/truthy-and-falsy-values"
+        },
+        {
+          "title": "Functions in JavaScript",
+          "path": "/learn/functions"
+        },
+        {
+          "title": "Classes in JavaScript",
+          "path": "/learn/classes"
+        }
+      ]
+    }
+  ]
+}

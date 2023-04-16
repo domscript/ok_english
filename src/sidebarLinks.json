@@ -1,0 +1,14 @@
+{
+  "title": "Links",
+  "path": "/links/react",
+  "routes": [
+    {
+      "hasSectionHeader": true,
+      "sectionHeader": "Vanilla"
+    },
+    {
+      "title": "In Work",
+      "path": "/links/react"
+    }
+  ]
+}
