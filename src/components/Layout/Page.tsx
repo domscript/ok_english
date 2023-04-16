@@ -15,6 +15,7 @@ import {TocContext} from '../MDX/TocContext';
 import type {TocItem} from 'components/MDX/TocContext';
 import type {RouteItem} from 'components/Layout/getRouteMeta';
 import {HomeContent} from './HomeContent';
+import {FlintStonesContent} from 'components/Flintstones/FlintStonesContent';
 import {TopNav} from './TopNav';
 import cn from 'classnames';
 
@@ -39,10 +40,13 @@ export function Page({children, toc, routeTree, meta, section}: PageProps) {
   const description = meta.description || route?.description || '';
   const isHomePage = cleanedPath === '/';
   const isBlogIndex = cleanedPath === '/blog';
+  const isGame = cleanedPath === '/about/flintstones';
 
   let content;
   if (isHomePage) {
     content = <HomeContent />;
+  } else if (isGame) {
+    content = <FlintStonesContent />;
   } else {
     content = (
       <div className="pl-0">
@@ -96,7 +100,6 @@ export function Page({children, toc, routeTree, meta, section}: PageProps) {
   if (section === 'learn' || (section === 'blog' && !isBlogIndex)) {
     searchOrder = order;
   }
-
   return (
     <>
       <Seo
