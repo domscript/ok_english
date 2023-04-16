@@ -18,6 +18,10 @@
         {
           "title": "Watch the Videos",
           "path": "/about/videos"
+        },
+        {
+          "title": "Play the Game",
+          "path": "/about/flintstones"
         }
       ]
     }
