@@ -1,0 +1,38 @@
+{
+  "title": "React Docs",
+  "path": "/",
+  "routes": [
+    {
+      "hasSectionHeader": true,
+      "sectionHeader": "GET STARTED"
+    },
+    {
+      "title": "Quick Start",
+      "path": "/learn"
+    },
+    {
+      "hasSectionHeader": true,
+      "sectionHeader": "Links"
+    },
+    {
+      "title": "Links",
+      "path": "/links/react"
+    },
+    {
+      "hasSectionHeader": true,
+      "sectionHeader": "GET INVOLVED"
+    },
+    {
+      "title": "React About",
+      "path": "/about"
+    },
+    {
+      "hasSectionHeader": true,
+      "sectionHeader": "STAY INFORMED"
+    },
+    {
+      "title": "React Blog",
+      "path": "/blog"
+    }
+  ]
+}
