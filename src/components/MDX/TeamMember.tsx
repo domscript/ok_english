@@ -43,7 +43,7 @@ export function TeamMember({
       <div className="flex flex-col sm:flex-row height-auto">
         <div
           className="hidden sm:block basis-2/5 rounded overflow-hidden relative"
-          style={{width: 300, height: 250}}>
+          style={{width: 300, height: 300}}>
           <Image src={photo} layout="fill" objectFit="cover" alt={name} />
         </div>
         <div
