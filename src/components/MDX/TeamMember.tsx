@@ -47,7 +47,7 @@ export function TeamMember({
           <Image src={photo} layout="fill" objectFit="cover" alt={name} />
         </div>
         <div
-          style={{minHeight: 300}}
+          style={{minHeight: 450}}
           className="block w-full sm:hidden flex-grow basis-2/5 rounded overflow-hidden relative">
           <Image src={photo} layout="fill" objectFit="cover" alt={name} />
         </div>
@@ -61,7 +61,7 @@ export function TeamMember({
             {twitter && (
               <div className="mr-4">
                 <ExternalLink
-                  aria-label="React on Twitter"
+                  aria-label="Twitter Profile"
                   href={`https://twitter.com/${twitter}`}
                   className="hover:text-primary dark:text-primary-dark flex flex-row items-center">
                   <IconTwitter className="pr-2" />
