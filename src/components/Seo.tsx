@@ -37,7 +37,7 @@ export const Seo = withRouter(
         )}
         {/* <link rel="icon" type="image/x-icon" href={favicon} />
       <link rel="apple-touch-icon" href={favicon} />  @todo favicon */}
-        <meta property="fb:app_id" content="623268441017527" />
+        <meta property="fb:app_id" content="606893941325399" />
         {/* OPEN GRAPH */}
         <meta property="og:type" key="og:type" content="website" />
         <meta
