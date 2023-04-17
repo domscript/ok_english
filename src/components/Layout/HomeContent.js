@@ -156,12 +156,22 @@ export function HomeContent() {
             <div className="max-w-3xl lg:max-w-7xl gap-5 flex flex-col lg:flex-row lg:px-5">
               <div className="w-full lg:w-6/12 max-w-3xl flex flex-col items-start justify-start lg:pl-5 lg:pr-10">
                 <Header>Hey-Hey-Hey my new site is ready</Header>
+                <div className="my-8 relative w-full h-0 overflow-hidden pt-[56.25%]">
+                  <iframe
+                    className="absolute inset-0 w-full h-full"
+                    frameBorder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowFullScreen
+                    title="YouTube video player"
+                    src="https://www.youtube.com/embed/nQElpSLJ5mY"
+                  />
+                </div>
                 <div className="order-last pt-5">
                   <Para>Thanks React and React team!</Para>
 
                   <div className="hidden lg:flex justify-start w-full">
                     <CTA color="gray" icon="news" href="/blog">
-                      Read more React news
+                      Read more Domscript.pro news
                     </CTA>
                   </div>
                 </div>
@@ -169,7 +179,7 @@ export function HomeContent() {
               <div className="w-full lg:w-6/12">
                 <p className="uppercase tracking-wide font-bold text-sm text-tertiary dark:text-tertiary-dark flex flex-row gap-2 items-center mt-5 lg:-mt-2 w-full">
                   <IconChevron />
-                  Latest React News
+                  Latest Domscript.pro News
                 </p>
                 <div className="flex-col sm:flex-row flex-wrap flex gap-5 text-left my-5">
                   <div className="flex-1 min-w-[40%]">
@@ -187,7 +197,7 @@ export function HomeContent() {
                 </div>
                 <div className="flex lg:hidden justify-start w-full">
                   <CTA color="gray" icon="news" href="/blog">
-                    Read more React news
+                    Read more news
                   </CTA>
                 </div>
               </div>
