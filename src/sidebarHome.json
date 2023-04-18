@@ -1,5 +1,5 @@
 {
-  "title": "React Docs",
+  "title": "Docs",
   "path": "/",
   "routes": [
     {
@@ -23,7 +23,7 @@
       "sectionHeader": "GET INVOLVED"
     },
     {
-      "title": "React About",
+      "title": "About",
       "path": "/about"
     },
     {
@@ -31,7 +31,7 @@
       "sectionHeader": "STAY INFORMED"
     },
     {
-      "title": "React Blog",
+      "title": "Blog",
       "path": "/blog"
     }
   ]
