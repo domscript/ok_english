@@ -1,15 +1,26 @@
-const fs = require('fs');
+// @ts-check
 
-module.exports = function walk(dir) {
+import fs from 'fs';
+
+/**
+ * Walk throw all directories and return relative paths for all *.md files
+ * @param {string} dir
+ * @returns {Array<string>}
+ */
+export function walk(dir) {
+  /**
+   * Array of file names
+   * @type {Array<string>} relative paths for all *.md files
+   */
   let results = [];
-  /** 
+  /**
    * If the param is a directory we can return the file
    */
-  if(dir.includes('md')){
+  if (dir.includes('md')) {
     return [dir];
   }
   const list = fs.readdirSync(dir);
-  list.forEach(function (file) {
+  list.forEach(file => {
     file = dir + '/' + file;
     const stat = fs.statSync(file);
     if (stat && stat.isDirectory()) {
@@ -21,4 +32,4 @@ module.exports = function walk(dir) {
     }
   });
   return results;
-};
+}

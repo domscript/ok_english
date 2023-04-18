@@ -1,11 +1,7 @@
-// To do: Make this ESM.
-// To do: properly check heading numbers (headings with the same text get
-// numbered, this script doesn’t check that).
-
-const assert = require('assert');
-const fs = require('fs');
-const GithubSlugger = require('github-slugger');
-const walk = require('./walk');
+import assert from 'assert';
+import fs from 'fs';
+import GithubSlugger from 'github-slugger';
+import {walk} from './walk.mjs';
 
 let modules;
 
@@ -36,13 +32,14 @@ function addHeaderID(line, slugger) {
   );
   const autoId = head.data.id;
   const existingId = match[4];
-  const id = existingId || autoId;
+  const regex = / /g;
+  const title = match[2].replaceAll(regex, '-').toLowerCase();
+  const id = existingId || slugger.slug(autoId);
   // Ignore numbers:
   const cleanExisting = existingId
     ? existingId.replace(/-\d+$/, '')
     : undefined;
   const cleanAuto = autoId.replace(/-\d+$/, '');
-
   if (cleanExisting && cleanExisting !== cleanAuto) {
     console.log(
       'Note: heading `%s` has a different ID (`%s`) than what GH generates for it: `%s`:',
@@ -51,7 +48,16 @@ function addHeaderID(line, slugger) {
       autoId
     );
   }
-
+  if (slugger.occurrences[title])
+    return (
+      match[1] +
+      match[2] +
+      ' ' +
+      +slugger.occurrences[title] +
+      ' {/*' +
+      id +
+      '*/}'
+    );
   return match[1] + match[2] + ' {/*' + id + '*/}';
 }
 
@@ -60,7 +66,7 @@ function addHeaderIDs(lines) {
   const slugger = new GithubSlugger();
   let inCode = false;
   const results = [];
-  lines.forEach((line) => {
+  lines.forEach(line => {
     // Ignore code blocks
     if (line.startsWith('```')) {
       inCode = !inCode;
@@ -89,9 +95,9 @@ async function main(paths) {
   const remarkParse = remarkParseMod.default;
   const remarkSlug = remarkSlugMod.default;
   modules = {unified, remarkParse, remarkSlug};
-  const files = paths.map((path) => [...walk(path)]).flat();
+  const files = paths.map(path => [...walk(path)]).flat();
 
-  files.forEach((file) => {
+  files.forEach(file => {
     if (!(file.endsWith('.md') || file.endsWith('.mdx'))) {
       return;
     }
@@ -103,4 +109,4 @@ async function main(paths) {
   });
 }
 
-module.exports = main;
+export default main;

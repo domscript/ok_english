@@ -98,10 +98,9 @@ const DISK_CACHE_BREAKER = 7;
 // Put MDX output into JSON for client.
 export async function getStaticProps(context) {
   const fs = require('fs');
-  const {
-    prepareMDX,
-    PREPARE_MDX_CACHE_BREAKER,
-  } = require('../utils/prepareMDX');
+  const {prepareMDX, PREPARE_MDX_CACHE_BREAKER} = await import(
+    '../utils/prepareMDX.js'
+  );
   const rootDir = process.cwd() + '/src/content/';
   const mdxComponentNames = Object.keys(MDXComponents);
 
@@ -155,9 +154,11 @@ export async function getStaticProps(context) {
       .join('\n');
 
   // Turn the MDX we just read into some JS we can execute.
-  const {remarkPlugins} = require('../../plugins/markdownToHtml');
+  const {remarkPlugins} = await (
+    await import('../../plugins/markdownToHtml')
+  ).default;
   const {compile: compileMdx} = await import('@mdx-js/mdx');
-  const visit = (await import('unist-util-visit')).default;
+  const {visit} = await import('unist-util-visit');
   const jsxCode = await compileMdx(mdxWithFakeImports, {
     remarkPlugins: [
       ...remarkPlugins,

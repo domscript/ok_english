@@ -1,9 +1,10 @@
-const fs = require('fs');
-const walk = require('./walk');
+import fs from 'fs';
+import {walk} from './walk.mjs';
 
 /**
  * Validate if there is a custom heading id and exit if there isn't a heading
  * @param {string} line
+ * @throws {error} if there is a typo or no id throws Error
  * @returns
  */
 function validateHeaderId(line) {
@@ -26,7 +27,7 @@ function validateHeaderId(line) {
 function validateHeaderIds(lines) {
   let inCode = false;
   const results = [];
-  lines.forEach((line) => {
+  lines.forEach(line => {
     // Ignore code blocks
     if (line.startsWith('```')) {
       inCode = !inCode;
@@ -47,9 +48,9 @@ function validateHeaderIds(lines) {
  */
 async function main(paths) {
   paths = paths.length === 0 ? ['src/content'] : paths;
-  const files = paths.map((path) => [...walk(path)]).flat();
+  const files = paths.map(path => [...walk(path)]).flat();
 
-  files.forEach((file) => {
+  files.forEach(file => {
     if (!(file.endsWith('.md') || file.endsWith('.mdx'))) {
       return;
     }
@@ -60,4 +61,4 @@ async function main(paths) {
   });
 }
 
-module.exports = main;
+export default main;
