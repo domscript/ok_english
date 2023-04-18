@@ -31,14 +31,15 @@
     "debounce": "^1.2.1",
     "ga-lite": "^2.1.4",
     "github-slugger": "^1.3.0",
-    "next": "12.3.2-canary.7",
+    "next": "^13.3.0",
     "next-remote-watch": "^1.0.0",
     "parse-numeric-range": "^1.2.0",
     "react": "^18.2.0",
     "react-collapsed": "npm:@gaearon/react-collapsed@3.1.0-forked.1",
     "react-dom": "^18.2.0",
     "remark-frontmatter": "^4.0.1",
-    "remark-gfm": "^3.0.1"
+    "remark-gfm": "^3.0.1",
+    "sharp": "^0.32.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",

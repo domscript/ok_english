@@ -1,4 +1,5 @@
 import cn from 'classnames';
+import Link from 'next/link';
 import * as React from 'react';
 import {forwardRefWithAs} from 'utils/forwardRefWithAs';
 export interface HeadingProps {
@@ -22,7 +23,7 @@ const Heading = forwardRefWithAs<HeadingProps, 'div'>(function Heading(
     <Comp id={id} {...props} ref={ref} className={cn('mdx-heading', className)}>
       {children}
       {isPageAnchor && (
-        <a
+        <Link
           href={`#${id}`}
           aria-label={label}
           title={label}
@@ -45,7 +46,7 @@ const Heading = forwardRefWithAs<HeadingProps, 'div'>(function Heading(
               fill="black"
             />
           </svg>
-        </a>
+        </Link>
       )}
     </Comp>
   );

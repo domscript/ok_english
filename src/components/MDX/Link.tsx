@@ -37,7 +37,7 @@ function Link({
           {modifiedChildren}
         </a>
       ) : (
-        <NextLink href={href}>
+        <NextLink legacyBehavior href={href}>
           {/* eslint-disable-next-line jsx-a11y/anchor-has-content */}
           <a className={cn(classes, className)} {...props}>
             {modifiedChildren}

@@ -30,7 +30,7 @@ function ButtonLink({
     }
   );
   return (
-    <NextLink href={href as string}>
+    <NextLink href={href as string} legacyBehavior>
       <a className={classes} {...props} aria-label={label} target={target}>
         {children}
       </a>
