@@ -21,7 +21,7 @@
     },
     {
       "source": "/links",
-      "destination": "/links/react",
+      "destination": "/links/help",
       "permanent": true
     },
     {
