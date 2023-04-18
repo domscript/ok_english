@@ -141,7 +141,7 @@ export function HomeContent() {
               Learn
             </ButtonLink>
             <ButtonLink
-              href={'/links/react'}
+              href={'/links/help'}
               type="secondary"
               size="lg"
               className="w-full sm:w-auto justify-center"

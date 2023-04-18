@@ -280,7 +280,7 @@ export default function TopNav({
                 <NavItem isActive={section === 'learn'} url="/learn">
                   Learn
                 </NavItem>
-                <NavItem isActive={section === 'links'} url="/links/react">
+                <NavItem isActive={section === 'links'} url="/links/help">
                   Links
                 </NavItem>
                 <NavItem isActive={section === 'about'} url="/about">
@@ -357,7 +357,7 @@ export default function TopNav({
                     <NavItem isActive={section === 'learn'} url="/learn">
                       Learn
                     </NavItem>
-                    <NavItem isActive={section === 'links'} url="/links/react">
+                    <NavItem isActive={section === 'links'} url="/links/help">
                       Links
                     </NavItem>
                     <NavItem isActive={section === 'about'} url="/about">
