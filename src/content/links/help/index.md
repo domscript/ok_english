@@ -29,7 +29,7 @@ All you need:
 2. Customize for your needs;
 3. Click button `save` - left top corner on page to save changes
 
-<Image src="productivity/emmet-edit" format="png" width={2940} height={1690} alt="Emmet-cheatsheet in edit stage" dark={false}>
+<Image src="productivity/emmet-edit" format="png" width={2940} height={1839} alt="Emmet-cheatsheet in edit stage" dark={false}>
 </Image>
 
 ## What's next? {/*whats-next*/}
