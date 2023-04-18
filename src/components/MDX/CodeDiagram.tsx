@@ -1,6 +1,7 @@
 import {Children} from 'react';
 import * as React from 'react';
 import CodeBlock from './CodeBlock';
+import {nanoid} from '@reduxjs/toolkit';
 
 interface CodeDiagramProps {
   children: React.ReactNode;
@@ -13,7 +14,14 @@ export function CodeDiagram({children, flip = false}: CodeDiagramProps) {
   });
   const content = Children.toArray(children).map((child: any) => {
     if (child.type?.mdxName === 'pre') {
-      return <CodeBlock {...child.props} noMargin={true} noMarkers={true} />;
+      return (
+        <CodeBlock
+          key={nanoid(7)}
+          {...child.props}
+          noMargin={true}
+          noMarkers={true}
+        />
+      );
     } else if (child.type === 'img') {
       return null;
     } else {
