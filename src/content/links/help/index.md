@@ -11,7 +11,7 @@ I don't know why but a lot of sites don't let you modify the cheat sheet for exa
 
 ---
 
-## Modify emmet-cheatsheet for your needs {/*modify emmet-cheatsheet-for-your-needs*/}
+## Modify emmet-cheatsheet for your needs {/*modify-emmet-cheatsheet-for-your-needs*/}
 
 Modify your own **[emmet-cheatsheet!](https://emmet-cheatsheet.netlify.app/)** hide unused data or if you already know them.
 
