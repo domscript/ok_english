@@ -32,21 +32,20 @@ function addHeaderID(line, slugger) {
   );
   const autoId = head.data.id;
   const existingId = match[4];
-  const regex = / /g;
-  const title = match[2].replaceAll(regex, '-').toLowerCase();
-  const id = existingId || slugger.slug(autoId);
+  const title = match[2].replaceAll(' ', '-').toLowerCase();
+  const id = existingId.replaceAll(' ', '-') || slugger.slug(autoId);
   // Ignore numbers:
   const cleanExisting = existingId
     ? existingId.replace(/-\d+$/, '')
     : undefined;
   const cleanAuto = autoId.replace(/-\d+$/, '');
   if (cleanExisting && cleanExisting !== cleanAuto) {
-    console.log(
-      'Note: heading `%s` has a different ID (`%s`) than what GH generates for it: `%s`:',
-      before,
-      existingId,
-      autoId
-    );
+    // console.log(
+    //   'Note: heading `%s` has a different ID (`%s`) than what GH generates for it: `%s`:',
+    //   before,
+    //   existingId,
+    //   autoId
+    // );
   }
   if (slugger.occurrences[title])
     return (
@@ -58,6 +57,7 @@ function addHeaderID(line, slugger) {
       id +
       '*/}'
     );
+
   return match[1] + match[2] + ' {/*' + id + '*/}';
 }
 
@@ -66,7 +66,7 @@ function addHeaderIDs(lines) {
   const slugger = new GithubSlugger();
   let inCode = false;
   const results = [];
-  lines.forEach(line => {
+  lines.forEach((line) => {
     // Ignore code blocks
     if (line.startsWith('```')) {
       inCode = !inCode;
@@ -95,9 +95,9 @@ async function main(paths) {
   const remarkParse = remarkParseMod.default;
   const remarkSlug = remarkSlugMod.default;
   modules = {unified, remarkParse, remarkSlug};
-  const files = paths.map(path => [...walk(path)]).flat();
+  const files = paths.map((path) => [...walk(path)]).flat();
 
-  files.forEach(file => {
+  files.forEach((file) => {
     if (!(file.endsWith('.md') || file.endsWith('.mdx'))) {
       return;
     }

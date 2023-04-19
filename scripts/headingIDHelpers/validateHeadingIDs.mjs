@@ -12,7 +12,7 @@ function validateHeaderId(line) {
     return;
   }
 
-  const match = /\{\/\*(.*?)\*\/}/.exec(line);
+  const match = /\{\/\*([^\s]*?)\*\/}/.exec(line);
   const id = match;
   if (!id) {
     console.error('Run yarn fix-headings to generate headings.');
@@ -27,7 +27,7 @@ function validateHeaderId(line) {
 function validateHeaderIds(lines) {
   let inCode = false;
   const results = [];
-  lines.forEach(line => {
+  lines.forEach((line) => {
     // Ignore code blocks
     if (line.startsWith('```')) {
       inCode = !inCode;
@@ -48,9 +48,9 @@ function validateHeaderIds(lines) {
  */
 async function main(paths) {
   paths = paths.length === 0 ? ['src/content'] : paths;
-  const files = paths.map(path => [...walk(path)]).flat();
+  const files = paths.map((path) => [...walk(path)]).flat();
 
-  files.forEach(file => {
+  files.forEach((file) => {
     if (!(file.endsWith('.md') || file.endsWith('.mdx'))) {
       return;
     }
