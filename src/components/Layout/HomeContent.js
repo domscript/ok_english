@@ -168,6 +168,12 @@ export function HomeContent() {
                 </div>
                 <div className="order-last pt-5">
                   <Para>Thanks React and React team!</Para>
+                  <ExternalLink
+                    className="ml-0 sm:ml-1 text-link dark:text-link-dark hover:underline"
+                    aria-label="Domscript Game"
+                    href="https://flintstones.netlify.app/">
+                    Play Game!
+                  </ExternalLink>
 
                   <div className="hidden lg:flex justify-start w-full">
                     <CTA color="gray" icon="news" href="/blog">
