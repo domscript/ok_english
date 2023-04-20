@@ -4,6 +4,7 @@ import {withRouter, Router} from 'next/router';
 
 export interface SeoProps {
   title: string;
+  favicon: '/favicon.ico';
   description?: string;
   image?: string;
   // jsonld?: JsonLDType | Array<JsonLDType>;
@@ -15,6 +16,7 @@ export interface SeoProps {
 export const Seo = withRouter(
   ({
     title,
+    favicon = '/favicon.ico',
     description = 'My main site',
     image = '/images/og-home.png',
     router,
@@ -30,6 +32,8 @@ export const Seo = withRouter(
         {/* DEFAULT */}
 
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="icon" type="image/x-icon" href={favicon} />
+        <link rel="apple-touch-icon" href={favicon} />
 
         {title != null && <title key="title">{pageTitle}</title>}
         {description != null && (
