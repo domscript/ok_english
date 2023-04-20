@@ -4,7 +4,8 @@ import {withRouter, Router} from 'next/router';
 
 export interface SeoProps {
   title: string;
-  favicon: '/favicon.ico';
+  favicon?: '/favicon.ico';
+  canonical?: 'https://domscript.pro/';
   description?: string;
   image?: string;
   // jsonld?: JsonLDType | Array<JsonLDType>;
@@ -17,7 +18,8 @@ export const Seo = withRouter(
   ({
     title,
     favicon = '/favicon.ico',
-    description = 'My main site',
+    canonical = 'https://domscript.pro/',
+    description = 'Domscript.pro main site',
     image = '/images/og-home.png',
     router,
     children,
@@ -32,15 +34,14 @@ export const Seo = withRouter(
         {/* DEFAULT */}
 
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        {title != null && <title key="title">{pageTitle}</title>}
+        <link rel="canonical" href={canonical}></link>
         <link rel="icon" type="image/x-icon" href={favicon} />
         <link rel="apple-touch-icon" href={favicon} />
 
-        {title != null && <title key="title">{pageTitle}</title>}
         {description != null && (
           <meta name="description" key="description" content={description} />
         )}
-        {/* <link rel="icon" type="image/x-icon" href={favicon} />
-      <link rel="apple-touch-icon" href={favicon} />  @todo favicon */}
         <meta property="fb:app_id" content="606893941325399" />
         {/* OPEN GRAPH */}
         <meta property="og:type" key="og:type" content="website" />
