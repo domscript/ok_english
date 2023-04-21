@@ -30,6 +30,7 @@ import type {Toc, TocItem} from './TocContext';
 import {TeamMember} from './TeamMember';
 import {FunctionData} from './JS/FunctionData';
 import {ClassData} from './JS/ClassData';
+import {LogoLink} from './LogoLink';
 
 function CodeStep({children, step}: {children: any; step: number}) {
   return (
@@ -433,6 +434,7 @@ export const MDXComponents = {
   YouTubeIframe,
   FunctionData,
   ClassData,
+  LogoLink,
 };
 
 for (let key in MDXComponents) {

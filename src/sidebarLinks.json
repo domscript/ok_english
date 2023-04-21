@@ -7,8 +7,12 @@
       "sectionHeader": "Vanilla"
     },
     {
-      "title": "Improve productivity and efficiency",
+      "title": "Design resources for developers",
       "path": "/links/help"
+    },
+    {
+      "title": "Improve productivity and efficiency",
+      "path": "/links/help/emmet"
     }
   ]
 }

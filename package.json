@@ -19,7 +19,8 @@
     "ci-check": "npm-run-all prettier:diff --parallel lint tsc lint-heading-ids",
     "tsc": "tsc --noEmit",
     "start": "next start",
-    "check-all": "npm-run-all prettier lint:fix tsc"
+    "check-all": "npm-run-all prettier lint:fix tsc",
+    "design-page": "node ./src/utils/designResources.js &&  yarn fix-headings"
   },
   "dependencies": {
     "@codesandbox/sandpack-react": "1.15.5",

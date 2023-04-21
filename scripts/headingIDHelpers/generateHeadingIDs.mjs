@@ -32,8 +32,13 @@ function addHeaderID(line, slugger) {
   );
   const autoId = head.data.id;
   const existingId = match[4];
+
   const title = match[2].replaceAll(' ', '-').toLowerCase();
-  const id = existingId.replaceAll(' ', '-') || slugger.slug(autoId);
+  let id = existingId?.replaceAll(' ', '-') || slugger.slug(autoId);
+  if (!id) {
+    id = title;
+    console.log(id, match);
+  }
   // Ignore numbers:
   const cleanExisting = existingId
     ? existingId.replace(/-\d+$/, '')
