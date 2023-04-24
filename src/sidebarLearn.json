@@ -15,6 +15,10 @@
           "path": "/learn/fundamentals"
         },
         {
+          "title": "Useful Function in JavaScript",
+          "path": "/learn/useful-function-in-javascript"
+        },
+        {
           "title": "Values in JavaScript",
           "path": "/learn/truthy-and-falsy-values"
         },
