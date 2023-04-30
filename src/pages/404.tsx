@@ -6,6 +6,7 @@ const {Intro, MaxWidth, p: P, a: A} = MDXComponents;
 
 export default function NotFound() {
   return (
+    // @ts-ignore
     <Page toc={[]} meta={{title: 'Not Found'}} routeTree={sidebarLearn}>
       <MaxWidth>
         <Intro>

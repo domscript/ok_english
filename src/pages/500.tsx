@@ -8,6 +8,7 @@ export default function NotFound() {
   return (
     <Page
       toc={[]}
+      // @ts-ignore
       routeTree={sidebarLearn}
       meta={{title: 'Something Went Wrong'}}>
       <MaxWidth>

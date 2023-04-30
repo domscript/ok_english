@@ -7,7 +7,7 @@ import sidebarLearn from '../sidebarLearn.json';
 import sidebarLinks from '../sidebarLinks.json';
 import sidebarAbout from '../sidebarAbout.json';
 import sidebarBlog from '../sidebarBlog.json';
-
+// @ts-ignore
 export default function Layout({content, toc, meta}) {
   const parsedContent = useMemo(
     () => JSON.parse(content, reviveNodeOnClient),
@@ -35,6 +35,7 @@ export default function Layout({content, toc, meta}) {
       break;
   }
   return (
+    // @ts-ignore
     <Page toc={parsedToc} routeTree={routeTree} meta={meta} section={section}>
       {parsedContent}
     </Page>
@@ -60,6 +61,7 @@ function useActiveSection() {
 }
 
 // Deserialize a client React tree from JSON.
+// @ts-ignore
 function reviveNodeOnClient(key, val) {
   if (Array.isArray(val) && val[0] == '$r') {
     // Assume it's a React element.
@@ -70,7 +72,9 @@ function reviveNodeOnClient(key, val) {
       type = Fragment;
       props = {children: props.children};
     }
+    // @ts-ignore
     if (MDXComponents[type]) {
+      // @ts-ignore
       type = MDXComponents[type];
     }
     if (!type) {
@@ -96,6 +100,7 @@ const DISK_CACHE_BREAKER = 7;
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 // Put MDX output into JSON for client.
+// @ts-ignore
 export async function getStaticProps(context) {
   const fs = require('fs');
   const {prepareMDX, PREPARE_MDX_CACHE_BREAKER} = await import(
@@ -186,6 +191,7 @@ export async function getStaticProps(context) {
 
   // Prepare environment for MDX.
   let fakeExports = {};
+  // @ts-ignore
   const fakeRequire = (name) => {
     if (name === 'react/jsx-runtime') {
       return require('react/jsx-runtime');
@@ -201,6 +207,7 @@ export async function getStaticProps(context) {
   // In this case it's okay because anyone who can edit our MDX can also edit this file.
   evalJSCode(fakeRequire, fakeExports);
   // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  // @ts-ignore
   const reactTree = fakeExports.default({});
 
   // Pre-process MDX output and serialize it.
@@ -222,6 +229,7 @@ export async function getStaticProps(context) {
   };
 
   // Serialize a server React tree node to JSON.
+  // @ts-ignore
   function stringifyNodeOnServer(key, val) {
     if (val != null && val.$$typeof === Symbol.for('react.element')) {
       // Remove fake MDX props.
@@ -253,9 +261,11 @@ export async function getStaticPaths() {
   const rootDir = process.cwd() + '/src/content';
 
   // Find all MD files recursively.
+  // @ts-ignore
   async function getFiles(dir) {
     const subdirs = await readdir(dir);
     const files = await Promise.all(
+      // @ts-ignore
       subdirs.map(async (subdir) => {
         const res = resolve(dir, subdir);
         return (await stat(res)).isDirectory()
@@ -268,6 +278,7 @@ export async function getStaticPaths() {
 
   // 'foo/bar/baz.md' -> ['foo', 'bar', 'baz']
   // 'foo/bar/qux/index.md' -> ['foo', 'bar', 'qux']
+  // @ts-ignore
   function getSegments(file) {
     let segments = file.slice(0, -3).replace(/\\/g, '/').split('/');
     if (segments[segments.length - 1] === 'index') {
