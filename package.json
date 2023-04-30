@@ -20,7 +20,7 @@
     "tsc": "tsc --noEmit",
     "start": "next start",
     "check-all": "npm-run-all prettier lint:fix tsc",
-    "design-page": "node ./src/utils/designResources.js &&  yarn fix-headings"
+    "design-page": "node ./src/utils/designResources.mjs &&  yarn fix-headings"
   },
   "dependencies": {
     "@codesandbox/sandpack-react": "1.15.5",
