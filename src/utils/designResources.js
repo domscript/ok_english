@@ -9,7 +9,7 @@ let [count, totalLinks] = [0, 0];
 const imgSizePx = 25;
 
 const data = readFileSync(
-  process.cwd() + '/../design-resources-for-developers/readme.md',
+  process.cwd() + '/extra/design-resources-for-developers/readme.md',
   {
     encoding: 'utf-8',
   }
