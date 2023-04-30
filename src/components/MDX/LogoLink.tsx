@@ -1,4 +1,3 @@
-import NextImage from 'next/image';
 import {ReactNode} from 'react';
 
 interface ImageProps {
@@ -19,7 +18,7 @@ export function LogoLink({
   children,
   description,
 }: ImageProps) {
-  const context0 = (
+  const context = (
     <figure className="grid grid-cols-[25px_1fr]">
       <svg className="self-center" height={height} width={width}>
         <use href={`/images/${src}`}></use>
@@ -28,17 +27,12 @@ export function LogoLink({
     </figure>
   );
 
-  const context1 = (
+  const contextWithDescription = (
     <div className="grid grid-cols-[2fr_5fr] items-center">
-      <figure className="grid grid-cols-[25px_1fr]">
-        <svg className="self-center" height={height} width={width}>
-          <use href={`/images/${src}`}></use>
-        </svg>
-        <figcaption className="pl-4">{children}</figcaption>
-      </figure>
+      {context}
       {description}
     </div>
   );
 
-  return !!description ? context1 : context0;
+  return !!description ? contextWithDescription : context;
 }
