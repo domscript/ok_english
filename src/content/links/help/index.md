@@ -7,7 +7,7 @@ title: "Design resources for developers"
 Copy of original Brad Traversy [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers). If you want contribute - do it to original [repo](https://github.com/bradtraversy/design-resources-for-developers) this page updates automatically.
 
 </Intro>
-Found 998 unique links and 8 duplicates
+Found 1000 unique links and 8 duplicates
 
 ---
 
@@ -3902,6 +3902,11 @@ Found 998 unique links and 8 duplicates
 </LogoLink>
  
 
+<LogoLink src='help/svg/icons.svg#svelte-ui-libraries' width={25} height={25} dark={false} description='This is a port of Radix UI for Svelte.' >
+[Radix Svelte](https://www.radix-svelte.com/)
+</LogoLink>
+ 
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -5554,6 +5559,11 @@ Found 998 unique links and 8 duplicates
 
 <LogoLink src='help/svg/icons.svg#others' width={25} height={25} dark={false} description='Allinone free online file service, convert, edit and optimize your files.' >
 [Clipperly](https://clipperly.com/)
+</LogoLink>
+ 
+
+<LogoLink src='help/svg/icons.svg#others' width={25} height={25} dark={false} description='Test and optimize page load speed' >
+[DebugBear Speed Test](https://www.debugbear.com/test/website-speed)
 </LogoLink>
  
 
