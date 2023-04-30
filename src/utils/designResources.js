@@ -71,11 +71,6 @@ const dataNew = data.map((el, i) => {
     console.log(i, fullSize, el);
   }
 
-  const text = url
-    .slice(0, url.indexOf(']('))
-    .slice(1, url.indexOf(')'))
-    .replaceAll('`', '');
-
   const temp = url.slice(url.indexOf('](') + 2);
 
   const newUrl = temp.slice(0, temp.indexOf(')'));
