@@ -21,6 +21,7 @@ import {IconChevron} from 'components/Icon/IconChevron';
 import {IconSearch} from 'components/Icon/IconSearch';
 import {Logo} from 'components/Logo';
 import {CarAnime} from 'components/CarAnime';
+import {FlintAnime} from 'components/FlintAnime';
 import Link from 'components/MDX/Link';
 import CodeBlock from 'components/MDX/CodeBlock';
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
@@ -134,6 +135,11 @@ export function HomeContent() {
           <p className="text-4xl font-display max-w-lg md:max-w-full py-1 text-center text-secondary dark:text-primary-dark leading-snug self-center">
             My main site
           </p>
+          <FlintAnime
+            className="absolute pointer-events-none"
+            width="100%"
+            height="100%"
+          />
           <div className="mt-5 self-center flex gap-2 w-full sm:w-auto flex-col sm:flex-row">
             <ButtonLink
               href={'/learn'}
@@ -194,7 +200,7 @@ export function HomeContent() {
             <Header>SVG Animation!</Header>
           </Center>
           <FullBleed>
-            <CarAnime width="max-w-xl" height="max-w-xl" />
+            <CarAnime width="100%" height="100%" />
           </FullBleed>
           <Center>
             <Para>
