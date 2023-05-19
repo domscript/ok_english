@@ -178,13 +178,13 @@ export function HomeContent() {
             </ExternalLink>
             <Para>
               I have a high level of proficiency in working with the HTML Canvas
-              API. However, when incorporating it into React, I've encountered
-              significant challenges stemming from persistent bugs related to
-              the useRef and useEffect hooks. Despite my ongoing efforts to
-              address these issues, it has been a complex problem to solve, and
-              even The React team has struggled to find a definitive solution
-              for this issue, and it has surprisingly received little attention
-              or discussion within the development community.
+              API. However, when incorporating it into React, I&apos;ve
+              encountered significant challenges stemming from persistent bugs
+              related to the useRef and useEffect hooks. Despite my ongoing
+              efforts to address these issues, it has been a complex problem to
+              solve, and even The React team has struggled to find a definitive
+              solution for this issue, and it has surprisingly received little
+              attention or discussion within the development community.
             </Para>
           </Center>
         </Section>
@@ -198,10 +198,10 @@ export function HomeContent() {
           </FullBleed>
           <Center>
             <Para>
-              I'm proficient in SVG and SVG animation, as well as well-known
-              programs like Figma, Adobe Illustrator, Sketch, and similar tools.
-              Moreover, I'm also proficient in SolidWorks, if you know what I
-              mean ;)
+              I&apos;m proficient in SVG and SVG animation, as well as
+              well-known programs like Figma, Adobe Illustrator, Sketch, and
+              similar tools. Moreover, I&apos;m also proficient in SolidWorks,
+              if you know what I mean ;)
             </Para>
           </Center>
         </Section>

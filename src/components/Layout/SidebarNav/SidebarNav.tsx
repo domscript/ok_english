@@ -3,6 +3,7 @@ import * as React from 'react';
 import cn from 'classnames';
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 import {Search} from 'components/Search';
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import {Feedback} from '../Feedback';
 import {SidebarRouteTree} from '../Sidebar/SidebarRouteTree';
 import type {RouteItem} from '../getRouteMeta';
