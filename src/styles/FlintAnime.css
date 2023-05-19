@@ -25,16 +25,16 @@
 
 @keyframes dinoX {
   0% {
-    transform: translate(-80px, 0px);
+    transform: translate(-80px, -100px);
   }
   24% {
-    transform: translate(420px, 0px);
+    transform: translate(420px, -100px);
   }
   26% {
-    transform: translate(420px, 0px);
+    transform: translate(420px, -100px);
   }
   49.99% {
-    transform: translateX(920px);
+    transform: translate(920px, -100px);
   }
   50% {
     transform: translate(1000px, -200px) scaleX(-100%);
