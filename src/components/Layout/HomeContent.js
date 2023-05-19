@@ -20,6 +20,7 @@ import BlogCard from 'components/MDX/BlogCard';
 import {IconChevron} from 'components/Icon/IconChevron';
 import {IconSearch} from 'components/Icon/IconSearch';
 import {Logo} from 'components/Logo';
+import {CarAnime} from 'components/CarAnime';
 import Link from 'components/MDX/Link';
 import CodeBlock from 'components/MDX/CodeBlock';
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
@@ -82,7 +83,9 @@ function Center({children}) {
 
 function FullBleed({children}) {
   return (
-    <div className="max-w-7xl mx-auto flex flex-col w-full">{children}</div>
+    <div className="max-w-7xl mx-auto flex flex-col w-full my-4">
+      {children}
+    </div>
   );
 }
 
@@ -152,29 +155,74 @@ export function HomeContent() {
         </div>
 
         <Section background="right-card">
+          <Center>
+            <Header>Hey-Hey-Hey my new site is ready</Header>
+            <Para>Thanks React and React team!</Para>
+          </Center>
+          <FullBleed>
+            <iframe
+              className="h-[25em] mx-0 lg:mx-7 lg:h-[45em]"
+              frameBorder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowFullScreen
+              title="YouTube video player"
+              src="https://www.youtube.com/embed/nQElpSLJ5mY"
+            />
+          </FullBleed>
+          <Center>
+            <ExternalLink
+              className="ml-0 sm:ml-1 text-link dark:text-link-dark hover:underline"
+              aria-label="Domscript Game"
+              href="https://flintstones.netlify.app/">
+              Play Game!
+            </ExternalLink>
+            <Para>
+              I have a high level of proficiency in working with the HTML Canvas
+              API. However, when incorporating it into React, I've encountered
+              significant challenges stemming from persistent bugs related to
+              the useRef and useEffect hooks. Despite my ongoing efforts to
+              address these issues, it has been a complex problem to solve, and
+              even The React team has struggled to find a definitive solution
+              for this issue, and it has surprisingly received little attention
+              or discussion within the development community.
+            </Para>
+          </Center>
+        </Section>
+
+        <Section background="left-card">
+          <Center>
+            <Header>SVG Animation!</Header>
+          </Center>
+          <FullBleed>
+            <CarAnime width="max-w-xl" height="max-w-xl" />
+          </FullBleed>
+          <Center>
+            <Para>
+              I'm proficient in SVG and SVG animation, as well as well-known
+              programs like Figma, Adobe Illustrator, Sketch, and similar tools.
+              Moreover, I'm also proficient in SolidWorks, if you know what I
+              mean ;)
+            </Para>
+          </Center>
+        </Section>
+
+        <Section background="right-card">
           <div className="max-w-7xl mx-auto flex flex-col lg:flex-row px-5">
             <div className="max-w-3xl lg:max-w-7xl gap-5 flex flex-col lg:flex-row lg:px-5">
               <div className="w-full lg:w-6/12 max-w-3xl flex flex-col items-start justify-start lg:pl-5 lg:pr-10">
-                <Header>Hey-Hey-Hey my new site is ready</Header>
-                <div className="my-8 relative w-full h-0 overflow-hidden pt-[56.25%]">
-                  <iframe
-                    className="absolute inset-0 w-full h-full"
-                    frameBorder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    allowFullScreen
-                    title="YouTube video player"
-                    src="https://www.youtube.com/embed/nQElpSLJ5mY"
-                  />
-                </div>
+                <Header>Info</Header>
+                <Para></Para>
                 <div className="order-last pt-5">
-                  <Para>Thanks React and React team!</Para>
-                  <ExternalLink
-                    className="ml-0 sm:ml-1 text-link dark:text-link-dark hover:underline"
-                    aria-label="Domscript Game"
-                    href="https://flintstones.netlify.app/">
-                    Play Game!
-                  </ExternalLink>
-
+                  <Para>
+                    Some of the technologies and more that I work with.
+                  </Para>
+                  <NextImage
+                    className="w-full my-4"
+                    width={100}
+                    height={100}
+                    src="images/home/skills.svg"
+                    alt="The technologies I work with."
+                  />
                   <div className="hidden lg:flex justify-start w-full">
                     <CTA color="gray" icon="news" href="/blog">
                       Read more Domscript.pro news
@@ -203,11 +251,40 @@ export function HomeContent() {
                 </div>
                 <div className="flex lg:hidden justify-start w-full">
                   <CTA color="gray" icon="news" href="/blog">
-                    Read more news
+                    Read more Domscript.pro news
                   </CTA>
                 </div>
               </div>
             </div>
+          </div>
+        </Section>
+
+        <Section background="left-card">
+          <div className="w-full">
+            <div className="mx-auto flex flex-col max-w-4xl">
+              <Center>
+                <Header>
+                  Find more about <br className="hidden lg:inline" />
+                  of me
+                </Header>
+              </Center>
+            </div>
+            {/* <AboutGallery /> */}
+          </div>
+
+          <div className="mt-20 px-5 lg:px-0 mb-6 max-w-4xl text-center text-opacity-80">
+            <Logo className="text-link dark:text-link-dark w-24 lg:w-28 mb-10 lg:mb-8 mt-12 h-auto mx-auto self-start" />
+            <Header>
+              Welcome to the <br className="" />
+              Domscript about
+            </Header>
+            <ButtonLink
+              href={'/about/team'}
+              type="primary"
+              size="lg"
+              label="Take the Tutorial">
+              Get Started
+            </ButtonLink>
           </div>
         </Section>
       </div>

@@ -6,6 +6,7 @@ import {ga} from '../utils/analytics';
 import '@docsearch/css';
 import '../styles/algolia.css';
 import '../styles/index.css';
+import '../styles/CarAnime.css';
 import '../styles/sandpack.css';
 
 if (typeof window !== 'undefined') {

@@ -1,0 +1,191 @@
+#wheel-right,
+#wheel-left {
+  animation: wheel 2s ease infinite;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#wheel-right {
+  animation: wheel 2s infinite linear;
+}
+
+#car {
+  animation: car 1s ease-in-out infinite alternate;
+  transform-origin: bottom;
+}
+
+#car {
+  animation: car-move 8s ease infinite;
+}
+
+#sun {
+  animation: sun 10s infinite linear;
+  transform-origin: center;
+  transform-origin: 50% 300%;
+}
+
+#light {
+  animation: light 3s ease-in-out infinite alternate;
+}
+
+#tree-1,
+#tree-2,
+#tree-3,
+#tree-4,
+#tree-5 {
+  animation: tree 4s ease infinite;
+  transform-origin: bottom;
+  transform-box: fill-box;
+}
+
+#cloud-left,
+#cloud-right {
+  animation: cloud 21s ease infinite;
+  transform-origin: bottom;
+  transform-box: fill-box;
+}
+
+#cloud-left {
+  animation: cloud 18s ease infinite;
+}
+
+#mark-line {
+  animation: mark-line 1s ease infinite;
+}
+
+@keyframes wheel {
+  from {
+    transform: rotate(360deg);
+  }
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes car {
+  from {
+    transform: rotateX(0deg);
+  }
+  to {
+    transform: rotateX(20deg);
+  }
+}
+
+@keyframes light {
+  from {
+    color: gold;
+  }
+  to {
+    color: rgb(48, 48, 48);
+  }
+}
+
+@keyframes sun {
+  0% {
+    transform: rotateZ(-10deg);
+    color: #ff6584;
+  }
+  25% {
+    color: #fff869;
+  }
+  100% {
+    transform: rotateZ(40deg);
+    color: #ff6584;
+  }
+}
+
+@keyframes tree {
+  0% {
+    transform: rotateZ(-2deg);
+  }
+  25% {
+    transform: rotateZ(4deg);
+  }
+  50% {
+    transform: rotateZ(-4deg);
+  }
+  75% {
+    transform: rotateZ(2deg);
+  }
+  100% {
+    transform: rotateZ(-2deg);
+  }
+}
+
+@keyframes cloud {
+  0% {
+    transform: translateX(550px);
+  }
+  100% {
+    transform: translateX(-900px);
+  }
+}
+
+@keyframes car-move {
+  0% {
+    transform: translateX(200px);
+  }
+  32% {
+    transform: translateX(-600px);
+  }
+  32.01% {
+    transform: translate(-80px, -100px) scaleX(-100%);
+  }
+  67% {
+    transform: translate(580px, -100px) scaleX(-100%);
+  }
+  67.01% {
+    transform: translate(80px, -200px);
+  }
+  100% {
+    transform: translate(-900px, -200px);
+  }
+}
+
+@keyframes mark-line {
+  0% {
+    d: path("M28 248 L30 250");
+  }
+  5% {
+    d: path("M28 248 L32 252");
+  }
+  10% {
+    d: path("M28 248 L34 254");
+  }
+  15% {
+    d: path("M28 248 L36 256");
+  }
+  20% {
+    d: path("M28 248 L38 258");
+  }
+  25% {
+    d: path("M28 248 L40 260");
+  }
+  30% {
+    d: path("M28 248 L43 263");
+  }
+  35% {
+    d: path("M28 248 L46 266");
+  }
+  40% {
+    d: path("M28 248 L50 270");
+  }
+  50% {
+    d: path("M28 248 L50 270 L60 260");
+  }
+  60% {
+    d: path("M28 248 L50 270 L70 250");
+  }
+  70% {
+    d: path("M28 248 L50 270 L80 240");
+  }
+  80% {
+    d: path("M28 248 L50 270 L90 230");
+  }
+  90% {
+    d: path("M28 248 L50 270 L100 220");
+  }
+  100% {
+    d: path("M28 248 L50 270 L110 210");
+  }
+}
