@@ -136,7 +136,7 @@ export function HomeContent() {
             My main site
           </p>
           <FlintAnime
-            className="absolute pointer-events-none"
+            className="absolute w-11/12 pointer-events-none"
             width="100%"
             height="100%"
           />
