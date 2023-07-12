@@ -17,7 +17,7 @@ export default function NotFound() {
           <P>Sorry about that.</P>
           <P>
             If you’d like, please{' '}
-            <A href="https://github.com/domscript/domscript.pro/issues/new">
+            <A href="https://github.com/domscript/ok_english/issues/new">
               report a bug.
             </A>
           </P>

@@ -1,28 +1,22 @@
-import {
-  createContext,
-  memo,
-  useState,
-  useContext,
-  useId,
-  Suspense,
-  useEffect,
-  useRef,
-  useTransition,
-  useReducer,
-} from 'react';
+import {useEffect, useReducer} from 'react';
 import cn from 'classnames';
 import NextLink from 'next/link';
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import NextImage from 'next/image';
 
 import ButtonLink from '../ButtonLink';
-import {IconRestart} from '../Icon/IconRestart';
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import BlogCard from 'components/MDX/BlogCard';
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import {IconChevron} from 'components/Icon/IconChevron';
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import {IconSearch} from 'components/Icon/IconSearch';
 import {Logo} from 'components/Logo';
 import {CarAnime} from 'components/CarAnime';
 import {FlintAnime} from 'components/FlintAnime';
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import Link from 'components/MDX/Link';
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import CodeBlock from 'components/MDX/CodeBlock';
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 import {IconNavArrow} from 'components/Icon/IconNavArrow';
@@ -89,7 +83,7 @@ function FullBleed({children}) {
     </div>
   );
 }
-
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 function CurrentTime() {
   const msPerMinute = 60 * 1000;
   const date = new Date();
@@ -112,6 +106,7 @@ const blogSidebar = sidebarBlog.routes[1];
 if (blogSidebar.path !== '/blog') {
   throw Error('Could not find the blog route in sidebarBlog.json');
 }
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 const recentPosts = blogSidebar.routes.slice(0, 4).map((entry) => ({
   title: entry.titleForHomepage,
   icon: entry.icon,
@@ -197,7 +192,7 @@ export function HomeContent() {
 
         <Section background="left-card">
           <Center>
-            <Header>Let's continue our journey together!</Header>
+            <Header>Let&apos;s continue this journey together!</Header>
           </Center>
           <FullBleed>
             <CarAnime width="100%" height="100%" />
@@ -297,7 +292,7 @@ export function HomeContent() {
     </>
   );
 }
-
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 function CTA({children, icon, href}) {
   let Tag;
   let extraProps;

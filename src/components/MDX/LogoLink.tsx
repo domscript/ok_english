@@ -12,7 +12,6 @@ interface ImageProps {
 
 export function LogoLink({
   src,
-  alt,
   height,
   width,
   children,

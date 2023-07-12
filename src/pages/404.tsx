@@ -13,7 +13,7 @@ export default function NotFound() {
           <P>This page doesn’t exist.</P>
           <P>
             If this is a mistake{', '}
-            <A href="https://github.com/domscript/domscript.pro/issues/new">
+            <A href="https://github.com/domscript/ok_english/issues/new">
               let me know
             </A>
             {', '}
