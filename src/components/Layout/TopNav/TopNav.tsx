@@ -88,6 +88,22 @@ const githubIcon = (
   </svg>
 );
 
+const youtubeIcon = (
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 24 24"
+    width="1.33em"
+    height="1.33em"
+    fill="#d00">
+    <path fill="none" d="M0 0h24v24H0z" />
+    <path d="M23.4986 6.14038C23.2225 5.10108 22.4093 4.28259 21.3766 4.00482C19.5051 3.5 12 3.5 12 3.5C12 3.5 4.495 3.5 2.62341 4.00482C1.59065 4.28259 0.777275 5.10108 0.501445 6.14038C0 8.02415 0 11.9546 0 11.9546C0 11.9546 0 15.8849 0.501445 17.7688C0.777275 18.8082 1.59065 19.6265 2.6233 19.9046C4.4949 20.4092 11.9999 20.4092 11.9999 20.4092C11.9999 20.4092 19.505 20.4092 21.3765 19.9046C22.4092 19.6266 23.2224 18.8082 23.4985 17.7689C24 15.885 24 11.9547 24 11.9547C24 11.9547 24 8.02425 23.4985 6.14049" />
+    <path
+      d="M9.54541 15.5233L15.8181 11.9549L9.54541 8.38623V15.5233Z"
+      fill="white"
+    />
+  </svg>
+);
+
 function Link({href, children, ...props}: JSX.IntrinsicElements['a']) {
   return (
     <NextLink href={`${href}`} legacyBehavior>
@@ -324,13 +340,21 @@ export default function TopNav({
                   </button>
                 </div>
                 <div className="flex">
-                  <Link
+                  {/* <Link
                     href="https://github.com/domscript"
                     target="_blank"
                     rel="noreferrer noopener"
                     aria-label="Open on GitHub"
                     className="active:scale-95 transition-transform flex w-12 h-12 rounded-full items-center justify-center hover:bg-primary/5 hover:dark:bg-primary-dark/5 outline-link">
                     {githubIcon}
+                  </Link> */}
+                  <Link
+                    href="https://www.youtube.com/@OkEnglish-888"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                    aria-label="Ok English on Youtube"
+                    className="active:scale-95 transition-transform flex w-12 h-12 rounded-full items-center justify-center hover:bg-primary/5 hover:dark:bg-primary-dark/5 outline-link">
+                    {youtubeIcon}
                   </Link>
                 </div>
               </div>

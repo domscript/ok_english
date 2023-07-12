@@ -2,8 +2,8 @@
 title: About
 ---
 
-<Intro>
+## Short Intro 2023 {/*short-intro-2023*/}
 
-In work ...
+Watch the short intro here:
 
-</Intro>
+<YouTubeIframe src="https://www.youtube.com/embed/lDDUrcOdFnQ" title="YouTube video player" />

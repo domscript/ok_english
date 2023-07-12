@@ -11,24 +11,8 @@
       "path": "/learn",
       "routes": [
         {
-          "title": "Fundamentals",
-          "path": "/learn/fundamentals"
-        },
-        {
-          "title": "Useful Function in JavaScript",
-          "path": "/learn/useful-function-in-javascript"
-        },
-        {
-          "title": "Values in JavaScript",
-          "path": "/learn/truthy-and-falsy-values"
-        },
-        {
-          "title": "Functions in JavaScript",
-          "path": "/learn/functions"
-        },
-        {
-          "title": "Classes in JavaScript",
-          "path": "/learn/classes"
+          "title": "Adverbs",
+          "path": "/learn/adverbs"
         }
       ]
     }

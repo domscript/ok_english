@@ -130,10 +130,10 @@ export function HomeContent() {
             )}
           />
           <h1 className="text-5xl font-display lg:text-6xl self-center flex font-semibold leading-snug text-primary dark:text-primary-dark">
-            Domscript.pro
+            OK ENGLISH
           </h1>
           <p className="text-4xl font-display max-w-lg md:max-w-full py-1 text-center text-secondary dark:text-primary-dark leading-snug self-center">
-            My main site
+            Hello, Friend!
           </p>
           <FlintAnime
             className="absolute w-11/12 pointer-events-none"
@@ -162,8 +162,8 @@ export function HomeContent() {
 
         <Section background="right-card">
           <Center>
-            <Header>Hey-Hey-Hey my new site is ready</Header>
-            <Para>Thanks React and React team!</Para>
+            <Header>Hey-Hey-Hey Ok English is Here</Header>
+            <Para>Thank you my Friend!</Para>
           </Center>
           <FullBleed>
             <iframe
@@ -172,17 +172,17 @@ export function HomeContent() {
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
               title="YouTube video player"
-              src="https://www.youtube.com/embed/nQElpSLJ5mY"
+              src="https://www.youtube.com/embed/lDDUrcOdFnQ"
             />
           </FullBleed>
           <Center>
-            <ExternalLink
+            {/* <ExternalLink
               className="ml-0 sm:ml-1 text-link dark:text-link-dark hover:underline"
               aria-label="Domscript Game"
               href="https://flintstones.netlify.app/">
               Play Game!
-            </ExternalLink>
-            <Para>
+            </ExternalLink> */}
+            {/* <Para>
               I have a high level of proficiency in working with the HTML Canvas
               API. However, when incorporating it into React, I&apos;ve
               encountered significant challenges stemming from persistent bugs
@@ -191,28 +191,28 @@ export function HomeContent() {
               solve, and even The React team has struggled to find a definitive
               solution for this issue, and it has surprisingly received little
               attention or discussion within the development community.
-            </Para>
+            </Para> */}
           </Center>
         </Section>
 
         <Section background="left-card">
           <Center>
-            <Header>SVG Animation!</Header>
+            <Header>Let's continue our journey together!</Header>
           </Center>
           <FullBleed>
             <CarAnime width="100%" height="100%" />
           </FullBleed>
-          <Center>
+          {/* <Center>
             <Para>
               I&apos;m proficient in SVG and SVG animation, as well as
               well-known programs like Figma, Adobe Illustrator, Sketch, and
               similar tools. Moreover, I&apos;m also proficient in SolidWorks,
               if you know what I mean ;)
             </Para>
-          </Center>
+          </Center> */}
         </Section>
 
-        <Section background="right-card">
+        {/* <Section background="right-card">
           <div className="max-w-7xl mx-auto flex flex-col lg:flex-row px-5">
             <div className="max-w-3xl lg:max-w-7xl gap-5 flex flex-col lg:flex-row lg:px-5">
               <div className="w-full lg:w-6/12 max-w-3xl flex flex-col items-start justify-start lg:pl-5 lg:pr-10">
@@ -253,7 +253,7 @@ export function HomeContent() {
                   </div>
                   <div className="hidden sm:flex-1 sm:inline">
                     <BlogCard {...recentPosts[3]} />
-                  </div> */}
+                  </div> 
                 </div>
                 <div className="flex lg:hidden justify-start w-full">
                   <CTA color="gray" icon="news" href="/blog">
@@ -263,7 +263,7 @@ export function HomeContent() {
               </div>
             </div>
           </div>
-        </Section>
+        </Section> */}
 
         <Section background="left-card">
           <div className="w-full">
@@ -271,7 +271,7 @@ export function HomeContent() {
               <Center>
                 <Header>
                   Find more about <br className="hidden lg:inline" />
-                  of me
+                  Ok English
                 </Header>
               </Center>
             </div>
@@ -282,10 +282,10 @@ export function HomeContent() {
             <Logo className="text-link dark:text-link-dark w-24 lg:w-28 mb-10 lg:mb-8 mt-12 h-auto mx-auto self-start" />
             <Header>
               Welcome to the <br className="" />
-              Domscript about
+              Ok English about
             </Header>
             <ButtonLink
-              href={'/about/team'}
+              href={'/about'}
               type="primary"
               size="lg"
               label="Take the Tutorial">

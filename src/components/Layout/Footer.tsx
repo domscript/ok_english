@@ -4,6 +4,7 @@ import cn from 'classnames';
 import {ExternalLink} from 'components/ExternalLink';
 import {IconFacebookCircle} from 'components/Icon/IconFacebookCircle';
 import {IconTwitter} from 'components/Icon/IconTwitter';
+import {IconYoutube} from 'components/Icon/IconYoutube';
 import {IconGitHub} from 'components/Icon/IconGitHub';
 
 function LogoText(props: JSX.IntrinsicElements['svg']) {
@@ -56,7 +57,7 @@ export function Footer() {
                 fill="none"
                 className="text-link"
               />
-              DOMSCRIPT.PRO
+              OK ENGLISH
             </div>
           </FooterLink>
           <p className="text-xs text-left mt-0.5 pr-0.5">
@@ -71,7 +72,7 @@ export function Footer() {
         <div className="flex flex-col">
           <FooterLink isHeader={true}>More</FooterLink>
           <div className="flex flex-row mt-2 gap-x-2">
-            <ExternalLink
+            {/* <ExternalLink
               aria-label="Domscript on LinkedIn"
               href="https://www.linkedin.com/in/domscript"
               className={socialLinkClasses}>
@@ -82,13 +83,19 @@ export function Footer() {
               href="https://twitter.com/domscript"
               className={socialLinkClasses}>
               <IconTwitter />
-            </ExternalLink>
+            </ExternalLink> */}
             <ExternalLink
+              aria-label="Ok English on Youtube"
+              href="https://www.youtube.com/@OkEnglish-888"
+              className={socialLinkClasses}>
+              <IconYoutube />
+            </ExternalLink>
+            {/* <ExternalLink
               aria-label="Domscript on Github"
               href="https://github.com/domscript"
               className={socialLinkClasses}>
               <IconGitHub />
-            </ExternalLink>
+            </ExternalLink> */}
           </div>
         </div>
       </div>

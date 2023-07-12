@@ -29,6 +29,7 @@ import {TocContext} from './TocContext';
 import type {Toc, TocItem} from './TocContext';
 import {TeamMember} from './TeamMember';
 import {FunctionData} from './JS/FunctionData';
+import {AdverbsTable} from './JS/AdverbsTable';
 import {ClassData} from './JS/ClassData';
 import {LogoLink} from './LogoLink';
 
@@ -433,6 +434,7 @@ export const MDXComponents = {
   CodeStep,
   YouTubeIframe,
   FunctionData,
+  AdverbsTable,
   ClassData,
   LogoLink,
 };

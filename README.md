@@ -1,16 +1,14 @@
-# domscript.pro
+# ok.engilsh
 
-Welcome to the documentation for [domscript.pro](https://domscript.pro/), a website powered by [Next.js](https://nextjs.org/) and [React](https://react.dev/), and hosted on [Vercel](https://vercel.com/). This site provides information that covers various topics related to web development, programming, and more. The site also utilizes TailwindCSS and PostCSS for styling, and Sandpack for bringing React code into the site.
+Welcome to the documentation for [ok_english](https://ok_english/), a website powered by [Next.js](https://nextjs.org/) and [React](https://react.dev/), and hosted on [Vercel](https://vercel.com/). This site provides information that covers various topics related to web development, programming, and more. The site also utilizes TailwindCSS and PostCSS for styling, and Sandpack for bringing React code into the site.
 
 ## Site Overview
-
-The site is divided into several sections, including [Home](https://domscript.pro/), [Learn](https://domscript.pro/learn), [Links](https://domscript.pro/links/help), [About](https://domscript.pro/about/team), and [Blog](https://domscript.pro/blog). The [Home](https://domscript.pro/) section provides a brief introduction to the site and its purpose. The [Learn](https://domscript.pro/learn) section contains a variety of information that covers different topics related to web development and programming. The [Links](https://domscript.pro/links/help) section contains a list of helpful resources related to web development and programming. The [About](https://domscript.pro/about/team) section provides information about the site and its creators. The [Blog](https://domscript.pro/blog) section contains articles on various topics related to web development, programming, and more.
 
 ## Getting started
 
 ### Installation
 
-1. `cd domscript.pro` to go into the project root
+1. `cd ok_english` to go into the project root
 2. `yarn` to install the website's npm dependencies
 
 ### Running locally
@@ -23,13 +21,11 @@ The site is divided into several sections, including [Home](https://domscript.pr
 1. Git
 1. Node: any 16.8.x version starting with v16.8.0 or greater
 1. Yarn: See [Yarn website for installation instructions](https://yarnpkg.com/lang/en/docs/install/)
-1. A clone of the [domscript.pro repo](https://github.com/domscript/domscript.pro) on your local machine
+1. A clone of the [ok_english repo](https://github.com/domscript/ok_english) on your local machine
 
 ### File Structure
 
-![image](public/images/help/files_domscript_pro.png)
-
-The file structure of domscript.pro is organized in a way that helps manage the content of the site efficiently. The site's content is stored in Markdown files and is organized into folders based on the section they belong to. The following is the file structure of the domscript.pro site:
+The file structure of ok_english is organized in a way that helps manage the content of the site efficiently. The site's content is stored in Markdown files and is organized into folders based on the section they belong to. The following is the file structure of the ok_english site:
 
 ```
 /pages/
@@ -120,4 +116,4 @@ The site is built using [Next.js](https://nextjs.org/), a popular [React](https:
 
 ## License
 
-Content submitted to [domscript.pro](https://domscript.pro/) is MIT licensed, as found in the [LICENSE](https://github.com/domscript/domscript.pro/blob/main/LICENSE) file.
+Content submitted to [ok english]() is MIT licensed, as found in the [LICENSE](https://github.com/domscript/ok_english/blob/main/LICENSE) file.

@@ -10,16 +10,7 @@
       "title": "About",
       "path": "/about",
       "skipBreadcrumb": true,
-      "routes": [
-        {
-          "title": "Meet the Team",
-          "path": "/about/team"
-        },
-        {
-          "title": "Watch the Videos",
-          "path": "/about/videos"
-        }
-      ]
+      "routes": []
     }
   ]
 }
