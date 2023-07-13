@@ -19,14 +19,14 @@ export const Seo = withRouter(
     title,
     favicon = '/favicon.ico',
     canonical = 'https://domscript.pro/',
-    description = 'Domscript.pro main site',
+    description = 'Ok English main site',
     image = '/images/og-home.png',
     router,
     children,
     isHomePage,
     searchOrder,
   }: SeoProps & {router: Router}) => {
-    const pageTitle = isHomePage ? 'Domscript.pro' : title + ' – Domscript.pro';
+    const pageTitle = isHomePage ? 'Ok English' : title + ' – Ok English';
     // Twitter's meta parser is not very good.
     const twitterTitle = pageTitle.replace(/[<>]/g, '');
     return (
