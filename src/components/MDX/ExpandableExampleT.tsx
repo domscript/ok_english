@@ -114,7 +114,7 @@ function ExpandableExampleT({
         <Button
           active={true}
           className={cn({
-            'bg-cyan-50 border-cyan-50 hover:bg-cyan-40 focus:bg-cyan-50 active:bg-purple-50':
+            'bg-purple-50 border-purple-50 hover:bg-purple-40 focus:bg-purple-50 active:bg-purple-50':
               isPhrasalVerb,
             'bg-yellow-50 border-yellow-50 hover:bg-yellow-40 focus:bg-yellow-50 active:bg-yellow-50':
               isExample,
