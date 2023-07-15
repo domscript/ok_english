@@ -405,6 +405,8 @@ export const MDXComponents = {
     children: React.ReactNode;
     title: string;
     excerpt: string;
+    desc: string;
+    num: number;
   }) => <ExpandableExampleT {...props} type="PhrasalVerb" />,
   Diagram,
   DiagramGroup,
