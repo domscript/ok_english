@@ -8,8 +8,5 @@ Hello, Friend!
 
 </Intro>
 
-
-
-Watch the short intro here:
-
-<YouTubeIframe src="https://www.youtube.com/embed/lDDUrcOdFnQ" title="YouTube video player" />
+**Learn** [Adverbs](/learn/adverbs).
+**Learn** [Super-Duper-Phrasal-Verbs](/learn/super-duper-phrasal-verbs).
