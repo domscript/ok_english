@@ -8,6 +8,7 @@ import {CodeDiagram} from './CodeDiagram';
 import ConsoleBlock from './ConsoleBlock';
 import ExpandableCallout from './ExpandableCallout';
 import ExpandableExample from './ExpandableExample';
+import ExpandableExampleT from './ExpandableExampleT';
 import {H1, H2, H3, H4} from './Heading';
 import InlineCode from './InlineCode';
 import Intro from './Intro';
@@ -400,6 +401,11 @@ export const MDXComponents = {
     title: string;
     excerpt: string;
   }) => <ExpandableExample {...props} type="DeepDive" />,
+  PhrasalVerb: (props: {
+    children: React.ReactNode;
+    title: string;
+    excerpt: string;
+  }) => <ExpandableExampleT {...props} type="PhrasalVerb" />,
   Diagram,
   DiagramGroup,
   FullWidth({children}: {children: any}) {
