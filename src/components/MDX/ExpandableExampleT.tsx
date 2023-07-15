@@ -54,7 +54,7 @@ function ExpandableExampleT({
       className={cn(
         'my-12 rounded-2xl shadow-inner-border dark:shadow-inner-border-dark relative',
         {
-          'dark:bg-opacity-20 dark:bg-cyan-500 bg-cyan-300': isPhrasalVerb,
+          'dark:bg-opacity-20 dark:bg-cyan-50 bg-cyan-5': isPhrasalVerb,
           'dark:bg-opacity-20 dark:bg-yellow-60 bg-yellow-5': isExample,
         }
       )}>
@@ -72,17 +72,17 @@ function ExpandableExampleT({
           className={cn(
             'mb-1 uppercase font-bold items-center text-sm grid grid-cols-11 grid-rows-1 gap-1 grid-flow-row',
             {
-              'dark:text-cyan-500 text-cyan-800': isPhrasalVerb,
+              'dark:text-cyan-50 text-cyan-80': isPhrasalVerb,
               'dark:text-yellow-30 text-yellow-60': isExample,
             }
           )}>
           {isPhrasalVerb && (
             <>
               <span className="col-span-3 col-start-1">
-                <IconDino className="inline mr-2 dark:text-cyan-30 text-cyan-40" />
+                <IconDino className="inline mr-2 dark:text-cyan-30" />
                 Phrasal Verb
               </span>
-              <span className="col-span-7 col-start-4 text-">
+              <span className="col-span-7 col-start-4">
                 Meaning (Most Common)
               </span>
               {/* <span className="col-start-11 text-[0.4em] text-center">
@@ -103,7 +103,7 @@ function ExpandableExampleT({
             className="text-xl font-bold text-primary dark:text-primary-dark col-span-3 col-start-1">
             {children[0].props.children}
           </H4>
-          <H4 className=" text-[0.8em] text-primary dark:text-primary-dark col-span-7 col-start-4">
+          <H4 className="text-xs text-primary dark:text-primary-dark col-span-7 col-start-4">
             {desc}
           </H4>
           <H4 className="text-primary dark:text-primary-dark col-start-11 text-right">
@@ -114,7 +114,7 @@ function ExpandableExampleT({
         <Button
           active={true}
           className={cn({
-            'bg-cyan-700 border-cyan-800 hover:bg-cyan-600 focus:bg-cyan-600 active:bg-cyan-500':
+            'bg-cyan-50 border-cyan-50 hover:bg-cyan-40 focus:bg-cyan-50 active:bg-purple-50':
               isPhrasalVerb,
             'bg-yellow-50 border-yellow-50 hover:bg-yellow-40 focus:bg-yellow-50 active:bg-yellow-50':
               isExample,
@@ -128,7 +128,7 @@ function ExpandableExampleT({
       </summary>
       <div
         className={cn('p-8 border-t', {
-          'dark:border-cyan-700 border-cyan-300 ': isPhrasalVerb,
+          'dark:border-cyan-70 border-cyan-20 ': isPhrasalVerb,
           'dark:border-yellow-60 border-yellow-50': isExample,
         })}>
         {children.slice(1)}

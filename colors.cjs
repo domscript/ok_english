@@ -42,6 +42,19 @@ const pallete = {
   'purple-10': '#E7E9FB',
   'purple-5': '#F3F4FD',
 
+  // Cyan
+
+  'cyan-90': '#164e63',
+  'cyan-80': '#155e75',
+  'cyan-70': '#0e7490',
+  'cyan-60': '#0891b2',
+  'cyan-50': '#06b6d4',
+  'cyan-40': '#22d3ee',
+  'cyan-30': '#67e8f9',
+  'cyan-20': '#a5f3fc',
+  'cyan-10': '#cffafe',
+  'cyan-5': '#ecfeff',
+
   // Green
   'green-60': '#0f766e',
   'green-50': '#0d9488',
@@ -69,7 +82,7 @@ module.exports = {
   'secondary-dark': pallete['gray-10'],
   tertiary: pallete['gray-50'],
   'tertiary-dark': pallete['gray-30'],
-  link: pallete['purple-70'],
+  link: pallete['yellow-40'],
   'link-dark': pallete['purple-65'],
   syntax: pallete['gray-10'],
   wash: pallete['white'],
@@ -102,6 +115,17 @@ module.exports = {
   'blue-20': pallete['blue-20'],
   'blue-10': pallete['blue-10'], // todo: doesn't match illustrations
   'blue-5': pallete['blue-5'],
+
+  'cyan-90': pallete['cyan-90'],
+  'cyan-80': pallete['cyan-80'],
+  'cyan-70': pallete['cyan-70'],
+  'cyan-60': pallete['cyan-60'],
+  'cyan-50': pallete['cyan-50'],
+  'cyan-40': pallete['cyan-40'],
+  'cyan-30': pallete['cyan-30'],
+  'cyan-20': pallete['cyan-20'],
+  'cyan-10': pallete['cyan-10'],
+  'cyan-5': pallete['cyan-5'],
 
   'yellow-60': pallete['yellow-60'],
   'yellow-50': pallete['yellow-50'],
