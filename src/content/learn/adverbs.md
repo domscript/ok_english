@@ -10,7 +10,7 @@ Information on this page give you basic knowlege About Adverbs.
 
 <YouWillLearn isChapter={false}>
 
-- Adverbs
+-  <CodeStep step={1}>Adverbs</CodeStep>
 
 </YouWillLearn>
 
@@ -22,37 +22,39 @@ Watch the short intro here:
 
 #### Adverbs are a part of speech that modify or describe verbs {/*adverbs-are-a-part-of-speech-that-modify-or-describe-verbs*/}
 
-Adverbs are a part of speech that modify or describe verbs, adjectives, or other adverbs. They provide additional information about how an action is performed, the manner in which something is done, or the frequency or intensity of an action or quality.
+<CodeStep step={1}>Adverbs</CodeStep> are a part of speech that modify or describe verbs, adjectives, or other adverbs. They provide additional information about how an action is performed, the manner in which something is done, or the frequency or intensity of an action or quality.
 
-Adverbs of manner (HOW?): They describe how an action is performed. For example:
+* Adverbs of manner (HOW?): They describe how an action is performed.
 
-She sings beautifully.
-He walked slowly.
+  > Examples:
+  > * She sings beautifully.
+  > * He walked slowly.
 
-Adverbs of time (WHEN?): They indicate when an action takes place. For example:
+* Adverbs of time (WHEN?): They indicate when an action takes place.
 
-They arrived yesterday.
-We will go tomorrow.
+  > Examples:
+  > * They arrived yesterday.
+  > * We will go tomorrow.
 
-Adverbs of place(WHERE?): They specify where an action occurs. For example:
+* Adverbs of place(WHERE?): They specify where an action occurs.
 
-She looked everywhere.
-The book is here.
+  > Examples:
+  > * She looked everywhere.
+  > * The book is here.
 
-Adverbs of degree (HOW MUCH?): These adverbs modify adjectives, adverbs, or other words to indicate the intensity, extent, or level of something. They help provide a clearer picture of the degree or intensity of a quality or action.
-For example:
+* Adverbs of degree (HOW MUCH?): These adverbs modify adjectives, adverbs, or other words to indicate the intensity, extent, or level of something. They help provide a clearer picture of the degree or intensity of a quality or action.
 
-She is very intelligent.
-It's quite hot outside.
+  > Examples:
+  > * She is very intelligent.
+  > * It's quite hot outside.
 
-Adverbs of frequency (HOW OFTEN?): They describe how often an action occurs. For example:
+* Adverbs of frequency (HOW OFTEN?): They describe how often an action occurs. For example:
 
-I always go for a run in the morning.
-He rarely eats fast food.
+  > * I always go for a run in the morning.
+  > * He rarely eats fast food.
 
 </DeepDive>
 
-Adverbs (hover any symbol or word and read):
 
 <AdverbsTable />
 
