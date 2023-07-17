@@ -10,13 +10,12 @@ Information on this page give you basic knowlege About Phrasal Verbs.
 
 <YouWillLearn isChapter={false}>
 
-- List of 390+ Most Common English Phrasal Verbs and Their Definitions
+- List of 400+ Most Common English Phrasal Verbs and Their Definitions
 
 </YouWillLearn>
 
-Watch the short intro here:
 
-<YouTubeIframe src="https://www.youtube.com/embed/Oqq3UmJmYqU" title="YouTube video player" />
+
 
 <DeepDive>
 
