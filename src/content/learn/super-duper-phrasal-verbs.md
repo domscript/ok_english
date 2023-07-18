@@ -62,6 +62,8 @@ If you studied the English language for years, then came to the United States an
    > `Examples: `
     > * Did you see that diet commercial aimed at people who want to gain weight?
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -92,6 +94,8 @@ If you studied the English language for years, then came to the United States an
     > * You’re asking for trouble by traveling to that side of town.
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -117,6 +121,8 @@ If you studied the English language for years, then came to the United States an
   >Examples:
   > * The prince had already asked Cinderella out to the movies with him, when he kissed her.
   > * Just because a guy asks a girl out on a date doesn’t mean he has to pay for everything, right?
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -146,6 +152,8 @@ If you studied the English language for years, then came to the United States an
     > * He backed down in the argument out of respect for his mother.
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -172,6 +180,8 @@ If you studied the English language for years, then came to the United States an
     > * The relationship was moving too fast, so Tyler backed off.
     > * The CEO had showed the manager how to do the project, and then backed off so he could finish it on his own.
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -219,6 +229,8 @@ If you studied the English language for years, then came to the United States an
     > * This is the third time this week the drain has been backed up.
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -251,6 +263,8 @@ If you studied the English language for years, then came to the United States an
     > * The car looks so beat up, I doubt it will start.
     > * The tires look so beatup and worn out, I’m afraid it’s gonna blow any moment.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -275,6 +289,8 @@ If you studied the English language for years, then came to the United States an
     > Examples:
     > * Sherman beefed up their home by having a swimming pool built.
     > * They needed to beef up their science project more in order to win the contest.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -309,6 +325,8 @@ If you studied the English language for years, then came to the United States an
     > * Thanks to the internet and YouTube, more and more people are starting to believe in Illuminati.
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -340,6 +358,8 @@ If you studied the English language for years, then came to the United States an
     > Examples:
     > * China is known for biting off other countries’ products.
     > * Samsung bit off Apple’s iPhone with the Galaxy.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -385,6 +405,8 @@ If you studied the English language for years, then came to the United States an
     > * Don’t blow all your money away at the casino!
 Dean blows away his money on partying and girls.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -424,6 +446,8 @@ Dean blows away his money on partying and girls.
     > * Why did you blow my question off like that in the meeting?
     > * Susan told Darin that she had to work late, but Darin knew it was just a blow off.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -461,6 +485,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * The Miami Heat totally blew out the Chicago Bulls!
     > * I hope the Seahawks blow out every team in the playoffs and Super Bowl this year.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -518,6 +544,8 @@ Dean blows away his money on partying and girls.
     > * His phone is always blowing up.
     > * Stop blowing up my phone!
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -543,6 +571,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Their endless fights all boil down to their stubbornness.
     > * In the end, it all boiled down to who was willing to make the sacrifice.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -603,6 +633,8 @@ Dean blows away his money on partying and girls.
     > * Did you know that the liver is the organ responsible for breaking down alcohol in your body so you don’t get poisoned?
     > * A molecule is made up of two or more atoms, so if you break down a molecule, there will be two or more atoms.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -640,6 +672,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * The dog has to stay outside because he hasn’t been broken in yet.
     > * After we break in the rabbit, we can let it out of its cage.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -685,6 +719,8 @@ Dean blows away his money on partying and girls.
     > * It is important to trim your ends regularly so they don’t split and break off.
     > * The branch is going to break off if you keep sitting on it.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -725,6 +761,8 @@ Dean blows away his money on partying and girls.
     > * Jim breaks out in a sweat whenever he speaks in public.
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -756,6 +794,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * It looks like the sun is trying to break through the clouds.
     > * Her talent really breaks through when she is performing on stage.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -801,6 +841,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Janice broke up with Brad over the weekend.
     > * It was a mutual breakup.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -848,6 +890,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -873,6 +917,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Chris brought a few friends over to Saren’s house party.
     > * I’ll bring my guitar over so we can practice.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -913,6 +959,8 @@ Dean blows away his money on partying and girls.
     > * We were brought up on home cooked meals, so we rarely eat at restaurants.
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -944,6 +992,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * You need to stop being so sensitive and learn how to brush off rude comments.
     > * I saw Ny yesterday at the mall, but she brushed me off like she didn’t see me.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -977,6 +1027,8 @@ Dean blows away his money on partying and girls.
     > * Be careful not to brush up against the stove. It’s hot!
     > * Cats show affection by brushing up against you.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -1002,6 +1054,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * People now build a security system into their homes for maximum protection.
     > * I would love to have a vanity built in my bathroom.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -1035,6 +1089,8 @@ Dean blows away his money on partying and girls.
     > * My younger brother is so tall that he often bumps his head in doorways.
     > * When Randy first started to learn how to ride a bicycle, a cat crossed the street and he ended up bumping into the trash can.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -1066,6 +1122,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * By the time the firemen arrived, half of the building had already burned down.
     > * A lot of buildings were burned down in the Great Chicago Fire of 1871.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -1104,6 +1162,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * The motor burned out, so we have to get it replaced.
     > * Our light bulb keeps flickering, and I think it is about burn out.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -1152,6 +1212,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -1186,6 +1248,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -1211,6 +1275,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * The mother scolded her son for butting in on the conversation she was having with another adult.
     > * It is rude to butt in when two people are having a discussion.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -1243,6 +1309,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Your mom called while you were at lunch, and told me to tell you to call her back.
     > * I left you several messages. Why didn’t you call me back?!
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -1282,6 +1350,8 @@ Dean blows away his money on partying and girls.
     > * Mom said we can go hiking, but we must call in every hour, so she knows everything is okay.
     > * Agatha’s boyfriend is the sweetest man. He calls in just to tell her he is thinking of her.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -1314,6 +1384,8 @@ Dean blows away his money on partying and girls.
     > * The police called off the dogs as soon as the criminal was restrained.
     > * The neighbors always have to call their dogs off when the postman arrives.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -1345,6 +1417,8 @@ Dean blows away his money on partying and girls.
     > * I miss being able to call up my grandma and listen to her funny stories.
     > * I want to talk to someone, but there is no one to call up.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -1370,6 +1444,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Calm down, you’re gonna give yourself a heart attack.
     > * The surfers waited for the sea to calm down a bit before getting in the water.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -1403,6 +1479,8 @@ Dean blows away his money on partying and girls.
     > * I love to watch couples who truly care for one another.
     > * He doesn’t care for you anymore.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -1434,6 +1512,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * The pallbearers carried the casket away to the hearse.
     > * Where are you carrying those speakers away to?
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -1472,6 +1552,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * The attendant said my bag was too big to carry on the plane, so I had to check it.
     > * Jess prefers to take the train because he can take more than one carry-on.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -1523,6 +1605,8 @@ Dean blows away his money on partying and girls.
     > * Teenagers are doing a lot more than just making out these days.
     > * There is nothing wrong with a little public display of affection, but to make out in public is just plain indecent. Get a room!
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -1554,6 +1638,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * TLC immediately caught on when they released their first single ‘Ain’t to Proud to Beg’.
     > * I wish twerkin’ never caught on.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -1587,6 +1673,8 @@ Dean blows away his money on partying and girls.
     > * My sister caught me up on all the family drama.
     > * What’s the latest in the Aaron Hernandez case? I haven’t been following it lately, so I need to be caught up.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -1618,6 +1706,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Dennis was tempted to cheat on his exams, but ultimately he studied hard and did well.
     > * Christy got a perfect score only because she cheated on the test.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -1652,6 +1742,8 @@ Dean blows away his money on partying and girls.
     > * Go check in on your grandma on your way home from school today.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -1705,6 +1797,8 @@ Dean blows away his money on partying and girls.
     > * The old man checked out in his sleep last night.
     > * It’s been a long day, so I think I’m going to check out early tonight.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -1730,6 +1824,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Hanna wanted to audition for The Voice, but chickened out.
     > * Are you sure you’re gonna do it? It seems to me like you’re chickening out.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -1763,6 +1859,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Nina and Sara were chopping it up on the phone, when the operator interrupted their line with a message that Nina only had two minutes of talk time remaining.
     > * Let’s go somewhere to chop it up after school today.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -1802,6 +1900,8 @@ Dean blows away his money on partying and girls.
     > * All my CDs were cleaned out of my car while I was in the grocery store.
     > * The robbers cleaned the biggest bank in the city out.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -1833,6 +1933,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Thankfully, the occupants of the building had cleared out before the bomb exploded.
     > * The employees were asked to clear out the office when the manager arrived.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -1872,6 +1974,8 @@ Dean blows away his money on partying and girls.
     > * The sky is starting to clear up. I see some blue!
     > * I hope this weather clears up soon so we can go outside and play.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -1897,6 +2001,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Hey, watch what you eat! You wouldn’t want to clog your arteries up with cholesterol, would you?
     > * Mandy poured grease in the sink, and it clogged the drain up.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -1936,6 +2042,8 @@ Dean blows away his money on partying and girls.
     > * The coffee shop closes down at 10 pm every night.
     > * All schools are closed down because of the bad snow storms.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -1970,6 +2078,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -1995,6 +2105,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Why did this meeting come about?
     > * I don’t know how this mess came about, but someone needs to clean it.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -2034,6 +2146,8 @@ Dean blows away his money on partying and girls.
     > * I came across a word in the dictionary that I didn’t even know existed.
     > * I came across an amazing leather jacket at the thrift store today.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -2059,6 +2173,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * The bottom of my shoe came apart, so I used super glue to fix it.
     > * If you don’t wait for the cake to cool, it will come apart when you remove it from the pan.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -2099,6 +2215,8 @@ Dean blows away his money on partying and girls.
     > * If your fever keeps coming back, you should go to the doctor.
     > * Ugh! My dandruff came back!
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -2131,6 +2249,8 @@ Dean blows away his money on partying and girls.
     > * I will buy a new smartphone when the prices come down.
     > * Ask the owner if he is willing to come down on the price of the car.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -2157,6 +2277,8 @@ Dean blows away his money on partying and girls.
     > * What this is all coming down to is your inability to think clearly. Am I right?
     > * I didn’t agree to doing this for it to come down to everyone not doing their part.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -2182,6 +2304,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * I think I’m coming down with the flu.
     > * Trinity was sent to the school nurse because she had come down with a fever.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -2246,6 +2370,8 @@ Dean blows away his money on partying and girls.
     > * We are preparing for the camping trip. What other items do you think would come in handy?
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -2289,6 +2415,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * When she first met the manager, he came off as arrogant.
     > * Famous celebrities always wave and smile to the camera because they don’t want to ruin their public image by coming off as unfriendly.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -2340,6 +2468,8 @@ Dean blows away his money on partying and girls.
     > * The power came on as soon as he paid the bill.
     > * My computer isn’t coming on! What’s going on?!
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -2409,6 +2539,8 @@ Dean blows away his money on partying and girls.
     > * I never buy anything when it first comes out.
     > * Have you seen the frenzy at the mall when a new pair of Jordan’s come out?
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -2446,6 +2578,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * A wave of jealousy came over him when he’d seen his girlfriend with her ex-boyfriend.
     > * A feeling of hunger came over her because she hadn’t eaten all day.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -2486,6 +2620,8 @@ Dean blows away his money on partying and girls.
     > * The love Jude feels for Tara came through when he said his vows.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -2544,6 +2680,8 @@ Dean blows away his money on partying and girls.
     > * My father is coming up from Brazil this weekend.
     > * You have to come up to the roof deck to see the sunrise.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -2569,6 +2707,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * My two year old daughter is always coming up with funny things to say.
     > * You’d better come up with a good excuse for being late, or you’ll be fired!
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -2598,6 +2738,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -2623,6 +2765,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Jack is trying to con his dad out of more allowance by telling him that he had never received it.
     > * The man was conned out of his concert tickets.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -2656,6 +2800,8 @@ Dean blows away his money on partying and girls.
     > * Sir, please let the coffee cool off a bit before drinking.
     > * I love the weather in San Diego because it’s hot during the day, and then it cools off at night.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -2688,6 +2834,8 @@ Dean blows away his money on partying and girls.
     > * You can always count on having a great time in New Orleans. There is so much to see and do!
     > * Farmers count on their crops to grow for profit.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -2713,6 +2861,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * America waited nervously for the votes to be counted up and the new president to be announced.
     > * Can you count up how many vacant seats are left in the room?
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -2746,6 +2896,8 @@ Dean blows away his money on partying and girls.
     > * Who are you covering up for?
     > * The coffee house on the corner is a cover-up for the mafia.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -2774,6 +2926,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -2800,6 +2954,8 @@ Dean blows away his money on partying and girls.
     > * The teacher crossed the student’s name off the roster when he hadn’t showed up for class in four days.
     > * If you change your mind, let me know, so I can cross your name off the members list.
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -2844,6 +3000,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * The cutback in production cost has frustrated the producers of the film.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -2881,6 +3039,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * The boss cut her down in the middle of her presentation.
     > * It’s rude to cut people down just because you don’t agree with their opinion.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -2938,6 +3098,8 @@ Dean blows away his money on partying and girls.
     > * Stella has a nasty habit of cutting people off by not talking to them for weeks at a time.
     > * Mike had to cut off his friends when he realized they were a bad influence.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -2988,6 +3150,8 @@ Dean blows away his money on partying and girls.
     > * The movie director cut out one of the most intense sex scenes of the movie.
     > * I hate when books become movies because some of the best parts are cut out of the film.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -3019,6 +3183,8 @@ Dean blows away his money on partying and girls.
     > Examples: 
     > * The police officers are always cutting up in the bar on their days off.
     > * Mikey, please don’t cut up in school today.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -3052,6 +3218,8 @@ Dean blows away his money on partying and girls.
     > * TED talks are supposed to deal with Technology, Entertainment and Design.
     > * “Fast & Furious 6” deals with a cop getting help from criminals to catch a global criminal.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -3083,6 +3251,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * The king ordered his men to do away with the thieves.
     > * The mob will do away with anyone who tries to betray them.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -3118,6 +3288,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -3142,6 +3314,8 @@ Dean blows away his money on partying and girls.
 
     > Examples:
     > * Physics and Mathematics both have to do with logic.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -3168,6 +3342,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Due to the reliable public transportation in New York, people can do without a car.
     > * After living in China for a year, I learned how to do without many things
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -3197,6 +3373,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -3223,6 +3401,8 @@ Dean blows away his money on partying and girls.
     > * Aristocrats tend to dress up for dinner.
     > * What are you dressing up as for Halloween?
     > * My cousins and I used to play dress-up in my mom’s clothes, and pretend to be movie stars.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -3255,6 +3435,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * I dropped my phone in the toilet.
     > * Just drop my keys in the bowl by the door.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -3290,6 +3472,8 @@ Dean blows away his money on partying and girls.
     > * Can you please drop me off at work?
     > * [Noun] In mobster movies, the criminals always refer to a secret drop-off where they make illegal transactions.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -3316,6 +3500,8 @@ Dean blows away his money on partying and girls.
     > * Albert Einstein dropped out of high school, but still went to college.
     > * The runner got a bad cramp in his leg and had to drop out of the race.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -3341,6 +3527,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * After you finish washing the dishes, dry them off with a paper towel.
     > * You should use an old t-shirt to dry off your hair because a towel is too rough on the strands.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -3380,6 +3568,8 @@ Dean blows away his money on partying and girls.
     > * This weather will dry you out if you don’t drink enough water and use moisturizer.
     > * The color dried my hair out real bad.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -3411,6 +3601,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * A study showed that a mother’s breast milk could dry up quickly, which can pose a problem for mothers who breastfeed their babies.
     > * Canada is the largest exporter of petroleum, so it better not dry up.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -3450,6 +3642,8 @@ Dean blows away his money on partying and girls.
     > * What’s eating her up? She seems so miserable.
     > * The king was eaten up by greed during his reign.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -3475,6 +3669,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * She emptied out all her bank accounts and traveled the world.
     > * The police were ordered to empty the people out of the underground establishment.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -3503,6 +3699,8 @@ Dean blows away his money on partying and girls.
     > * Don’t do drugs if you don’t wanna end up dead.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -3544,6 +3742,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -3576,6 +3776,8 @@ Dean blows away his money on partying and girls.
     > * I hate falling behind in my bills.
     > * We fell behind in the meeting because there were too many off-topic discussions.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -3601,6 +3803,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Jack tripped and fell down in a puddle of water.
     > * The first sign of fall is when the leaves on the trees start falling down.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -3633,6 +3837,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Celine couldn’t believe she almost fell for my practical joke.
     > * Lots of people are falling for scams that trick them into sending money to strangers they meet online.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -3667,6 +3873,8 @@ Dean blows away his money on partying and girls.
     > * We used to be best friends in high school, but our friendship has fallen off over the years.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -3706,6 +3914,8 @@ Dean blows away his money on partying and girls.
     > * Many women’s hair fall out after giving birth.
     > * When your tooth falls out, be sure to place it under your pillow for the tooth fairy.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -3737,6 +3947,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Jenny is such a pretty girl that wherever she goes all the boys fall over themselves trying to talk to her.
     > * He was hired because he was the only candidate who didn’t fall over himself to get the job.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -3770,6 +3982,8 @@ Dean blows away his money on partying and girls.
     > * Do you remember that scene where Harry Potter fell through the ice while he was looking for the sword?
     > * Don’t play on the frozen lake! You could fall through and drown!
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -3795,6 +4009,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * I know you’re not feeling well, but are you feeling up to a drive.
     > * We’re going to Spain next month. What do you say, do you feel up to it?
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -3828,6 +4044,8 @@ Dean blows away his money on partying and girls.
     > * Jeremy tried to fight back his tears when his father hugged him for the first time in years.
     > * Samantha was so upset that she had to fight back the urge to scream.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -3853,6 +4071,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Let’s figure on going to Africa for the holiday.
     > * Why don’t you figure on studying medicine?
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -3892,6 +4112,8 @@ Dean blows away his money on partying and girls.
     > * You have to fill me in on your date with Ray. How’d it go?
     > * They never fill me in on any of the news around here.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -3923,6 +4145,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Jane filled out so much in her face that I almost didn’t recognize her.
     > * I do lunges everyday in hopes of filling out my back side.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -3962,6 +4186,8 @@ Dean blows away his money on partying and girls.
     > * The arena was filled up with so many people for the New Kids on the Block reunion concert that it was insane!
     > * The beach resorts fill up during the summer.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -3987,6 +4213,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Many people like to find out about the personal lives of celebrities.
     > * Did you find out who took the cookie out the cookie jar?
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -4032,6 +4260,8 @@ Dean blows away his money on partying and girls.
     > * Can you please fix me up a plate? I’m starving!
     > * I need to fix up some snacks for the book club tonight.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -4057,6 +4287,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * She flipped out on her friend for sleeping with her boyfriend
     > * I need to leave before I flip out on someone.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -4090,6 +4322,8 @@ Dean blows away his money on partying and girls.
     > * Several theories as to the whereabouts of the missing Malaysia flight have been floating around.
     > * The idea is still floating around that people who travel to the Bermuda Triangle will get lost there.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -4117,6 +4351,8 @@ Dean blows away his money on partying and girls.
     > * Every week Lisa called the bank to follow up on the status of her loan application.
     > * [noun] After the initial physical examination, my cousin was advised to make a follow-up appointment.
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -4162,6 +4398,8 @@ Dean blows away his money on partying and girls.
     > * Ian was just fooling around when he called you ugly.
     > * Are you fooling around with me?
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -4187,6 +4425,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Stephanie nearly freaked out when she found out that her dad was dating an eighteen year old.
     > * A lot of people don’t think they’re afraid of heights, but freak out when they try mountain climbing.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -4226,6 +4466,8 @@ Dean blows away his money on partying and girls.
     > * I ran as hard as I could, and got ahead of the other runners.
     > * My wife got ahead in the line at the bank by telling everyone she had an emergency.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -4258,6 +4500,8 @@ Dean blows away his money on partying and girls.
     > * Bryce is getting along really well in his new job as a paramedic.
     > * Tracy moved to New York a year ago and is finally getting along pretty well in the big city.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -4283,6 +4527,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Mary has finally gotten around to auditioning for The Voice.
     > * Ricky’s parents are so glad that after ten years, he is finally getting around to getting married.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -4315,6 +4561,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Let’s get away for the weekend.
     > * I love that my parents still go on romantic getaways after 50 years of marriage.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -4360,6 +4608,8 @@ Dean blows away his money on partying and girls.
     > * Everyone got back as soon as the building started to fall.
     > * The celebrity’s bodyguard told the paparazzi to get back.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -4385,6 +4635,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Norma told Sara’s secret to the whole school, so Sara got back at her by telling everyone that Norma was really a boy.
     > * It’s childish to get back at someone for something they did.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -4419,6 +4671,8 @@ Dean blows away his money on partying and girls.
     > * Things are finally getting back to normal after the recession.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -4464,6 +4718,8 @@ Dean blows away his money on partying and girls.
     > * People all around the world got behind the Occupy Movement.
     > * The investors would only get behind him if he gave them 25 percent plus royalties.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -4502,6 +4758,8 @@ Dean blows away his money on partying and girls.
     > * The guards are really diligent and nothing gets by them.
     > * Do you really believe that’s going to get by mom?
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -4546,6 +4804,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * The fraternity got down at the step show last night.
     > * C’mon, let’s go get down tonight!
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -4598,6 +4858,8 @@ Dean blows away his money on partying and girls.
     > * Do you want to get in a few laps in the pool after work?
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -4655,6 +4917,8 @@ Dean blows away his money on partying and girls.
     > * I need to get off this phone and start dinner.
     > * They went to sleep on the phone because neither of them wanted to get off.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -4686,6 +4950,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * We didn’t get off on a good note when we first met.
     > * The meeting got off on the right track with the investors.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -4743,6 +5009,8 @@ Dean blows away his money on partying and girls.
     > * Francis’ mother to him that he needs to get on with his English homework.
     > * Stop talking and concentrate! You need to be getting on with your reading.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -4799,6 +5067,8 @@ Dean blows away his money on partying and girls.
     > * If I help you, what will I get out of it?
     > * People like performance coupons because they can get the most out of a good deal.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -4843,6 +5113,8 @@ Dean blows away his money on partying and girls.
     > * I got out of working overtime by pretending I didn’t feel well.
     > * Whew! I’m so glad we were able to get out of going to detention.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -4883,6 +5155,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -4910,6 +5184,8 @@ Dean blows away his money on partying and girls.
     > * I knew I wanted to have kids, so I got all my partying and wild nights over with before having any.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -4967,6 +5243,8 @@ Dean blows away his money on partying and girls.
     > * The doctor got his students through their residency program successfully.
     > * I don’t know how I got through that test. It was so hard!
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -5017,6 +5295,8 @@ Dean blows away his money on partying and girls.
     > * Mason swore that he would never let bad thoughts get to him again.
     > * Don’t let that bully get to you.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -5054,6 +5334,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * You need to get yourself together and stop crying right now.
     > * He’s a great man who’s got it together.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -5098,6 +5380,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Let’s get up later this week for dinner or something.
     > * Farah and Vina get up every week for happy hour.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -5144,6 +5428,8 @@ Dean blows away his money on partying and girls.
     > * Sharon asked her uncle to give her away at the wedding since her father had died.
     > * Paul will be giving away his daughter to Brad this Sunday.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -5177,6 +5463,8 @@ Dean blows away his money on partying and girls.
     > * The aspiring artists gave in their sample music to the recording studio this morning.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -5222,6 +5510,8 @@ Dean blows away his money on partying and girls.
     > * The monitor is giving out some weird noise.
     > * The truck in front of us is giving out a lot of smoke.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -5266,6 +5556,8 @@ Dean blows away his money on partying and girls.
     > * Does getting married really mean giving up your independence?
     > * Working overtime means giving up time to socialize with friends.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -5297,6 +5589,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * I don’t think you went about the situation the right way, and that’s why the problem still exists.
     > * You might want to go about it differently this time.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -5342,6 +5636,8 @@ Dean blows away his money on partying and girls.
     > * Facebook is trying to go after a younger audience by buying companies like Instagram.
     > * Google has gone after customers in nearly every market in the world.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -5374,6 +5670,8 @@ Dean blows away his money on partying and girls.
     > * The ticket agent scanned our tickets and told us to go ahead.
     > * I’m not ready yet, so you can go ahead in front of me.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -5404,6 +5702,8 @@ Dean blows away his money on partying and girls.
 
     > Examples:
     > * I am going to go along with Marty to the mall while you go along with your boss.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -5461,6 +5761,8 @@ Dean blows away his money on partying and girls.
     > * The Ferris wheel goes around too slow.
     > * In the game spin the bottle, most people hope the bottle goes around and stops in front of the person they want to kiss.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -5499,6 +5801,8 @@ Dean blows away his money on partying and girls.
     > * My fever went away after I took a cold bath.
     > * The rash on my arm is going away on its own.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -5531,6 +5835,8 @@ Dean blows away his money on partying and girls.
     > * Johnny and Timmy go back to the fifth grade. They’ve been friends for a very long time.
     > * The mystery surrounding that house goes all the way back to the 19th century.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -5559,6 +5865,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -5584,6 +5892,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * A great police officer is one who goes beyond his duty to help people.
     > * Their relationship goes beyond just being lovers. They are best friends as well.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -5628,6 +5938,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Another day has gone by and we still haven’t heard from him.
     > * Can you believe how fast time is going by? I swear it was just September!
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -5692,6 +6004,8 @@ Dean blows away his money on partying and girls.
     > * The presentation didn’t go down as well as he had planned, so he didn’t get the account.
     > * The argument went down very badly, and now they aren’t speaking.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -5742,6 +6056,8 @@ Dean blows away his money on partying and girls.
     > * I don’t go for bald men.
     > * Helena doesn’t go for guys.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -5780,6 +6096,8 @@ Dean blows away his money on partying and girls.
     > * Every Thanksgiving my cousins go in on the turkey and greens.
     > * Dang, you’re going in on that ice cream!
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -5813,6 +6131,8 @@ Dean blows away his money on partying and girls.
     > * The honey will have to go in the recipe for the sugar because there isn’t anymore.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -5857,6 +6177,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * He went into engineering after he graduated.
     > * He’s planning to go into the medical field after he finishes school.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -5908,6 +6230,8 @@ Dean blows away his money on partying and girls.
     > * The bomb made a lot of people panic when it went off.
     > * My alarm didn’t go off this morning, so I was late for work.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 <PhrasalVerb desc="when something takes place." num={3}>
@@ -5946,6 +6270,8 @@ Dean blows away his money on partying and girls.
     > * During Ramadan, people of the Muslim religion go on a fast from sunrise to sunset.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -5999,6 +6325,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -6043,6 +6371,8 @@ Dean blows away his money on partying and girls.
     > * Let me go over the details again so you’ll understand.
     > * The HR department thoroughly goes over each application letter one by one.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -6068,6 +6398,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Nigel went through his plan and married his girlfriend, despite being nervous about it.
     > * Frank decided not to go through with his plan to move to Europe.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -6106,6 +6438,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Food prices go up everyday.
     > * Jada used to be skinny, but her weight went up after she had kids.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -6163,6 +6497,8 @@ Dean blows away his money on partying and girls.
     > * I think I’ll go with the kale salad.
     > * We need to decide on which wedding planner to go with.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -6189,6 +6525,8 @@ Dean blows away his money on partying and girls.
     > * The children goofed around outside with the dog.
     > * He is always goofing around.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -6214,6 +6552,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * The children goofed around outside with the dog.
     > * He is always goofing around.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -6253,6 +6593,8 @@ Dean blows away his money on partying and girls.
     > * The idea to live in Barcelona grew out of a film she’d seen about the beautiful city.
     > * Sharon’s passion for fashion grew out of her admiration for Elizabeth Taylor’s wardrobe.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -6287,6 +6629,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -6312,6 +6656,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * After closely inspecting my badge, the official handed it back to me.
     > * He handed the ring back to the salesman as soon as he’d heard the price.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -6339,6 +6685,8 @@ Dean blows away his money on partying and girls.
     > * I handed in my Thesis a week before the deadline.
     > * Be sure to double check your answers before handing in the test.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -6364,6 +6712,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * The professor asked his students to hand out fliers for his free seminar to the other students on campus.
     > * We need more handouts.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -6397,6 +6747,8 @@ Dean blows away his money on partying and girls.
     > * The team was handed over to the assistant coach after the head coach retired.
     > * The police handed the case over to the FBI.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -6422,6 +6774,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * My friends and I were hanging around the theater trying to get tickets to the sold out show.
     > * They hung around the house the whole afternoon.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -6463,6 +6817,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -6500,6 +6856,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Now that Lauren has a boyfriend, she rarely hangs out with her friends.
     > * Let’s go to our hangout after school today.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -6539,6 +6897,8 @@ Dean blows away his money on partying and girls.
     > * Dave was completely hung up about his crush that he would always mention her name in conversations.
     > * Mr. Tanaka was hung up over the terrible accident he witnessed this morning.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -6571,6 +6931,8 @@ Dean blows away his money on partying and girls.
     > * We always have the air conditioner on at night.
     > * Did you have the television on?
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -6598,6 +6960,8 @@ Dean blows away his money on partying and girls.
     > * C’mon, let’s head back to class before we’re marked absent.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -6631,6 +6995,8 @@ Dean blows away his money on partying and girls.
     > * We need to head for the border if we’re going to make it across before noon.
     > * Last time we saw Lucy, she was headed for Europe.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -6663,6 +7029,8 @@ Dean blows away his money on partying and girls.
     > * You’re headed towards great success!
     > * You’ll be headed towards heartbreak if you date him.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -6690,6 +7058,8 @@ Dean blows away his money on partying and girls.
     > * Pauline immediately drove home from work when she heard the news about her mom’s accident.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -6722,6 +7092,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * I will not hear of you going out with boys while you are living under my roof.
     > * Your father will not hear of you becoming a rapper.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -6757,6 +7129,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -6782,6 +7156,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Can you help us out with redecorating the place?
     > * Parents should always help out their kids.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -6814,6 +7190,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * My friend once got himself into trouble by hitting on a married woman.
     > * Mallory has the tendency to hit on her friends when she gets drunk.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -6849,6 +7227,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -6882,6 +7262,8 @@ Dean blows away his money on partying and girls.
     > * The Miami Heat tried to hold off the San Antonio Spurs from driving the lane, but the Spurs were just too quick-witted and strong.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -6920,6 +7302,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * I held on to my hat when the wind got strong, so I would lose it.
     > * The boy held on to his mother on the first day of school. He didn’t want her to leave.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -6960,6 +7344,8 @@ Dean blows away his money on partying and girls.
     > * You should hold out for what you really want, so in the end you won’t have any regrets.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -7005,6 +7391,8 @@ Dean blows away his money on partying and girls.
     > * Sheila is holding up pretty well despite her recent divorce.
     > * I hope my car holds up until I can afford to get it fixed next week.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -7043,6 +7431,8 @@ Dean blows away his money on partying and girls.
     > * Stacy’s friend works at Louis Vuitton, so she is always hooking her up with shoes and purses for half the price.
     > * My cell phone provider hooked me up with a free phone upgrade.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -7068,6 +7458,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * I need to hurry up and finish my homework before it gets too late.
     > * Mom! Dad said you had better hurry up or else we’re gonna leave you!
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -7096,6 +7488,8 @@ Dean blows away his money on partying and girls.
     > * Despite the obstacles in learning medicine, Kimora kept at her studies and graduated at the top of her class.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -7128,6 +7522,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Keep negative people away because they will be the first ones to tell you what you can’t do.
     > * My father told me to keep away from that side of town.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -7167,6 +7563,8 @@ Dean blows away his money on partying and girls.
     > * Sometimes your friends will try to keep you down because they aren’t doing anything productive.
     > * You’re too smart to allow others to keep you down.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -7192,6 +7590,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Nothing can keep the Hulk from ripping his shirt when he is angry.
     > * Jim is so funny that I can never keep from laughing when he’s around.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -7225,6 +7625,8 @@ Dean blows away his money on partying and girls.
     > * Hey, keep off the grass!
     > * The doctor wants to keep her off the medication for a while.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -7256,6 +7658,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * The company decided to keep all the temps on as regular full-time employees when their contract ends.
     > * Keep the television on the news channel.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -7290,6 +7694,8 @@ Dean blows away his money on partying and girls.
     > * Let’s keep to this route the whole way to Mexico.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -7335,6 +7741,8 @@ Dean blows away his money on partying and girls.
     > * When I lived abroad, I didn’t keep up with sports.
     > * I admire how the older generations try to keep up with technology.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -7367,6 +7775,8 @@ Dean blows away his money on partying and girls.
     > * Let’s all kick back and enjoy the show.
     > * I’m just going to kick back this weekend.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -7394,6 +7804,8 @@ Dean blows away his money on partying and girls.
     > * No one is going to kick you out, so stop worrying.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -7453,6 +7865,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -7510,6 +7924,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -7538,6 +7954,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -7565,6 +7983,8 @@ Dean blows away his money on partying and girls.
     > * I studied Mandarin for a year, so I know about the tones and pronunciation.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -7604,6 +8024,8 @@ Dean blows away his money on partying and girls.
     > * Evander Holyfield laid down Mike Tyson in the third round.
     > * The soldiers were laid down in the ambush.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -7639,6 +8061,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -7664,6 +8088,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * It was their constant fighting that led up to the divorce.
     > * Their years of friendship led up to their wedding engagement.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -7709,6 +8135,8 @@ Dean blows away his money on partying and girls.
     > * Oh no! I think I left my purse behind in the movie theater!
     > * The restaurant called to tell Jack that he had left his credit card behind.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -7742,6 +8170,8 @@ Dean blows away his money on partying and girls.
     > * I started cleaning the house where my roommate left off.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -7781,6 +8211,8 @@ Dean blows away his money on partying and girls.
     > * Who left the milk out of the fridge?!
     > * Please don’t leave your stuff out unattended.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -7817,6 +8249,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -7850,6 +8284,8 @@ Dean blows away his money on partying and girls.
     > * The pants look great on you, but you need to let down the hems a little.
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -7881,6 +8317,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * It took almost a year before Dale let Kaila in his life again.
     > * It’s hard to let people in your personal world, but you have to in order to foster genuine relationships.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -7922,6 +8360,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -7947,6 +8387,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Why are you letting on to everyone about my business?
     > * Tiffany sort of let on that Gary is gay.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -7986,6 +8428,8 @@ Dean blows away his money on partying and girls.
     > * My sister was upset when she discovered that her best friend had let out her secret to someone else.
     > * My dad doesn’t want anyone to know about his hair piece, so don’t let it out.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -8013,6 +8457,8 @@ Dean blows away his money on partying and girls.
     > * A good teacher is someone who never lets up on pushing their students towards academic excellence.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -8046,6 +8492,8 @@ Dean blows away his money on partying and girls.
     > * I can’t find my wallet, but I know it’s lying around here somewhere.
     > * Don’t leave important things lying around, somebody might steal it.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -8077,6 +8525,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * He has a way of lifting up people when they are feeling down.
     > * Music always lifts up my spirits.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -8110,6 +8560,8 @@ Dean blows away his money on partying and girls.
     > * My grandpa lights up a cigarette three times a day.
     > * The waitress lighted up the man’s cigar for him.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -8135,6 +8587,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Our conversation is too serious, let’s lighten it up a bit.
     > * Dad, lighten up! David and I are just friends.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -8174,6 +8628,8 @@ Dean blows away his money on partying and girls.
     > * People are lining up outside of the Apple Store to get the new iPhone.
     > * Fans started lining up yesterday morning to buy Madonna tickets.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -8205,6 +8661,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * If you’re living with diabetes, then it’s important to monitor your blood sugar levels.
     > * Sandra has lived with being blind most of her life, but she wasn’t born blind.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -8246,6 +8704,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -8280,6 +8740,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -8311,6 +8773,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * In the movie entitled “Carrie”, Margaret White locks her daughter up in the closet if she does something wrong.
     > * You don’t want to get locked up. Your life will never be the same after prison.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -8349,6 +8813,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * The forensics were looking around for evidence at the crime scene.
     > * She looked around the house for her cat, but couldn’t find it.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -8396,6 +8862,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -8442,6 +8910,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -8468,6 +8938,8 @@ Dean blows away his money on partying and girls.
     > * I’ve been looking forward to a girls night out for months.
     > * Most women look forward to having kids.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -8493,6 +8965,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * The detective looked into the case more closely after receiving an anonymous phone call.
     > * Mom said she’d look into us going to summer camp.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -8528,6 +9002,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -8555,6 +9031,8 @@ Dean blows away his money on partying and girls.
     > * He looked over his shoulder and saw his fiance walking the dog.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -8596,6 +9074,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -8621,6 +9101,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * It was clear when Nelson Mandela died that people around the world looked up to him.
     > * I hope to be the kind of person that my children can look up to someday.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -8649,6 +9131,8 @@ Dean blows away his money on partying and girls.
     > * The team lucked out when the other team got a technical foul.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -8682,6 +9166,8 @@ Dean blows away his money on partying and girls.
     > * The rain made for a perfect movie day.
     > * What would make for a great third date?
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -8707,6 +9193,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * What do you make of the artwork?
     > * He didn’t know what to make of the incident.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -8770,6 +9258,8 @@ Dean blows away his money on partying and girls.
     > * My sister and I always fight and then make up.
     > * They had a huge fight, and never made up.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -8805,6 +9295,8 @@ Dean blows away his money on partying and girls.
     > * Did you see that lady with the messed-up hair color?
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -8844,6 +9336,8 @@ Dean blows away his money on partying and girls.
     > * Hey, I was thinking we could mix things up a bit this weekend and go skating instead of bowling. What do you think?
     > * Jeremy mixed things up at the party by getting a game of beer pong started.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -8877,6 +9371,8 @@ Dean blows away his money on partying and girls.
     > * Stella is always monkeying around with everybody when they aren’t in the mood for it.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -8915,6 +9411,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * We will move in with my family soon.
     > * When my sister moves in with me, I’ll have someone to talk to.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -8955,6 +9453,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -8982,6 +9482,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * The footprint helped the police narrow down their list of suspects to just men.
     > * After dating for several months, Sheree was able to narrow down her options to three guys.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -9019,6 +9521,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -9052,6 +9556,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * If you do something bad to him, he’s gonna make you pay for it.
     > * He needs to pay for his crime by doing time in prison.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -9091,6 +9597,8 @@ Dean blows away his money on partying and girls.
     > * Donna’s tutoring sessions really paid off! She aced all her exams!
     > * Joseph stopped eating red meat, and it paid off because he lost 35 pounds.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -9116,6 +9624,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * I usually pay my rent up for the whole year.
     > * If you don’t pay up the money the dealer wants, then he won’t sell you the car.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -9144,6 +9654,8 @@ Dean blows away his money on partying and girls.
     > * It’s not nice to pick on other people.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -9178,6 +9690,8 @@ Dean blows away his money on partying and girls.
     > * I don’t like people to pick anyone or anything out for me.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -9247,6 +9761,8 @@ Dean blows away his money on partying and girls.
     > * The rain is starting to pick up, so I’m going to stop at a restaurant for a while.
     > * As soon as sales start to pick up, we’ll give everyone a bonus.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -9282,6 +9798,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -9312,6 +9830,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -9340,6 +9860,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -9366,6 +9888,8 @@ Dean blows away his money on partying and girls.
     > * You’re too young to be planning for retirement. Twenty years is a long time.
     > * We have been planning for this baby for years.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -9391,6 +9915,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Most people don’t plan on falling in love. They just do.
     > * Gina plans on making the Dean’s List this year.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -9425,6 +9951,8 @@ Dean blows away his money on partying and girls.
     > * We need to plug in the numbers to see where we are this quarter.
     > * Did you plug in these numbers correctly? They don’t add up.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -9450,6 +9978,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * How can you expect to watch television when it isn’t even plugged in?
     > * This device is really easy to use. Just simply plug it in, then choose a button, and it’s done!
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -9483,6 +10013,8 @@ Dean blows away his money on partying and girls.
     > * I need to plug my computer up before my battery dies.
     > * Did you plug up the VCR?
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -9510,6 +10042,8 @@ Dean blows away his money on partying and girls.
     > * Let me point out the numbers in last week’s report.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -9545,6 +10079,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -9570,6 +10106,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Please complete and print out the attached document.
     > * You can’t print anything out because the printer is down.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -9604,6 +10142,8 @@ Dean blows away his money on partying and girls.
     > * Wait until we pull off before playing the radio.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -9666,6 +10206,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * The pullout happened as ordered by the president.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -9693,6 +10235,8 @@ Dean blows away his money on partying and girls.
     > * Jim was pulled over for going 60 mph in a 35 mph zone.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -9728,6 +10272,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -9753,6 +10299,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * You have to punch in the code to open the gate.
     > * Be sure to punch in when you arrive to work.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -9785,6 +10333,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Did you see how Mayweather punched his opponent out? It was insane!
     > * Leave me alone, or else I’m going to punch your lights out!
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -9832,6 +10382,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -9875,6 +10427,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * I could put back a lot of beer in college, but these days I’d get sick if I drank that much.
     > * My grandfather could put back a bottle of whiskey and not even seem drunk.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -9933,6 +10487,8 @@ Dean blows away his money on partying and girls.
     > * My grandma used to put it down in the kitchen. Her food was the best!
     > * The Seattle Seahawks put it down on the Denver Broncos.
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -9996,6 +10552,8 @@ Dean blows away his money on partying and girls.
     > * I put in $25 for the meal.
     > * Not everyone put in enough money, so we need a little more to cover the bill.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -10027,6 +10585,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * The manager decided to put the meeting off until tomorrow.
     > * She keeps putting off talking to him because she doesn’t know what to say.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -10086,6 +10646,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -10113,6 +10675,8 @@ Dean blows away his money on partying and girls.
     > * Irma wouldn’t put it past her best friend to introduce her to a single guy at the party.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -10145,6 +10709,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * The man put a knife to the woman’s throat.
     > * Can you please put the letter to the light?
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -10183,6 +10749,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Don’t put Jaden and Leo together in the same group because they won’t get anything done.
     > * We should put two tables together for the card game.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -10240,6 +10808,8 @@ Dean blows away his money on partying and girls.
     > * Muhammad Ali put up a fight about joining the army.
     > * I won’t put up with your nonsense. You can be difficult by yourself.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -10272,6 +10842,8 @@ Dean blows away his money on partying and girls.
     > * Cashiers put any large bill over $10 up to the light to ensure its authenticity.
     > * Can you put the phone up to your mouth? I’m having trouble hearing you.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -10297,6 +10869,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * After everything that has happened, you’re telling me that we still have to put up with his behavior?
     > * I put up with you because I love you.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -10329,6 +10903,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Self-Checkout is where you can ring up your own items.
     > * Excuse me, sir, I can ring you up at the next register.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -10368,6 +10944,8 @@ Dean blows away his money on partying and girls.
     > * The incredible hulk ripped a lamp post off the sidewalk!
     > * The tornado ripped branches right off of trees.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -10400,6 +10978,8 @@ Dean blows away his money on partying and girls.
     > * My dad had the handyman rip the carpet up and replace it with hardwood.
     > * The earthquake was so big that it ripped up half the streets on the west side of town.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -10427,6 +11007,8 @@ Dean blows away his money on partying and girls.
     > * The movies should be ruled out as an option for a first date.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -10459,6 +11041,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * I ran across Brad Pitt in Greenwich Village on my way to brunch, and I asked him to join me. But, he politely declined.
     > * Corey ran across a dead mouse when he was cleaning under his bed.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -10497,6 +11081,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * The kids have been running around the house all day playing hide and seek.
     > * Let the kids run around in the backyard for a few hours while you get some housework done.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -10543,6 +11129,8 @@ Dean blows away his money on partying and girls.
     > * Can you run that down to me again?
     > * Let me give you the rundown of the Mayweather versus Maidana fight.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -10587,6 +11175,8 @@ Dean blows away his money on partying and girls.
     > * I just need to run into the store to get some bread.
     > * Can you please run into the house and get my purse?
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -10618,6 +11208,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * The handbag I bought is limited edition. I suggest you buy one before the store runs out.
     > * Has your car ever run out of gas while you were driving? It’s terrible!
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -10671,6 +11263,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -10707,6 +11301,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * The paramedics ran up to the victim lying on the ground and checked for a pulse. When I saw my love at the airport, I ran up to him and gave him a big hug and kiss.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -10739,6 +11335,8 @@ Dean blows away his money on partying and girls.
     > * After the nuts are screwed on, you can add the bolts.
     > * Linda screwed on the knobs to the cabinets after Ben installed them.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -10764,6 +11362,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * The athlete was screwed out of his contract.
     > * Don’t screw me out of this job, man!
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -10793,6 +11393,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -10818,6 +11420,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * We’ll see about signing Isabelle up for ballet classes after we get her report card.
     > * Jeremy is going to see about us taking his father’s yacht out on the water this weekend.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -10850,6 +11454,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Most celebrities sell out in order to reach a certain level of fame.
     > * Never sell out, because when you get older you’ll regret it dearly.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -10907,6 +11513,8 @@ Dean blows away his money on partying and girls.
     > * Most movies involve a character being set up in some way.
     > * Sarah was set up by her classmates, so she was suspended for killing her teacher’s turtle since it was found dead in her desk.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -10939,6 +11547,8 @@ Dean blows away his money on partying and girls.
     > * It is time to settled own and get ready for bed.
     > * Those kids need to settle down.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -10966,6 +11576,8 @@ Dean blows away his money on partying and girls.
     > * They wanted the five-bedroom house, but settled for the three-bedroom house because it was closer to family.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -11007,6 +11619,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -11034,6 +11648,8 @@ Dean blows away his money on partying and girls.
     > * The Slam Dunk Contest is an opportunity for athletes to show off their dunking skills.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -11064,6 +11680,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -11089,6 +11707,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Can you please just shut up!? I’m trying to watch television!
     > * Steve got really mad and told everybody to shut up.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -11124,6 +11744,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -11158,6 +11780,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -11190,6 +11814,8 @@ Dean blows away his money on partying and girls.
     > * The pediatrician sat the baby down to examine him.
     > * She sat her father down in his wheelchair.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -11215,6 +11841,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * You must slow down in a school zone.
     > * Whoa! You’re talking way too fast, please slow down.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -11242,6 +11870,8 @@ Dean blows away his money on partying and girls.
     > * Let’s sneak into the other movies!
     > * Jeremy is grounded for sneaking into dad’s porn collection.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -11268,6 +11898,8 @@ Dean blows away his money on partying and girls.
     > * The thieves sneaked out the store, but they were caught on camera and the video was given as evidence to the police.
     > * If you plan to sneak out, I suggest you do it at night when it’s dark and everyone may already be asleep.
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -11300,6 +11932,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * I’m having a hard time sorting out this problem with my bank.
     > * Aluminum foil was used on television antennas to sort out reception issues back in the day.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -11334,6 +11968,8 @@ Dean blows away his money on partying and girls.
     > * The teacher spaced the desks out before the students arrived.
     > * Let’s space out the photographs on the wall.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -11360,6 +11996,8 @@ Dean blows away his money on partying and girls.
     > * I’d rather go home than stand around waiting for someone who might never show.
     > * He just stood around while everyone else helped.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -11385,6 +12023,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * People always stand for human rights and freedom.
     > * The stars on the US flag stand for the states in the union.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -11423,6 +12063,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * She thought he had stood her up, until he came around the corner.
     > * It is in bad taste to stand people up.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -11470,6 +12112,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -11508,6 +12152,8 @@ Dean blows away his money on partying and girls.
     > * He didn’t start out to become the greatest athlete. He was just really fond of the sport.
     > * Criminals don’t start out as bad kids, but their poor choices in life make them that way.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -11539,6 +12185,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Try starting up the engine one more time.
     > * My computer won’t start up.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -11584,6 +12232,8 @@ Dean blows away his money on partying and girls.
     > * Many people have to deactivate their Facebook accounts in order to stay off the site for a while.
     > * Stay off the phone! You’re grounded!
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -11623,6 +12273,8 @@ Dean blows away his money on partying and girls.
     > * It is hard to stay out of domestic abuse situations, but in many cases it’s best.
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -11656,6 +12308,8 @@ Dean blows away his money on partying and girls.
     > * During summer vacation, kids get to stay up later than usual.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -11691,6 +12345,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -11716,6 +12372,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * The detective is sticking around the precinct in case any new leads emerge in the case.
     > * The fans stuck around after the concert for the autograph signing.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -11761,6 +12419,8 @@ Dean blows away his money on partying and girls.
     > * The branches of that tree are sticking out.
     > * The thorns are sticking out of the bush.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -11792,6 +12452,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * We’ll cover all the topics, but let’s stick to one for now.
     > * I should have stuck to playing basketball in college.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -11839,6 +12501,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -11877,6 +12541,8 @@ Dean blows away his money on partying and girls.
     > * I’m stuck with my annoying brother for the weekend.
     > * Everybody got all the classes they wanted, but I got stuck with three classes that I didn’t pick.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -11902,6 +12568,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * We need to stop off at a nearby 7 Eleven to buy some batteries.
     > * Jimmy stopped off at the cake shop earlier to buy a cake for Nancy.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -11934,6 +12602,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * There are no direct flights from Moscow to Alaska, so we have to make a stopover in London.
     > * On our cross-country trip to New York, we made a stop over in Minnesota to see a baseball game.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -11973,6 +12643,8 @@ Dean blows away his money on partying and girls.
     > * I need a glass of wine to straighten out my mood.
     > * Many celebrities have gone to rehab to get themselves straightened out.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -11999,6 +12671,8 @@ Dean blows away his money on partying and girls.
     > * When you’re stressed out, a hug from someone you care about usually eases you a bit.
     > * Jacob is always stressed out over school exams.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -12024,6 +12698,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Leizyl can’t sleep with the lights on, so she switches the lights off before she goes to bed.
     > * It’s good that Jean switched off the fire alarm before everyone panicked.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -12053,6 +12729,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -12078,6 +12756,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * When he was a kid, Malcolm loved to take apart his toys and then reassemble them.
     > * The technician didn’t have to take apart the computer to determine the problem.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -12130,6 +12810,8 @@ Dean blows away his money on partying and girls.
     > * The photo took her back to the days when she was slimmer.
     > * Her perfume took him back to when they first met.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -12179,6 +12861,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * I didn’t take in much yesterday because the restaurant was slow.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -12223,6 +12907,8 @@ Dean blows away his money on partying and girls.
     > * A ninja can easily take out people without being detected.
     > * Hey, watch it! You could take someone’s eye out with that thing!
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -12248,6 +12934,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Sharon got upset because she missed the bus and took it out on her brother.
     > * Don’t take your frustrations out on me!
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -12275,6 +12963,8 @@ Dean blows away his money on partying and girls.
     > * We should have taken Paul up on his offer to give us a ride home.
     > * I’m sorry, but i can’t commit right now since I just took up a client’s offer on another project.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -12300,6 +12990,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * A good teacher never talks down to their students. They treat them with love and compassion instead.
     > * He was mad at her for talking down to him in front of their friends.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -12327,6 +13019,8 @@ Dean blows away his money on partying and girls.
     > * Dude, I tried talking her into calling you but she wasn’t having it.
     > * He talked me into marrying him after dating for only three months.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -12352,6 +13046,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Marilyn is so stubborn, that once she decides to do something, no one can possibly talk her out of it.
     > * Sometimes you can talk yourself out of doing something simply by allowing more time to pass.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -12380,6 +13076,8 @@ Dean blows away his money on partying and girls.
     > * Have you talked to your teacher yet?
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -12413,6 +13111,8 @@ Dean blows away his money on partying and girls.
     > * Sheila became depressed because the kids at school had been tearing her down.
     > * Fans will cheer you on when you are winning, but they will also tear you down when you are losing. They aren’t loyal.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -12445,6 +13145,8 @@ Dean blows away his money on partying and girls.
     > * The assailant tore off as soon as he heard the police sirens.
     > * Jimmy tore off running down the street to catch the ice cream truck.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -12473,6 +13175,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -12498,6 +13202,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Kids always tell on each other for personal gratification.
     > * My brother used to give me candy so I wouldn’t tell on him.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -12533,6 +13239,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -12558,6 +13266,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * It’s important to always think ahead before going on a camping trip.
     > * We didn’t think ahead before driving cross country, so we wasted a lot of gas.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -12586,6 +13296,8 @@ Dean blows away his money on partying and girls.
     > * We need to think up an idea on how to save money.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -12621,6 +13333,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -12652,6 +13366,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Jim needs a place to stay. He was thrown out of his apartment last night when his party got too crazy.
     > * The restaurant owner was throwing a drunk guest out just as we arrived.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -12693,6 +13409,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -12720,6 +13438,8 @@ Dean blows away his money on partying and girls.
     > * I finally tracked down a Seahawks’ ‘Superbowl Champions’ t-shirt for under twenty dollars.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -12755,6 +13475,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -12783,6 +13505,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -12808,6 +13532,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * The kids are trying on shoes to wear for the party.
     > * Here, try this one on.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -12840,6 +13566,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * You might want to try out a product in a smaller size first to see if it suits you.
     > * Let’s try out the new diet everyone keeps talking about.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -12880,6 +13608,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -12911,6 +13641,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * Lynette turned down the job offer.
     > * I never turn down dessert.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -12952,6 +13684,8 @@ Dean blows away his money on partying and girls.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -12979,6 +13713,8 @@ Dean blows away his money on partying and girls.
     > * Janine turned into a totally different person after she moved to New York.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -13017,6 +13753,8 @@ Dean blows away his money on partying and girls.
     > * Examples:
     > * Nothing turns me off more than an egotistical man.
     > * Django is so in love with Bella that there isn’t anything she can do that would turn him off.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -13057,6 +13795,8 @@ Dean blows away his money on partying and girls.
     > * Please don’t turn on all the lights.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -13102,6 +13842,8 @@ Dean blows away his money on partying and girls.
     > * Shhhh, turn out the lights! The birthday girl is coming!
     > * Don’t turn out all the lights.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -13139,6 +13881,8 @@ Dean blows away his money on partying and girls.
     > Examples:
     > * The company turns over employees every 30 days, so I wouldn’t work there.
     > * Apple turns over iPhones so often that it is senseless to even buy a phone if there is a better version available less than six months later.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -13178,6 +13922,8 @@ Turn Up is a non-separable phrasal verb and has 3 definitions.
     > * The FBI still hasn’t turned up enough evidence to support the case.
     > * Keep watching the news to see if anything about the explosion turns up.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -13204,10 +13950,12 @@ Turn Up is a non-separable phrasal verb and has 3 definitions.
     > * We used up all the eggs when we baked the cake.
     > * Don’t use up all my shampoo.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
-<PhrasalVerb desc="when you are finished sleeping." num={2}>
+<PhrasalVerb desc="when you are finished sleeping." num={3}>
 
 
 #### Wake Up {/*wake-up*/}
@@ -13220,7 +13968,7 @@ Turn Up is a non-separable phrasal verb and has 3 definitions.
     * Past Tense: Woke up
     * Past Participle: Woken up
 
-`Wake Up is a separable phrasal verb and has 2 definitions.`
+`Wake Up is a separable phrasal verb and has 3 definitions.`
 
 **Definitions of Wake Up:**
 
@@ -13230,13 +13978,22 @@ Turn Up is a non-separable phrasal verb and has 3 definitions.
     > * I woke up really late this morning because I forgot to set my alarm clock.
     > * Living downtown is like an alarm clock because the busy city wakes you up.
 
-2. To realize or become aware of something.
+2. : to make (something) active
+
+    > Examples:
+    > * Drinking coffee helps me wake up completely.
+
+3. To realize or become aware of something.
 
     > Examples:
     > * Why don’t you wake up! She’s been cheating on you for months now!
     > * It was that particular moment when I woke up and realized I had to do something different with my life.
 
+Find more:
 
+<YouTubeIframe src="https://www.youtube.com/embed/9eAMhmGv62g" title="YouTube video player" />
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -13265,6 +14022,8 @@ Turn Up is a non-separable phrasal verb and has 3 definitions.
     > * Wash your walls off before you prime and paint.
 
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -13298,7 +14057,11 @@ Turn Up is a non-separable phrasal verb and has 3 definitions.
     > * Why don’t you wake up! She’s been cheating on you for months now!
     > * It was that particular moment when I woke up and realized I had to do something different with my life.
 
+<YouTubeIframe src="https://www.youtube.com/embed/Oqq3UmJmYqU" title="YouTube video player" />
 
+
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -13325,6 +14088,8 @@ Turn Up is a non-separable phrasal verb and has 3 definitions.
     > Examples:
     > * Cars and pedestrians must watch out for the other.
     > * Hey, watch out! There’s debris falling from up above.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -13358,6 +14123,8 @@ Turn Up is a non-separable phrasal verb and has 3 definitions.
     > * Steve didn’t want to get married, but Kimmy wore him down, and they are finally engaged!
     > * The consecutive losses wore the teams’ confidence down, so they had a win-less season.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -13383,6 +14150,8 @@ Turn Up is a non-separable phrasal verb and has 3 definitions.
     > Examples:
     > * They opened another bottle of wine because their buzz from the first one wore off.
     > * The soles of my favorite shoes are wearing off, so I need to have them resoled.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -13415,6 +14184,8 @@ Turn Up is a non-separable phrasal verb and has 3 definitions.
     > Examples:
     > * I need a holiday. Work is wearing me out!
     > * Having a child can wear you out, because you never get enough sleep.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -13460,6 +14231,8 @@ Turn Up is a non-separable phrasal verb and has 3 definitions.
     > * Wind the cord up when you finish with the vacuum.
     > * You didn’t wind up the tape, so now it is hard to use.
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -13486,6 +14259,8 @@ Turn Up is a non-separable phrasal verb and has 3 definitions.
     > * The table needs to be wiped off before you set it.
     > * Oh no! All my computer data was wiped off my hard drive.
 
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -13532,6 +14307,8 @@ Turn Up is a non-separable phrasal verb and has 3 definitions.
     > * Surfers love to wipe out.
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -13557,6 +14334,8 @@ Turn Up is a non-separable phrasal verb and has 3 definitions.
     > Examples:
     > * She wiped up the spaghetti sauce from the floor.
     > * Can you please wipe up this mess before mom gets home?
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -13589,6 +14368,8 @@ Turn Up is a non-separable phrasal verb and has 3 definitions.
     > Examples:
     > * The skillful artist worked in the colors of his painting really well.
     > * The seamstress worked in the patch perfectly.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -13649,6 +14430,8 @@ Turn Up is a non-separable phrasal verb and has 3 definitions.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -13686,6 +14469,8 @@ Turn Up is a non-separable phrasal verb and has 3 definitions.
     > Examples:
     > * Susie is always getting worked up over nothing.
     > * Stop working yourself up! You need to relax and have a beer.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
@@ -13733,6 +14518,8 @@ Turn Up is a non-separable phrasal verb and has 3 definitions.
 
 
 
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
 </PhrasalVerb>
 
 
@@ -13757,5 +14544,7 @@ Turn Up is a non-separable phrasal verb and has 3 definitions.
     > Examples:
     > * Tell him to zip up his pants.
     > * Make sure your bag is zipped up so you won’t lose anything.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
