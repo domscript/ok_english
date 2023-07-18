@@ -233,6 +233,27 @@ If you studied the English language for years, then came to the United States an
 
 </PhrasalVerb>
 
+<PhrasalVerb desc="to have patience or endure a difficult situation" num={1}>
+
+#### Bear with {/*bear-with*/}
+
+**How to Conjugate Bear With**
+
+    * Infinitive: Bear With
+    * Present Tense: Bear With/ Bears With
+    * -ing Form: Bearing With
+    * Past Tense: Bore With
+    * Past Participle: Borne also Born With
+
+`Bear with is a non-separable phrasal verb and has 1 definition.`
+
+**Definitions of Bear with:**
+
+**Comming Soon**
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
+</PhrasalVerb>
 
 <PhrasalVerb desc="when someone punches, kicks, or hits someone repeatedly using fists or with an object." num={2}>
 
@@ -3607,6 +3628,29 @@ Dean blows away his money on partying and girls.
 </PhrasalVerb>
 
 
+<PhrasalVerb desc="to dine at a restaurant or eat away from home" num={1}>
+
+
+#### Eat Out {/*eat-out*/}
+
+**How to Conjugate Eat Out**
+
+    * Infinitive: Eat Out
+    * Present Tense: Eat Out/ Eats Out
+    * -ing Form: Eating Out
+    * Past Tense: Ate Out
+    * Past Participle: Eaten Out
+
+`Eat Out is a separable phrasal verb and has 1 definition.`
+
+**Definitions of Eat Out:**
+
+**Comming Soon**
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
+</PhrasalVerb>
+
 <PhrasalVerb desc="when someone consumes all their food." num={3}>
 
 
@@ -3740,6 +3784,30 @@ Dean blows away his money on partying and girls.
     > * She fell apart as soon as she saw her dog lying dead in the middle of the street.
     > * In the movie ‘Imitation of Life’, the woman fell apart the moment she saw her mother inside the casket. It was a very emotional scene.
 
+
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
+</PhrasalVerb>
+
+<PhrasalVerb desc="to start sleeping" num={2}>
+
+
+#### Fall Asleep {/*fall-asleep*/}
+
+**How to Conjugate Fall Asleep**
+
+    * Infinitive: Fall Asleep
+    * Present Tense: Fall Asleep/ Falls Asleep
+    * -ing Form: Falling Asleep
+    * Past Tense: Fell Asleep
+    * Past Participle: Fallen Asleep
+
+`Fall Asleep is a non-separable phrasal verb and has 3 definitions.`
+
+**Definitions of Fall asleep:**
+
+**Comming soon**
 
 
 [Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
@@ -4076,6 +4144,28 @@ Dean blows away his money on partying and girls.
 
 </PhrasalVerb>
 
+<PhrasalVerb desc="to expect or plan for something." num={1}>
+
+
+#### Figure Out {/*figure-out*/}
+
+**How to Conjugate Figure Out**
+
+    * Infinitive: Figure Out
+    * Present Tense: Figure Out/ Figures Out
+    * -ing Form: Figuring Out
+    * Past Tense: Figured Out
+    * Past Participle: Figured Out
+
+`Figure Out is a separable phrasal verb and has 1 definition.`
+
+**Definitions of Figure Out:**
+
+**Comming Soon**
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
+</PhrasalVerb>
 
 <PhrasalVerb desc="to add personal information in the blank spaces of an official document." num={3}>
 
@@ -5189,6 +5279,28 @@ Dean blows away his money on partying and girls.
 
 </PhrasalVerb>
 
+
+<PhrasalVerb desc="to eliminate or discard" num={1}>
+
+#### Get Rid Of {/*get-rid-of*/}
+
+**How to Conjugate Get Rid Of**
+
+    * Infinitive: Get Rid Of
+    * Present Tense: Get Rid Of/ Gets Rid Of
+    * -ing Form: Getting Rid Of
+    * Past Tense: Got Rid Of
+    * Past Participle: Gotten Rid Of
+
+`Get Rid Of is a separable phrasal verb and has 1 definition.`
+
+**Definitions of Get Rid Of:**
+
+**Comming Soon**
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
+</PhrasalVerb>
 
 <PhrasalVerb desc="when a message, meaning, or idea is understood or accepted." num={6}>
 
@@ -8778,6 +8890,28 @@ Dean blows away his money on partying and girls.
 
 </PhrasalVerb>
 
+<PhrasalVerb desc="to take care of" num={2}>
+
+#### Look After {/*look-after*/}
+
+**How to Conjugate Look After**
+
+    * Infinitive: Look After
+    * Present Tense: Look After/ Looks After
+    * -ing Form: Looking After
+    * Past Tense: Looked After
+    * Past Participle: Looked After
+
+`Look After is a separable phrasal verb and has 2 definitions.`
+
+**Definitions of Look After:**
+
+**Comming Soon**
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
+</PhrasalVerb>
+
 
 <PhrasalVerb desc="to turn your head to see what or who is around you." num={3}>
 
@@ -8914,6 +9048,27 @@ Dean blows away his money on partying and girls.
 
 </PhrasalVerb>
 
+<PhrasalVerb desc="to search" num={1}>
+
+#### Look For {/*look-for*/}
+
+**How to Conjugate Look For**
+
+    * Infinitive: Look For
+    * Present Tense: Look For/ Looks For
+    * -ing Form: Looking For
+    * Past Tense: Looked For
+    * Past Participle: Looked For
+
+`Look For is a non-separable phrasal verb and has 1 definition.`
+
+**Definitions of Look For:**
+
+**Comming Soon**
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
+</PhrasalVerb>
 
 <PhrasalVerb desc="to anticipate a future event because it either makes you happy and/or you benefit from it." num={1}>
 
@@ -10083,6 +10238,27 @@ Dean blows away his money on partying and girls.
 
 </PhrasalVerb>
 
+<PhrasalVerb desc="to visit briefly or unexpectedly" num={1}>
+
+#### Pop Into {/*pop-into*/}
+
+**How to Conjugate Point Into**
+
+    * Infinitive: Pop Into
+    * Present Tense: Pop Into/ Pops Into
+    * -ing Form: Popping Into
+    * Past Tense: Popped Into
+    * Past Participle: Popped Into
+
+`Pop Into is a separable phrasal verb and has ? definition.`
+
+**Definitions of Pop Into:**
+**Comming Soon**
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
+</PhrasalVerb>
+
 
 <PhrasalVerb desc="to produce a hard copy of a computer document." num={1}>
 
@@ -10556,6 +10732,28 @@ Dean blows away his money on partying and girls.
 
 </PhrasalVerb>
 
+
+<PhrasalVerb desc="to wear or apply" num={2}>
+
+#### Put On {/*put-on*/}
+
+**How to Conjugate Put On**
+
+    * Infinitive: Put On
+    * Present Tense: Put On/ Puts On
+    * -ing Form: Putting On
+    * Past Tense: Put On
+    * Past Participle: Put On
+
+`Put On is a separable phrasal verb and has 2 definitions.`
+
+**Definitions of Put On:**
+
+**Comming Soon**
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
+</PhrasalVerb>
 
 <PhrasalVerb desc="to become offended by someone or something." num={2}>
 
@@ -11818,6 +12016,29 @@ Dean blows away his money on partying and girls.
 
 </PhrasalVerb>
 
+<PhrasalVerb desc="to stay in bed longer than usual or later than" num={1}>
+
+
+#### Sleep In {/*sleep-in*/}
+
+**How to Conjugate Sleep In**
+
+    * Infinitive: Sleep In
+    * Present Tense: Sleep In/ Sleeps In
+    * -ing Form: Sleepping In
+    * Past Tense: Slept In
+    * Past Participle: Slept In
+
+`Sleep In is a non-separable phrasal verb and has 2 definitions.`
+
+**Definitions of Sleep In:**
+
+**Comming soon**
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
+</PhrasalVerb>
+
 
 <PhrasalVerb desc="to do something slower." num={1}>
 
@@ -12014,20 +12235,37 @@ Dean blows away his money on partying and girls.
     * Past Tense: Stood For
     * Past Participle: Stood For
 
-`Blow Out is a non-separable phrasal verb and has 1 definition.`
+`Stand For is a non-separable phrasal verb and has 1 definition.`
 
-**Definitions of Blow Out:**
+**Definitions of Stand For:**
 
-1. To support or represent an idea, belief, etc.
-
-    > Examples:
-    > * People always stand for human rights and freedom.
-    > * The stars on the US flag stand for the states in the union.
+**Comming Soon**
 
 [Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
 </PhrasalVerb>
 
+<PhrasalVerb desc="to be noticeable or prominent" num={1}>
+
+#### Stand Out {/*stand-out*/}
+
+**How to Conjugate Stand Out**
+
+    * Infinitive: Stand Out
+    * Present Tense: Stand Out/ Stands Out
+    * -ing Form: Standing Out
+    * Past Tense: Stood Out
+    * Past Participle: Stood Out
+
+`Stand Out is a non-separable phrasal verb and has 1 definition.`
+
+**Definitions of Stand Out:**
+
+**Stand Out**
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
+</PhrasalVerb>
 
 <PhrasalVerb desc="to rise from sitting or lying down to a vertical position." num={3}>
 
@@ -12860,6 +13098,30 @@ Dean blows away his money on partying and girls.
 
     > Examples:
     > * I didn’t take in much yesterday because the restaurant was slow.
+
+[Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
+
+</PhrasalVerb>
+
+
+<PhrasalVerb desc="to depart or remove clothing, or to become successful quickly" num={3}>
+
+
+#### Take Off {/*take-off*/}
+
+**How to Conjugate Take Off**
+
+    * Infinitive: Take Off
+    * Present Tense: Take Off/ Takes Off
+    * -ing Form: Taking Off
+    * Past Tense: Took Off
+    * Past Participle: Taken Off
+
+`Take Off is a separable phrasal verb and has 3 definitions.`
+
+**Definitions of Take Off:**
+
+**Comming Soon**
 
 [Phrasal verbs](/learn/super-duper-phrasal-verbs#phrasal-verbs)
 
