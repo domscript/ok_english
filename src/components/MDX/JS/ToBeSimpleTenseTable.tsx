@@ -90,13 +90,13 @@ export function ToBeSimpleTenseTable() {
               }`}>
               {contraction ? (
                 <>
-                  <p>I'm</p>
-                  <p>You're</p>
-                  <p>He's</p>
-                  <p>She's</p>
-                  <p>It's</p>
-                  <p>We're</p>
-                  <p>They're</p>
+                  <p>I&apos;m</p>
+                  <p>You&apos;re</p>
+                  <p>He&apos;s</p>
+                  <p>She&apos;s</p>
+                  <p>It&apos;s</p>
+                  <p>We&apos;re</p>
+                  <p>They&apos;re</p>
                 </>
               ) : (
                 <>
@@ -117,13 +117,13 @@ export function ToBeSimpleTenseTable() {
               }`}>
               {contraction ? (
                 <>
-                  <p>I'll be</p>
-                  <p>You'll be</p>
-                  <p>He'll be</p>
-                  <p>She'll be</p>
-                  <p>It'll be</p>
-                  <p>We'll be</p>
-                  <p>They'll be</p>
+                  <p>I&apos;ll be</p>
+                  <p>You&apos;ll be</p>
+                  <p>He&apos;ll be</p>
+                  <p>She&apos;ll be</p>
+                  <p>It&apos;ll be</p>
+                  <p>We&apos;ll be</p>
+                  <p>They&apos;ll be</p>
                 </>
               ) : (
                 <>
@@ -145,13 +145,13 @@ export function ToBeSimpleTenseTable() {
               }`}>
               {contraction ? (
                 <>
-                  <p>I wasn't</p>
-                  <p>You weren't</p>
-                  <p>He wasn't</p>
-                  <p>She wasn't</p>
-                  <p>It wasn't</p>
-                  <p>We weren't</p>
-                  <p>They weren't</p>
+                  <p>I wasn&apos;t</p>
+                  <p>You weren&apos;t</p>
+                  <p>He wasn&apos;t</p>
+                  <p>She wasn&apos;t</p>
+                  <p>It wasn&apos;t</p>
+                  <p>We weren&apos;t</p>
+                  <p>They weren&apos;t</p>
                 </>
               ) : (
                 <>
@@ -172,13 +172,13 @@ export function ToBeSimpleTenseTable() {
               }`}>
               {contraction ? (
                 <>
-                  <p>I'm not</p>
-                  <p>You're not</p>
-                  <p>He's not</p>
-                  <p>She's not</p>
-                  <p>It's not</p>
-                  <p>We're not</p>
-                  <p>They're not</p>
+                  <p>I&apos;m not</p>
+                  <p>You&apos;re not</p>
+                  <p>He&apos;s not</p>
+                  <p>She&apos;s not</p>
+                  <p>It&apos;s not</p>
+                  <p>We&apos;re not</p>
+                  <p>They&apos;re not</p>
                 </>
               ) : (
                 <>
@@ -199,13 +199,13 @@ export function ToBeSimpleTenseTable() {
               }`}>
               {contraction ? (
                 <>
-                  <p>I won't be</p>
-                  <p>You won't be</p>
-                  <p>He won't be</p>
-                  <p>She won't be</p>
-                  <p>It won't be</p>
-                  <p>We won't be</p>
-                  <p>They won't be</p>
+                  <p>I won&apos;t be</p>
+                  <p>You won&apos;t be</p>
+                  <p>He won&apos;t be</p>
+                  <p>She won&apos;t be</p>
+                  <p>It won&apos;t be</p>
+                  <p>We won&apos;t be</p>
+                  <p>They won&apos;t be</p>
                 </>
               ) : (
                 <>
