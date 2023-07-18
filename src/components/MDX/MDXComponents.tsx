@@ -31,6 +31,7 @@ import type {Toc, TocItem} from './TocContext';
 import {TeamMember} from './TeamMember';
 import {FunctionData} from './JS/FunctionData';
 import {AdverbsTable} from './JS/AdverbsTable';
+import {ToBeSimpleTenseTable} from './JS/ToBeSimpleTenseTable';
 import {ClassData} from './JS/ClassData';
 import {LogoLink} from './LogoLink';
 
@@ -443,6 +444,7 @@ export const MDXComponents = {
   YouTubeIframe,
   FunctionData,
   AdverbsTable,
+  ToBeSimpleTenseTable,
   ClassData,
   LogoLink,
 };
