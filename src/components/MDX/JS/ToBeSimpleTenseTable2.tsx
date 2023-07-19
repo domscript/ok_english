@@ -378,7 +378,7 @@ export function ToBeSimpleTenseTable2() {
                     : 'col-span-1'
                   : 'col-span-3 col-start-8'
               }`}>
-              {ex === 1 ? (show === '13' ? examples[2] : '-') : data[3]}
+              {ex === 1 ? (show === '13' ? examples[2] : '-') : data[2]}
             </Button>
             {/* ❌ */}
             <Button
