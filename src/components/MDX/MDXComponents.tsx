@@ -32,6 +32,7 @@ import {TeamMember} from './TeamMember';
 import {FunctionData} from './JS/FunctionData';
 import {AdverbsTable} from './JS/AdverbsTable';
 import {ToBeSimpleTenseTable} from './JS/ToBeSimpleTenseTable';
+import {ToBeSimpleTenseTable2} from './JS/ToBeSimpleTenseTable2';
 import {ClassData} from './JS/ClassData';
 import {LogoLink} from './LogoLink';
 
@@ -445,6 +446,7 @@ export const MDXComponents = {
   FunctionData,
   AdverbsTable,
   ToBeSimpleTenseTable,
+  ToBeSimpleTenseTable2,
   ClassData,
   LogoLink,
 };

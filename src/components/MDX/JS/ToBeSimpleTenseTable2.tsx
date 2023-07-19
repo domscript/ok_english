@@ -14,6 +14,7 @@ function Button({
   onClick,
   active = false,
   className,
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   style,
 }: ButtonProps) {
   return (
@@ -34,10 +35,9 @@ interface DivProps {
   children: React.ReactNode;
   active?: boolean;
   className?: string;
-  style?: Record<string, string>;
 }
 
-function Div({children, active = false, className, style}: DivProps) {
+function Div({children, active = false, className}: DivProps) {
   return (
     <div
       className={cn(
