@@ -7,7 +7,7 @@ export function CarAnime(props: JSX.IntrinsicElements['svg']) {
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
       {...props}>
-      <g id="navigator" clip-path="url(#clip0_1_191)">
+      <g id="navigator" clipPath="url(#clip0_1_191)">
         <path
           id="sun"
           d="M232.396 154.009C260.431 154.009 283.159 131.282 283.159 103.246C283.159 75.2109 260.431 52.4837 232.396 52.4837C204.36 52.4837 181.633 75.2109 181.633 103.246C181.633 131.282 204.36 154.009 232.396 154.009Z"
@@ -338,57 +338,57 @@ export function CarAnime(props: JSX.IntrinsicElements['svg']) {
             <g id="Group 1">
               <path
                 id="Intersect"
-                fill-rule="evenodd"
-                clip-rule="evenodd"
+                fillRule="evenodd"
+                clipRule="evenodd"
                 d="M729.259 445.77C730.527 445.258 731.581 444.23 732.086 442.844C732.59 441.457 732.443 439.993 731.801 438.785C731.177 439.839 730.64 440.966 730.206 442.16C729.772 443.353 729.458 444.561 729.259 445.77Z"
                 fill="#232323"
               />
               <path
                 id="Intersect_2"
-                fill-rule="evenodd"
-                clip-rule="evenodd"
+                fillRule="evenodd"
+                clipRule="evenodd"
                 d="M766.296 458.949C765.654 457.741 765.507 456.276 766.011 454.89C766.516 453.504 767.57 452.476 768.838 451.964C768.639 453.173 768.325 454.381 767.891 455.574C767.456 456.768 766.92 457.895 766.296 458.949Z"
                 fill="#232323"
               />
               <path
                 id="Intersect_3"
-                fill-rule="evenodd"
-                clip-rule="evenodd"
+                fillRule="evenodd"
+                clipRule="evenodd"
                 d="M768.383 444.061C767.075 443.661 765.937 442.729 765.313 441.393C764.69 440.056 764.709 438.585 765.242 437.327C766.697 439.355 767.764 441.642 768.383 444.061Z"
                 fill="#232323"
               />
               <path
                 id="Intersect_4"
-                fill-rule="evenodd"
-                clip-rule="evenodd"
+                fillRule="evenodd"
+                clipRule="evenodd"
                 d="M759.215 431.801C758.007 432.443 756.543 432.59 755.156 432.086C753.77 431.581 752.742 430.527 752.23 429.259C753.439 429.458 754.647 429.772 755.84 430.206C757.034 430.641 758.161 431.177 759.215 431.801Z"
                 fill="#232323"
               />
               <path
                 id="Intersect_5"
-                fill-rule="evenodd"
-                clip-rule="evenodd"
+                fillRule="evenodd"
+                clipRule="evenodd"
                 d="M745.77 468.741C744.561 468.542 743.353 468.228 742.16 467.794C740.966 467.359 739.839 466.823 738.785 466.199C739.993 465.557 741.457 465.41 742.844 465.914C744.23 466.419 745.258 467.473 745.77 468.741Z"
                 fill="#232323"
               />
               <path
                 id="Intersect_6"
-                fill-rule="evenodd"
-                clip-rule="evenodd"
+                fillRule="evenodd"
+                clipRule="evenodd"
                 d="M760.673 465.242C759.415 464.709 757.944 464.69 756.607 465.314C755.271 465.937 754.339 467.075 753.939 468.383C756.358 467.764 758.645 466.698 760.673 465.242Z"
                 fill="#232323"
               />
               <path
                 id="Intersect_7"
-                fill-rule="evenodd"
-                clip-rule="evenodd"
+                fillRule="evenodd"
+                clipRule="evenodd"
                 d="M744.061 429.617C743.661 430.924 742.729 432.063 741.393 432.686C740.056 433.31 738.585 433.291 737.327 432.758C739.355 431.302 741.642 430.236 744.061 429.617Z"
                 fill="#232323"
               />
               <path
                 id="Intersect_8"
-                fill-rule="evenodd"
-                clip-rule="evenodd"
+                fillRule="evenodd"
+                clipRule="evenodd"
                 d="M732.758 460.673C733.291 459.415 733.31 457.944 732.686 456.607C732.063 455.271 730.924 454.339 729.617 453.939C730.236 456.358 731.302 458.645 732.758 460.673Z"
                 fill="#232323"
               />
@@ -433,57 +433,57 @@ export function CarAnime(props: JSX.IntrinsicElements['svg']) {
             <g id="Group 1_2">
               <path
                 id="Intersect_9"
-                fill-rule="evenodd"
-                clip-rule="evenodd"
+                fillRule="evenodd"
+                clipRule="evenodd"
                 d="M634.801 459.215C635.443 458.007 635.59 456.543 635.085 455.156C634.581 453.77 633.527 452.742 632.259 452.23C632.458 453.439 632.772 454.647 633.206 455.84C633.64 457.034 634.177 458.161 634.801 459.215Z"
                 fill="#232323"
               />
               <path
                 id="Intersect_10"
-                fill-rule="evenodd"
-                clip-rule="evenodd"
+                fillRule="evenodd"
+                clipRule="evenodd"
                 d="M671.644 445.504C670.376 444.991 669.322 443.964 668.818 442.577C668.313 441.191 668.46 439.726 669.102 438.519C669.726 439.573 670.263 440.7 670.697 441.893C671.131 443.087 671.445 444.295 671.644 445.504Z"
                 fill="#232323"
               />
               <path
                 id="Intersect_11"
-                fill-rule="evenodd"
-                clip-rule="evenodd"
+                fillRule="evenodd"
+                clipRule="evenodd"
                 d="M663.673 432.758C662.415 433.291 660.943 433.31 659.607 432.686C658.27 432.063 657.339 430.925 656.939 429.617C659.358 430.236 661.644 431.302 663.673 432.758Z"
                 fill="#232323"
               />
               <path
                 id="Intersect_12"
-                fill-rule="evenodd"
-                clip-rule="evenodd"
+                fillRule="evenodd"
+                clipRule="evenodd"
                 d="M648.77 429.259C648.258 430.527 647.23 431.581 645.844 432.086C644.457 432.59 642.993 432.443 641.785 431.801C642.839 431.177 643.966 430.641 645.16 430.206C646.353 429.772 647.561 429.458 648.77 429.259Z"
                 fill="#232323"
               />
               <path
                 id="Intersect_13"
-                fill-rule="evenodd"
-                clip-rule="evenodd"
+                fillRule="evenodd"
+                clipRule="evenodd"
                 d="M662.215 466.199C661.161 466.823 660.034 467.359 658.84 467.794C657.647 468.228 656.439 468.542 655.23 468.741C655.742 467.473 656.77 466.419 658.156 465.914C659.543 465.41 661.007 465.557 662.215 466.199Z"
                 fill="#232323"
               />
               <path
                 id="Intersect_14"
-                fill-rule="evenodd"
-                clip-rule="evenodd"
+                fillRule="evenodd"
+                clipRule="evenodd"
                 d="M671.383 453.939C670.075 454.339 668.937 455.271 668.314 456.607C667.69 457.944 667.709 459.415 668.242 460.673C669.698 458.645 670.764 456.358 671.383 453.939Z"
                 fill="#232323"
               />
               <path
                 id="Intersect_15"
-                fill-rule="evenodd"
-                clip-rule="evenodd"
+                fillRule="evenodd"
+                clipRule="evenodd"
                 d="M635.758 437.327C636.291 438.585 636.31 440.056 635.687 441.393C635.063 442.729 633.925 443.661 632.617 444.061C633.236 441.642 634.303 439.355 635.758 437.327Z"
                 fill="#232323"
               />
               <path
                 id="Intersect_16"
-                fill-rule="evenodd"
-                clip-rule="evenodd"
+                fillRule="evenodd"
+                clipRule="evenodd"
                 d="M647.061 468.383C646.661 467.076 645.729 465.937 644.393 465.314C643.056 464.69 641.585 464.709 640.327 465.242C642.355 466.698 644.642 467.764 647.061 468.383Z"
                 fill="#232323"
               />
@@ -576,7 +576,7 @@ export function CarAnime(props: JSX.IntrinsicElements['svg']) {
             id="mark-line"
             d="M28 248 L50 270 L110 210"
             stroke="#E46D1E"
-            stroke-width="9"
+            strokeWidth="9"
           />
         </g>
       </g>

@@ -1,4 +1,4 @@
-import {useState} from 'react';
+import {useState, Fragment} from 'react';
 
 export function ToBeSimpleTenseTable() {
   const [show, setShow] = useState('');
@@ -11,6 +11,7 @@ export function ToBeSimpleTenseTable() {
 
   const contractionF = () => {
     setContraction((prev) => !prev);
+    setShow('');
   };
 
   return (
@@ -21,38 +22,32 @@ export function ToBeSimpleTenseTable() {
           <div className="grid grid-cols-10 grid-rows-22 gap-[2px] bg-cyan-200 dark:bg-cyan-900 rounded-lg">
             <button
               onClick={() => contractionF()}
-              className={`row-start-1 col-start-1 bg-cyan-10 dark:bg-cyan-70 rounded-lg overflow-hidden hover:bg-cyan-20 dark:hover:bg-cyan-60 + ${
-                (show === '11' && 'bg-cyan-20 dark:bg-cyan-60') || 'text-xs'
+              className={`row-start-1 col-start-1 bg-cyan-10 dark:bg-cyan-70 rounded-lg overflow-hidden text-xs hover:bg-cyan-20 dark:hover:bg-cyan-60 + ${
+                show === '11' && 'bg-cyan-20 dark:bg-cyan-60'
               }`}>
-              {contraction ? '⬅︎➡︎' : '➡︎⬅︎'}
+              {contraction ? '<>' : '><'}
             </button>
 
             <div
-              className={`col-span-1 row-span-1 col-start-1 row-start-2 rounded-lg overflow-hidden + ${
+              className={`col-span-1 col-start-1 row-start-2 rounded-lg overflow-hidden flex flex-col ${
                 show[0] === '1' && 'bg-cyan-10 dark:bg-cyan-60'
               }`}>
-              <br />
-              <br />
-              <br />✅
+              <p className=" flex-grow"></p>✅<p className=" flex-grow"></p>
             </div>
             <div
-              className={`col-span-1 row-start-3 col-start-1 rounded-lg overflow-hidden+ ${
+              className={`col-span-1 row-start-3 col-start-1 rounded-lg overflow-hidden flex flex-col ${
                 show[0] === '2' && 'bg-cyan-10 dark:bg-cyan-60'
               }`}>
-              <br />
-              <br />
-              <br />❌
+              <p className=" flex-grow"></p>❌<p className=" flex-grow"></p>
             </div>
             <div
-              className={`col-span-1 row-start-4 col-start-1  rounded-lg overflow-hidden + ${
+              className={`col-span-1 row-start-4 col-start-1  rounded-lg overflow-hidden flex flex-col ${
                 show[0] === '3' && 'bg-cyan-10 dark:bg-cyan-60'
               }`}>
-              <br />
-              <br />
-              <br />❔
+              <p className=" flex-grow"></p>❔<p className=" flex-grow"></p>
             </div>
             <div
-              className={`row-start-1 col-span-3 col-start-2 row-span-1 rounded-lg overflow-hidden + ${
+              className={`row-start-1 col-span-3 col-start-2 row-span-1 rounded-lg overflow-hidden ${
                 show[1] === '1' && 'bg-cyan-10 dark:bg-cyan-60'
               }`}>
               past
@@ -65,7 +60,7 @@ export function ToBeSimpleTenseTable() {
             </div>
             <div
               className={`col-span-3 col-start-8 row-span-1 rounded-lg overflow-hidden + ${
-                (show[1] === '3' && 'bg-cyan-10 dark:bg-cyan-60') || 'text-xs'
+                show[1] === '3' && 'bg-cyan-10 dark:bg-cyan-60'
               }`}>
               future
             </div>
