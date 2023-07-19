@@ -41,51 +41,9 @@ Are you confused by <CodeStep step={3}>to be</CodeStep> verbs? It’s okay. <Cod
 
 The correct <CodeStep step={3}>to be</CodeStep> verb to use depends on your subject and tense. This chart shows you proper subject verb agreement with <CodeStep step={3}>to be</CodeStep> verbs. 
 
-`Note: Contractions are short forms that will sound more like how people speak.`
+`Note: <>, >< Contractions are short forms that will sound more like how people speak.`
 
-<ToBeSimpleTenseTable/>
-
-## Example sentences using <CodeStep step={3}>to be</CodeStep> verbs {/*example-sentences-using-to-be-verbs*/}
-_These are examples of how you will see_ <CodeStep step={3}>to be</CodeStep> _verbs most often._
-
-<CodeStep step={3}>To be</CodeStep> verbs in positive present tense sentences
-
-   > * I `am` American.
-   > * He `is` a teacher.
-   > * She `is` happy. 
-   > * They `are` at the movies. 
-
-<CodeStep step={3}>To be</CodeStep> verbs in negative present tense sentences
-
-   > * I `am` not angry.
-   > * She `is` not at school.
-   > * It `is` not broken.
-   > * We `are` not students.
-
-<CodeStep step={3}>To be</CodeStep> verbs in affirmative past tense sentences
-
-   > * I `was` hungry. 
-   > * She `was` at the movies. 
-   > * You `were` there. 
-   > * It `was` great!. 
-   > * They `were` excited. 
-
-<CodeStep step={3}>To be</CodeStep> verbs in negative past tense sentences
-
-   > * I `was` not there.
-   > * You `were` not here. 
-   > * He `wasn’t` a teacher.
-   > * We `weren’t` at the restaurant. 
-
-Questions using <CodeStep step={3}>to be</CodeStep> verbs
-
-To make questions with be verbs, use this order: **To be verb** + **subject** + **complement** 
-
-    > * `Was` I there?
-    > * `Were` you sad?
-    > * `Was` she at school?
-    > * `Was` it a good movie?
-    > * `Were` they late?
+<ToBeSimpleTenseTable2/>
 
 ## Advanced Section {/*advanced-section*/}
 
