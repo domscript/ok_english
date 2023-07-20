@@ -268,7 +268,7 @@ export function ToBeProgressiveTenseTable() {
       <p>She will be being supportive of her friends.</p>
       <p>It will be being repaired by the technician.</p>
       <p>We will be being attentive in class.</p>
-      <p>They will be being considerate of others' feelings.</p>
+      <p>They will be being considerate of others&apos; feelings.</p>
     </>,
     <>
       <p>I was not being careless with my work last week.</p>
@@ -300,7 +300,7 @@ export function ToBeProgressiveTenseTable() {
     <>
       <p>Was I being too demanding during the negotiation?</p>
       <p>Were you being truthful with me last night?</p>
-      <p>Was he being considerate of others feelings at the time?</p>
+      <p>Was he being considerate of others&apos; feelings at the time?</p>
       <p>Was she being productive at work yesterday?</p>
       <p>Was it being fixed at that moment?</p>
       <p>Were we being supportive of the decision yesterday?</p>
@@ -309,7 +309,7 @@ export function ToBeProgressiveTenseTable() {
     <>
       <p>Am I being too demanding?</p>
       <p>Are you being truthful with me?</p>
-      <p>Is he being considerate of others feelings?</p>
+      <p>Is he being considerate of others&apos; feelings?</p>
       <p>Is she being productive at work?</p>
       <p>Is it being fixed right now?</p>
       <p>Are we being supportive of the decision?</p>
@@ -318,7 +318,7 @@ export function ToBeProgressiveTenseTable() {
     <>
       <p>Will I be being too demanding during the event?</p>
       <p>Will you be being honest with me?</p>
-      <p>Will he be being considerate of others feelings?</p>
+      <p>Will he be being considerate of others&apos; feelings?</p>
       <p>Will she be being productive at work tomorrow?</p>
       <p>Will it be being fixed by the mechanic?</p>
       <p>Will we be being supportive of the decision?</p>

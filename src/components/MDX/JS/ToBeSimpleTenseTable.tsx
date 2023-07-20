@@ -6,16 +6,9 @@ interface ButtonProps {
   onClick?: (event: React.MouseEvent<HTMLButtonElement, MouseEvent>) => void;
   active?: boolean;
   className?: string;
-  style?: Record<string, string>;
 }
 
-function Button({
-  children,
-  onClick,
-  active = false,
-  className,
-  style,
-}: ButtonProps) {
+function Button({children, onClick, active = false, className}: ButtonProps) {
   return (
     <button
       onClick={onClick}
@@ -34,10 +27,9 @@ interface DivProps {
   children: React.ReactNode;
   active?: boolean;
   className?: string;
-  style?: Record<string, string>;
 }
 
-function Div({children, active = false, className, style}: DivProps) {
+function Div({children, active = false, className}: DivProps) {
   return (
     <div
       className={cn(
@@ -57,7 +49,6 @@ export function ToBeSimpleTenseTable() {
   const [show, setShow] = useState('');
   const [contraction, setContraction] = useState(false);
 
-  // const showExample = (adverb: keyof typeof Data) => {
   const showExample = (num: string) => {
     setShow(num);
   };
