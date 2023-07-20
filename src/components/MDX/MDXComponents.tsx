@@ -31,8 +31,10 @@ import type {Toc, TocItem} from './TocContext';
 import {TeamMember} from './TeamMember';
 import {FunctionData} from './JS/FunctionData';
 import {AdverbsTable} from './JS/AdverbsTable';
-import {ToBeSimpleTenseTable} from './JS/ToBeSimpleTenseTable';
+import {SimpleTenseTable} from './JS/SimpleTenseTable';
 import {ToBeSimpleTenseTable2} from './JS/ToBeSimpleTenseTable2';
+import {ToBePerfectTenseTable} from './JS/ToBePerfectTenseTable';
+import {ToBeProgressiveTenseTable} from './JS/ToBeProgressiveTenseTable';
 import {ClassData} from './JS/ClassData';
 import {LogoLink} from './LogoLink';
 
@@ -51,6 +53,7 @@ function CodeStep({children, step}: {children: any; step: number}) {
             step === 3,
           'bg-green-40 border-green-40 text-green-60 dark:text-green-30':
             step === 4,
+          'bg-red-40 border-red-40 text-red-60 dark:text-red-30': step === 5,
         }
       )}>
       {children}
@@ -445,8 +448,10 @@ export const MDXComponents = {
   YouTubeIframe,
   FunctionData,
   AdverbsTable,
-  ToBeSimpleTenseTable,
+  SimpleTenseTable,
   ToBeSimpleTenseTable2,
+  ToBePerfectTenseTable,
+  ToBeProgressiveTenseTable,
   ClassData,
   LogoLink,
 };

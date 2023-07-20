@@ -53,7 +53,7 @@ function Div({children, active = false, className}: DivProps) {
   );
 }
 
-export function ToBeSimpleTenseTable2() {
+export function ToBePerfectTenseTable() {
   const [show, setShow] = useState('');
   const [contraction, setContraction] = useState(false);
   const [ex, setEx] = useState(0);
@@ -75,221 +75,253 @@ export function ToBeSimpleTenseTable2() {
 
   const data = [
     <>
-      <p>I was ...</p>
-      <p>You were ...</p>
-      <p>He was ...</p>
-      <p>She was ...</p>
-      <p>It was ...</p>
-      <p>We were ...</p>
-      <p>They were ...</p>
-    </>,
-    <>
       {contraction ? (
         <>
-          <p>I&apos;m ...</p>
-          <p>You&apos;re ...</p>
-          <p>He&apos;s ...</p>
-          <p>She&apos;s ...</p>
-          <p>It&apos;s ...</p>
-          <p>We&apos;re ...</p>
-          <p>They&apos;re ...</p>
+          <p>I&apos;d been ...</p>
+          <p>You&apos;d been ...</p>
+          <p>He&apos;d been ...</p>
+          <p>She&apos;d been ...</p>
+          <p>It&apos;d been ...</p>
+          <p>We&apos;d been ...</p>
+          <p>They&apos;d been ...</p>
         </>
       ) : (
         <>
-          <p>I am ...</p>
-          <p>You are ...</p>
-          <p>He is ...</p>
-          <p>She is ...</p>
-          <p>It is ...</p>
-          <p>We are ...</p>
-          <p>They are ...</p>
+          <p>I had been ...</p>
+          <p>You had been ...</p>
+          <p>He had been ...</p>
+          <p>She had been ...</p>
+          <p>It had been ...</p>
+          <p>We had been ...</p>
+          <p>They had been ...</p>
         </>
       )}
     </>,
     <>
       {contraction ? (
         <>
-          <p>I&apos;ll be ...</p>
-          <p>You&apos;ll be ...</p>
-          <p>He&apos;ll be ...</p>
-          <p>She&apos;ll be ...</p>
-          <p>It&apos;ll be ...</p>
-          <p>We&apos;ll be ...</p>
-          <p>They&apos;ll be ...</p>
+          <p>I&apos;ve been ...</p>
+          <p>You&apos;ve been ...</p>
+          <p>He&apos;s been ...</p>
+          <p>She&apos;s been ...</p>
+          <p>It&apos;s been ...</p>
+          <p>We&apos;ve been ...</p>
+          <p>They&apos;ve been ...</p>
         </>
       ) : (
         <>
-          <p>I will be ...</p>
-          <p>You will be ...</p>
-          <p>He will be ...</p>
-          <p>She will be ...</p>
-          <p>It will be ...</p>
-          <p>We will be ...</p>
-          <p>They will be ...</p>
+          <p>I have been ...</p>
+          <p>You have been ...</p>
+          <p>He has been ...</p>
+          <p>She has been ...</p>
+          <p>It has been ...</p>
+          <p>We have been ...</p>
+          <p>They have been ...</p>
         </>
       )}
     </>,
     <>
       {contraction ? (
         <>
-          <p>I wasn&apos;t ...</p>
-          <p>You weren&apos;t ...</p>
-          <p>He wasn&apos;t ...</p>
-          <p>She wasn&apos;t ...</p>
-          <p>It wasn&apos;t ...</p>
-          <p>We weren&apos;t ...</p>
-          <p>They weren&apos;t ...</p>
+          <p>I&apos;ll have been ...</p>
+          <p>You&apos;ll have been ...</p>
+          <p>He&apos;ll have been ...</p>
+          <p>She&apos;ll have been ...</p>
+          <p>It&apos;ll have been a ...</p>
+          <p>We&apos;ll have been ...</p>
+          <p>They&apos;ll have been ...</p>
         </>
       ) : (
         <>
-          <p>I was not ...</p>
-          <p>You were not ...</p>
-          <p>He was not ...</p>
-          <p>She was not ...</p>
-          <p>It was not ...</p>
-          <p>We were not ...</p>
-          <p>They were not ...</p>
+          <p>I will have been ...</p>
+          <p>You will have been ...</p>
+          <p>He will have been ...</p>
+          <p>She will have been ...</p>
+          <p>It will have been a ...</p>
+          <p>We will have been ...</p>
+          <p>They will have been ...</p>
         </>
       )}
     </>,
     <>
       {contraction ? (
         <>
-          <p>I&apos;m not ...</p>
-          <p>You&apos;re not ...</p>
-          <p>He&apos;s not ...</p>
-          <p>She&apos;s not ...</p>
-          <p>It&apos;s not ...</p>
-          <p>We&apos;re not ...</p>
-          <p>They&apos;re not ...</p>
+          <p>I hadn&apos;t been ...</p>
+          <p>You hadn&apos;t been ...</p>
+          <p>He hadn&apos;t been ...</p>
+          <p>She hadn&apos;t been ...</p>
+          <p>It hadn&apos;t been ...</p>
+          <p>We hadn&apos;t been ...</p>
+          <p>They hadn&apos;t been ...</p>
         </>
       ) : (
         <>
-          <p>I am not ...</p>
-          <p>You are not ...</p>
-          <p>He is not ...</p>
-          <p>She is not ...</p>
-          <p>It is not ...</p>
-          <p>We are not ...</p>
-          <p>They are not ...</p>
+          <p>I had not been ...</p>
+          <p>You had not been ...</p>
+          <p>He had not been ...</p>
+          <p>She had not been ...</p>
+          <p>It had not been ...</p>
+          <p>We had not been ...</p>
+          <p>They had not been ...</p>
         </>
       )}
     </>,
     <>
       {contraction ? (
         <>
-          <p>I won&apos;t be ...</p>
-          <p>You won&apos;t be ...</p>
-          <p>He won&apos;t be ...</p>
-          <p>She won&apos;t be ...</p>
-          <p>It won&apos;t be ...</p>
-          <p>We won&apos;t be ...</p>
-          <p>They won&apos;t be ...</p>
+          <p>I haven&apos;t been ...</p>
+          <p>You haven&apos;t been ...</p>
+          <p>He hasn&apos;t been ...</p>
+          <p>She hasn&apos;t been ...</p>
+          <p>It hasn&apos;t been ...</p>
+          <p>We haven&apos;t been ...</p>
+          <p>They haven&apos;t been ...</p>
         </>
       ) : (
         <>
-          <p>I will not be ...</p>
-          <p>You will not be ...</p>
-          <p>He will not be ...</p>
-          <p>She will not be ...</p>
-          <p>It will not be ...</p>
-          <p>We will not be ...</p>
-          <p>They will not be ...</p>
+          <p>I have not been ...</p>
+          <p>You have not been ...</p>
+          <p>He has not been ...</p>
+          <p>She has not been ...</p>
+          <p>It has not been ...</p>
+          <p>We have not been ...</p>
+          <p>They have not been ...</p>
         </>
       )}
     </>,
     <>
-      <p>Was I ...?</p>
-      <p>Were You ...?</p>
-      <p>Was He ...?</p>
-      <p>Was She ...?</p>
-      <p>Was It ...?</p>
-      <p>Were We ...?</p>
-      <p>Were They ...?</p>
+      {contraction ? (
+        <>
+          <p>I won&apos;t have been ...</p>
+          <p>You won&apos;t have been ...</p>
+          <p>He won&apos;t have been ...</p>
+          <p>She won&apos;t have been ...</p>
+          <p>It won&apos;t have been ...</p>
+          <p>We won&apos;t have been ...</p>
+          <p>They won&apos;t have been ...</p>
+        </>
+      ) : (
+        <>
+          <p>I will not have been ...</p>
+          <p>You will not have been ...</p>
+          <p>He will not have been ...</p>
+          <p>She will not have been ...</p>
+          <p>It will not have been ...</p>
+          <p>We will not have been ...</p>
+          <p>They will not have been ...</p>
+        </>
+      )}
     </>,
     <>
-      <p>Am I ...?</p>
-      <p>Are You ...?</p>
-      <p>Is He ...?</p>
-      <p>Is She ...?</p>
-      <p>Is It ...?</p>
-      <p>Are We ...?</p>
-      <p>Are They ...?</p>
+      <p>Had I been ...?</p>
+      <p>Had you been ...?</p>
+      <p>Had he been ...?</p>
+      <p>Had she been ...?</p>
+      <p>Had it been ...?</p>
+      <p>Had we been ...?</p>
+      <p>Had they been ...?</p>
     </>,
     <>
-      <p>Will I be ...?</p>
-      <p>Will You be ...?</p>
-      <p>Will He be ...?</p>
-      <p>Will She be ...?</p>
-      <p>Will It be ...?</p>
-      <p>Will We be ...?</p>
-      <p>Will They be ...?</p>
+      <p>Have I been ...?</p>
+      <p>Have you been ...?</p>
+      <p>Has he been ...?</p>
+      <p>Has she been ...?</p>
+      <p>Has it been ...?</p>
+      <p>Have we been ...?</p>
+      <p>Have they been ...?</p>
+    </>,
+    <>
+      <p>Will I have been ...?</p>
+      <p>Will you have been ...?</p>
+      <p>Will he have been ...?</p>
+      <p>Will she have been ...</p>
+      <p>Will it have been ...?</p>
+      <p>Will we have been ...?</p>
+      <p>Will they have been ...?</p>
     </>,
   ];
 
   const examples = [
     <>
-      <p>I was hungry.</p>
-      <p>She was at the movies.</p>
-      <p>You were there.</p>
-      <p>It was great!.</p>
-      <p>They were excited.</p>
+      <p>I had been there before they arrived.</p>
+      <p>You had been so helpful during the project.</p>
+      <p>He had been to that place several times.</p>
+      <p>She had been waiting for an hour.</p>
+      <p>It had been a challenging experience.</p>
+      <p>We had been working on this issue all day.</p>
+      <p>They had been friends since childhood.</p>
     </>,
     <>
-      <h3 className="text-cyan-70 dark:text-cyan-40">
-        Things that happen time to time or habits
-      </h3>
-      <p>I am American.</p>
-      <p>He is a teacher.</p>
-      <p>She is happy.</p>
-      <p>They are at the movies.</p>
+      <p>I have been here before.</p>
+      <p>You have been very kind to me.</p>
+      <p>He has been an excellent student.</p>
+      <p>She has been to that restaurant many times.</p>
+      <p>It&apos;s been a long day.</p>
+      <p>We have been friends for years.</p>
+      <p>They have been working hard.</p>
     </>,
     <>
-      <p>I will be happy to help.</p>
-      <p>She will be happy.</p>
-      <p>It will be sunny tomorrow.</p>
-      <p>They will be late.</p>
+      <p>I will have been there before you arrive.</p>
+      <p>You will have been very helpful throughout the project.</p>
+      <p>He will have been to that place by next month.</p>
+      <p>She will have been waiting for an hour by then.</p>
+      <p>It will have been a challenging experience by the end.</p>
+      <p>We will have been working on this issue all day long.</p>
+      <p>They will have been friends for ten years.</p>
     </>,
     <>
-      <p>I was&apos;t there.</p>
-      <p>You were not here.</p>
-      <p>He wasn&apos;t a teacher.</p>
-      <p>We weren&apos;t at the restaurant.</p>
+      <p>I had not been to that country previously.</p>
+      <p>You had not been supportive lately.</p>
+      <p>He had not been feeling well for days.</p>
+      <p>She had not been to that event before.</p>
+      <p>It had not been easy for us to manage.</p>
+      <p>We had not been successful in our attempts.</p>
+      <p>They had not been in touch for years.</p>
     </>,
     <>
-      <p>I am not angry.</p>
-      <p>He is not here.</p>
-      <p>She isn&apos;t feeling well.</p>
-      <p>It isn&apos;t working.</p>
-      <p>We are not students.</p>
+      <p>I have not been to that place yet.</p>
+      <p>You have not been helpful lately.</p>
+      <p>He has not been feeling well.</p>
+      <p>She has not been to the gym recently.</p>
+      <p>It has not been easy for them.</p>
+      <p>We have not been successful in our attempts.</p>
+      <p>They have not been getting along.</p>
     </>,
     <>
-      <p>I won&apos;t be available tomorrow.</p>
-      <p>You won&apos;t be alone.</p>
-      <p>She will not be able to come today.</p>
-      <p>It won&apos;t be easy to solve.</p>
-      <p>They won&apos;t be happy with the news.</p>
+      <p>I will not have been to that country before the trip.</p>
+      <p>You will not have been supportive lately.</p>
+      <p>He will not have been feeling well for days.</p>
+      <p>She will not have been to that event by the time it starts.</p>
+      <p>It will not have been easy for us to accomplish that task.</p>
+      <p>We will not have been successful in our attempts by then.</p>
+      <p>They will not have been in touch for a while.</p>
     </>,
     <>
-      <p>Was I there?</p>
-      <p>Were you sad?</p>
-      <p>Was she at school?</p>
-      <p>Was it a good movie?</p>
-      <p>Were they late?</p>
+      <p>Had I been clear in my instructions?</p>
+      <p>Had you been waiting for a long time?</p>
+      <p>Had he been to this city before?</p>
+      <p>Had she been feeling unwell lately?</p>
+      <p>Had it been raining all day long?</p>
+      <p>Had we been doing the right thing?</p>
+      <p>Had they been expecting our arrival?</p>
     </>,
     <>
-      <p>Are you ready now?</p>
-      <p>Is she at home?</p>
-      <p>Is he busy right now?</p>
-      <p>Are we late again?</p>
-      <p>Are they coming tonight?</p>
+      <p>Have I been helpful to you?</p>
+      <p>Have you been studying for the exam?</p>
+      <p>Has he been there?</p>
+      <p>Has she been to this city before?</p>
+      <p>Has it been raining all day?</p>
+      <p>Have we been doing the right thing?</p>
+      <p>Have they been practicing for the performance?</p>
     </>,
     <>
-      <p>Will he come to the party tonight?</p>
-      <p>Will she pass the test?</p>
-      <p>Will you join us later?</p>
-      <p>Will it rain tomorrow?</p>
-      <p>Will they attend the meeting?</p>
+      <p>Will I have been clear in my instructions by then?</p>
+      <p>Will you have been waiting for a long time when I arrive?</p>
+      <p>Will he have been to this city before next week?</p>
+      <p>Will she have been feeling unwell for a while?</p>
+      <p>Will it have been raining all day long by the time we get there?</p>
+      <p>Will we have been doing the right thing by the end of the month?</p>
+      <p>Will they have been expecting our arrival at that time?</p>
     </>,
   ];
 
@@ -336,7 +368,7 @@ export function ToBeSimpleTenseTable2() {
               {ex === 1 && show[1] !== '2' ? 'p' : 'present'}
             </Div>
             <Div
-              className={`${
+              className={` ${
                 ex === 1
                   ? show[1] === '3'
                     ? 'col-span-7 col-start-4'

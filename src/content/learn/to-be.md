@@ -37,7 +37,7 @@ Are you confused by <CodeStep step={3}>to be</CodeStep> verbs? It’s okay. <Cod
 | Things that happen **time to time** or **habits**                             | `present`       | <CodeStep step={3}>am</CodeStep>, <CodeStep step={3}>is</CodeStep>, <CodeStep step={3}>are</CodeStep> |
 | Describing the subject at a time **before** now                               | `past`            | <CodeStep step={3}>was</CodeStep>, <CodeStep step={3}>were</CodeStep> |
 | Happening `now`                                                               | `present progressive` | <CodeStep step={3}>being</CodeStep> |
-| Desxribing the subject at a later time                                        | `future`              | <CodeStep step={3}>be</CodeStep>    |
+| Describing the subject at a later time                                        | `future`              | <CodeStep step={3}>be</CodeStep>    |
 | To describe **experiences** when the time is not important                    | `past participle`     | <CodeStep step={3}>were</CodeStep>  |
 | Giving **suggestions**                                                        | `present subjunctive` | <CodeStep step={3}>be</CodeStep>    |
 | **Imaginary** or **hypothetical** situations                                  | `past subjunctive`    | <CodeStep step={3}>were</CodeStep>  |
@@ -49,30 +49,17 @@ The previous section contained examples of what most beginners need to learn for
 
 **The present perfect form**
 
+<ToBePerfectTenseTable/>
+
 The present perfect form is used for describing experiences or events that have happened in the past when the exact time is not important. 
-
-It uses this structure: subject + has/have + been + complement
-
-    > Examples:
-    > * I have been there. 
-    > * You have been good. 
-    > * It has been difficult. 
-    > * He has been an electrician.
-    > * We have been here all day. 
-    > * They have been well-behaved. 
-
-Asking questions using the present perfect form. 
-Questions in the present perfect perform form use the structure: Has/have + subject + been + complement
-
-      > Examples:
-      > * Have I been mean?
-      > * Have you been worried?
-      > * Has he been there? 
-      > * Have they been anxious? 
 
 **The Present Progressive Form**
 
-The present progressive form is for describing continuous or ongoing actions happening right now vs the simple present which describes habits or things which happen now and again. 
+The present progressive form is for describing continuous or ongoing actions happening right now vs the simple present which describes habits or things which happen now and again.
+
+<ToBeProgressiveTenseTable/>
+
+>While the <CodeStep step={5}>red colored phrases</CodeStep> are grammatically correct, they are quite rare in everyday English usage. It is generally not commonly used because it can sound awkward and redundant. Instead, we tend to use simpler constructions to express the same idea.
 
 Use this structure for the present progressive tense for “to be” verbs: 
 
@@ -88,7 +75,7 @@ Subject + be verb + verb + ing
       > * They are thinking. 
 
  
-**Question tags using “to be” verbs **
+**Question tags using “to be” verbs**
 
 You can add a question tag to the end of a statement to turn it into a question. To put question tags onto sentences using “to be” verbs, use this structure: 
 

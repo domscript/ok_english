@@ -53,7 +53,7 @@ function Div({children, active = false, className}: DivProps) {
   );
 }
 
-export function ToBeSimpleTenseTable2() {
+export function SimpleTenseTable() {
   const [show, setShow] = useState('');
   const [contraction, setContraction] = useState(false);
   const [ex, setEx] = useState(0);
@@ -75,229 +75,161 @@ export function ToBeSimpleTenseTable2() {
 
   const data = [
     <>
-      <p>I was ...</p>
-      <p>You were ...</p>
-      <p>He was ...</p>
-      <p>She was ...</p>
-      <p>It was ...</p>
-      <p>We were ...</p>
-      <p>They were ...</p>
+      <p>I danced</p>
+      <p>You danced</p>
+      <p>He danced</p>
+      <p>She danced</p>
+      <p>It danced</p>
+      <p>We danced</p>
+      <p>They danced</p>
+    </>,
+    <>
+      <p>I dance</p>
+      <p>You dance</p>
+      <p>He dances</p>
+      <p>She dances</p>
+      <p>It dances</p>
+      <p>We dance</p>
+      <p>They dance</p>
     </>,
     <>
       {contraction ? (
         <>
-          <p>I&apos;m ...</p>
-          <p>You&apos;re ...</p>
-          <p>He&apos;s ...</p>
-          <p>She&apos;s ...</p>
-          <p>It&apos;s ...</p>
-          <p>We&apos;re ...</p>
-          <p>They&apos;re ...</p>
+          <p>I&apos;ll dance</p>
+          <p>You&apos;ll dance</p>
+          <p>He&apos;ll dance</p>
+          <p>She&apos;ll dance</p>
+          <p>It&apos;ll dance</p>
+          <p>We&apos;ll dance</p>
+          <p>They&apos;ll dance</p>
         </>
       ) : (
         <>
-          <p>I am ...</p>
-          <p>You are ...</p>
-          <p>He is ...</p>
-          <p>She is ...</p>
-          <p>It is ...</p>
-          <p>We are ...</p>
-          <p>They are ...</p>
+          <p>I will dance</p>
+          <p>You will dance</p>
+          <p>He will dance</p>
+          <p>She will dance</p>
+          <p>It will dance</p>
+          <p>We will dance</p>
+          <p>They will dance</p>
         </>
       )}
     </>,
     <>
       {contraction ? (
         <>
-          <p>I&apos;ll be ...</p>
-          <p>You&apos;ll be ...</p>
-          <p>He&apos;ll be ...</p>
-          <p>She&apos;ll be ...</p>
-          <p>It&apos;ll be ...</p>
-          <p>We&apos;ll be ...</p>
-          <p>They&apos;ll be ...</p>
+          <p>I didn&apos;t dance</p>
+          <p>You didn&apos;t dance</p>
+          <p>He didn&apos;t dance</p>
+          <p>She didn&apos;t dance</p>
+          <p>It didn&apos;t dance</p>
+          <p>We didn&apos;t dance</p>
+          <p>They didn&apos;t dance</p>
         </>
       ) : (
         <>
-          <p>I will be ...</p>
-          <p>You will be ...</p>
-          <p>He will be ...</p>
-          <p>She will be ...</p>
-          <p>It will be ...</p>
-          <p>We will be ...</p>
-          <p>They will be ...</p>
+          <p>I did not dance</p>
+          <p>You did not dance</p>
+          <p>He did not dance</p>
+          <p>She did not dance</p>
+          <p>It did not dance</p>
+          <p>We did not dance</p>
+          <p>They did not dance</p>
         </>
       )}
     </>,
     <>
       {contraction ? (
         <>
-          <p>I wasn&apos;t ...</p>
-          <p>You weren&apos;t ...</p>
-          <p>He wasn&apos;t ...</p>
-          <p>She wasn&apos;t ...</p>
-          <p>It wasn&apos;t ...</p>
-          <p>We weren&apos;t ...</p>
-          <p>They weren&apos;t ...</p>
+          <p>I don&apos;t dance</p>
+          <p>You don&apos;t dance</p>
+          <p>He doesn&apos;t dance</p>
+          <p>She doesn&apos;t dance</p>
+          <p>It doesn&apos;t dance</p>
+          <p>We don&apos;t dance</p>
+          <p>They don&apos;t dance</p>
         </>
       ) : (
         <>
-          <p>I was not ...</p>
-          <p>You were not ...</p>
-          <p>He was not ...</p>
-          <p>She was not ...</p>
-          <p>It was not ...</p>
-          <p>We were not ...</p>
-          <p>They were not ...</p>
+          <p>I do not dance</p>
+          <p>You do not dance</p>
+          <p>He does not dance</p>
+          <p>She does not dance</p>
+          <p>It does not dance</p>
+          <p>We do not dance</p>
+          <p>They do not dance</p>
         </>
       )}
     </>,
     <>
       {contraction ? (
         <>
-          <p>I&apos;m not ...</p>
-          <p>You&apos;re not ...</p>
-          <p>He&apos;s not ...</p>
-          <p>She&apos;s not ...</p>
-          <p>It&apos;s not ...</p>
-          <p>We&apos;re not ...</p>
-          <p>They&apos;re not ...</p>
+          <p>I won&apos;t dance</p>
+          <p>You won&apos;t dance</p>
+          <p>He won&apos;t dance</p>
+          <p>She won&apos;t dance</p>
+          <p>It won&apos;t dance</p>
+          <p>We won&apos;t dance</p>
+          <p>They won&apos;t dance</p>
         </>
       ) : (
         <>
-          <p>I am not ...</p>
-          <p>You are not ...</p>
-          <p>He is not ...</p>
-          <p>She is not ...</p>
-          <p>It is not ...</p>
-          <p>We are not ...</p>
-          <p>They are not ...</p>
+          <p>I will not dance</p>
+          <p>You will not dance</p>
+          <p>He will not dance</p>
+          <p>She will not dance</p>
+          <p>It will not dance</p>
+          <p>We will not dance</p>
+          <p>They will not dance</p>
         </>
       )}
     </>,
     <>
-      {contraction ? (
-        <>
-          <p>I won&apos;t be ...</p>
-          <p>You won&apos;t be ...</p>
-          <p>He won&apos;t be ...</p>
-          <p>She won&apos;t be ...</p>
-          <p>It won&apos;t be ...</p>
-          <p>We won&apos;t be ...</p>
-          <p>They won&apos;t be ...</p>
-        </>
-      ) : (
-        <>
-          <p>I will not be ...</p>
-          <p>You will not be ...</p>
-          <p>He will not be ...</p>
-          <p>She will not be ...</p>
-          <p>It will not be ...</p>
-          <p>We will not be ...</p>
-          <p>They will not be ...</p>
-        </>
-      )}
+      <p>Did I dance</p>
+      <p>Did You dance</p>
+      <p>Did He dance</p>
+      <p>Did She dance</p>
+      <p>Did It dance</p>
+      <p>Did We dance</p>
+      <p>Did They dance</p>
     </>,
     <>
-      <p>Was I ...?</p>
-      <p>Were You ...?</p>
-      <p>Was He ...?</p>
-      <p>Was She ...?</p>
-      <p>Was It ...?</p>
-      <p>Were We ...?</p>
-      <p>Were They ...?</p>
+      <p>Do I dance</p>
+      <p>Do You dance</p>
+      <p>Does He dance</p>
+      <p>Does She dance</p>
+      <p>Does It dance</p>
+      <p>Do We dance</p>
+      <p>Do They dance</p>
     </>,
     <>
-      <p>Am I ...?</p>
-      <p>Are You ...?</p>
-      <p>Is He ...?</p>
-      <p>Is She ...?</p>
-      <p>Is It ...?</p>
-      <p>Are We ...?</p>
-      <p>Are They ...?</p>
-    </>,
-    <>
-      <p>Will I be ...?</p>
-      <p>Will You be ...?</p>
-      <p>Will He be ...?</p>
-      <p>Will She be ...?</p>
-      <p>Will It be ...?</p>
-      <p>Will We be ...?</p>
-      <p>Will They be ...?</p>
+      <p>Will I dance</p>
+      <p>Will You dance</p>
+      <p>Will He dance</p>
+      <p>Will She dance</p>
+      <p>Will It dance</p>
+      <p>Will We dance</p>
+      <p>Will They dance</p>
     </>,
   ];
 
   const examples = [
-    <>
-      <p>I was hungry.</p>
-      <p>She was at the movies.</p>
-      <p>You were there.</p>
-      <p>It was great!.</p>
-      <p>They were excited.</p>
-    </>,
-    <>
-      <h3 className="text-cyan-70 dark:text-cyan-40">
-        Things that happen time to time or habits
-      </h3>
-      <p>I am American.</p>
-      <p>He is a teacher.</p>
-      <p>She is happy.</p>
-      <p>They are at the movies.</p>
-    </>,
-    <>
-      <p>I will be happy to help.</p>
-      <p>She will be happy.</p>
-      <p>It will be sunny tomorrow.</p>
-      <p>They will be late.</p>
-    </>,
-    <>
-      <p>I was&apos;t there.</p>
-      <p>You were not here.</p>
-      <p>He wasn&apos;t a teacher.</p>
-      <p>We weren&apos;t at the restaurant.</p>
-    </>,
-    <>
-      <p>I am not angry.</p>
-      <p>He is not here.</p>
-      <p>She isn&apos;t feeling well.</p>
-      <p>It isn&apos;t working.</p>
-      <p>We are not students.</p>
-    </>,
-    <>
-      <p>I won&apos;t be available tomorrow.</p>
-      <p>You won&apos;t be alone.</p>
-      <p>She will not be able to come today.</p>
-      <p>It won&apos;t be easy to solve.</p>
-      <p>They won&apos;t be happy with the news.</p>
-    </>,
-    <>
-      <p>Was I there?</p>
-      <p>Were you sad?</p>
-      <p>Was she at school?</p>
-      <p>Was it a good movie?</p>
-      <p>Were they late?</p>
-    </>,
-    <>
-      <p>Are you ready now?</p>
-      <p>Is she at home?</p>
-      <p>Is he busy right now?</p>
-      <p>Are we late again?</p>
-      <p>Are they coming tonight?</p>
-    </>,
-    <>
-      <p>Will he come to the party tonight?</p>
-      <p>Will she pass the test?</p>
-      <p>Will you join us later?</p>
-      <p>Will it rain tomorrow?</p>
-      <p>Will they attend the meeting?</p>
-    </>,
+    <></>,
+    <></>,
+    <></>,
+    <></>,
+    <></>,
+    <></>,
+    <></>,
+    <></>,
+    <></>,
   ];
 
   return (
     <>
       <div className="grid-rows-2 bg-gray-200 dark:bg-gray-700 text-center rounded-lg">
         <div className=" flex-col">
-          <h2>to be</h2>
+          <h2>dance</h2>
           <div className="grid grid-cols-10 grid-rows-22 gap-[2px] bg-cyan-200 dark:bg-cyan-900 rounded-lg">
             <Button
               onClick={() => contractionF()}
@@ -336,7 +268,7 @@ export function ToBeSimpleTenseTable2() {
               {ex === 1 && show[1] !== '2' ? 'p' : 'present'}
             </Div>
             <Div
-              className={`${
+              className={` ${
                 ex === 1
                   ? show[1] === '3'
                     ? 'col-span-7 col-start-4'
