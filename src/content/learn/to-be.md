@@ -49,13 +49,18 @@ The previous section contained examples of what most beginners need to learn for
 
 **The present perfect form**
 
+The present perfect form is used for describing experiences or events that have happened in the past when the exact time is not important.
+
+**The past perfect form, The present perfect form, The future perfect form**
+
 <ToBePerfectTenseTable/>
 
-The present perfect form is used for describing experiences or events that have happened in the past when the exact time is not important. 
 
 **The Present Progressive Form**
 
 The present progressive form is for describing continuous or ongoing actions happening right now vs the simple present which describes habits or things which happen now and again.
+
+**The past progressive form, The present progressive form, The future progressive form**
 
 <ToBeProgressiveTenseTable/>
 
@@ -74,8 +79,7 @@ Subject + be verb + verb + ing
       > * We are traveling. 
       > * They are thinking. 
 
- 
-**Question tags using “to be” verbs**
+### Question tags using “to be” verbs {/*question-tags-using-to-be-verbs*/}
 
 You can add a question tag to the end of a statement to turn it into a question. To put question tags onto sentences using “to be” verbs, use this structure: 
 
