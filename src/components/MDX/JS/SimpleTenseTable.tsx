@@ -214,15 +214,87 @@ export function SimpleTenseTable() {
   ];
 
   const examples = [
-    <></>,
-    <></>,
-    <></>,
-    <></>,
-    <></>,
-    <></>,
-    <></>,
-    <></>,
-    <></>,
+    <>
+      <p>I danced</p>
+      <p>You danced</p>
+      <p>He danced</p>
+      <p>She danced</p>
+      <p>It danced</p>
+      <p>We danced</p>
+      <p>They danced</p>
+    </>,
+    <>
+      <p>I dance</p>
+      <p>You dance</p>
+      <p>He dances</p>
+      <p>She dances</p>
+      <p>It dances</p>
+      <p>We dance</p>
+      <p>They dance</p>
+    </>,
+    <>
+      <p>I&apos;ll dance</p>
+      <p>You&apos;ll dance</p>
+      <p>He&apos;ll dance</p>
+      <p>She&apos;ll dance</p>
+      <p>It&apos;ll dance</p>
+      <p>We&apos;ll dance</p>
+      <p>They&apos;ll dance</p>
+    </>,
+    <>
+      <p>I didn&apos;t dance</p>
+      <p>You didn&apos;t dance</p>
+      <p>He didn&apos;t dance</p>
+      <p>She didn&apos;t dance</p>
+      <p>It didn&apos;t dance</p>
+      <p>We didn&apos;t dance</p>
+      <p>They didn&apos;t dance</p>
+    </>,
+    <>
+      <p>I don&apos;t dance</p>
+      <p>You don&apos;t dance</p>
+      <p>He doesn&apos;t dance</p>
+      <p>She doesn&apos;t dance</p>
+      <p>It doesn&apos;t dance</p>
+      <p>We don&apos;t dance</p>
+      <p>They don&apos;t dance</p>
+    </>,
+    <>
+      <p>I won&apos;t dance</p>
+      <p>You won&apos;t dance</p>
+      <p>He won&apos;t dance</p>
+      <p>She won&apos;t dance</p>
+      <p>It won&apos;t dance</p>
+      <p>We won&apos;t dance</p>
+      <p>They won&apos;t dance</p>
+    </>,
+    <>
+      <p>Did I dance</p>
+      <p>Did You dance</p>
+      <p>Did He dance</p>
+      <p>Did She dance</p>
+      <p>Did It dance</p>
+      <p>Did We dance</p>
+      <p>Did They dance</p>
+    </>,
+    <>
+      <p>Do I dance</p>
+      <p>Do You dance</p>
+      <p>Does He dance</p>
+      <p>Does She dance</p>
+      <p>Does It dance</p>
+      <p>Do We dance</p>
+      <p>Do They dance</p>
+    </>,
+    <>
+      <p>Will I dance</p>
+      <p>Will You dance</p>
+      <p>Will He dance</p>
+      <p>Will She dance</p>
+      <p>Will It dance</p>
+      <p>Will We dance</p>
+      <p>Will They dance</p>{' '}
+    </>,
   ];
 
   return (
